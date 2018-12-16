@@ -1,0 +1,169 @@
+﻿<Window x:Class="Aikido.VIEW.RegisterMemberScreen"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             xmlns:local="clr-namespace:Aikido.VIEW"
+             mc:Ignorable="d" 
+             Title="Đăng Ký Hội Viên" Height="663 " Width="955" ResizeMode="NoResize" WindowStartupLocation="CenterScreen">
+    <Grid Height="60" HorizontalAlignment="Center" VerticalAlignment="Top" Margin="0,0,0,0" Width="935">
+        <Grid Height="60" HorizontalAlignment="Center" VerticalAlignment="Top" Margin="10,0,0,0" Width="935">
+            <!--<Grid.ColumnDefinitions>
+                <ColumnDefinition Width="61*"/>
+                <ColumnDefinition Width="874*"/>
+            </Grid.ColumnDefinitions>-->
+            <Menu Margin="0,0,770,10" Name="btnDKHV"
+               Mouse.MouseEnter="btnDKHV_MouseEnter" Mouse.MouseLeave="btnDKHV_MouseLeave"
+               Background="LightGray" Foreground="Blue" 
+               TextElement.FontFamily="Arial" TextElement.FontSize="15" TextElement.FontStyle="Normal" TextElement.FontWeight="Bold"
+               HorizontalContentAlignment="Center" VerticalContentAlignment="Center" Grid.ColumnSpan="2">
+                <MenuItem  Header="    Đăng Ký Hội Viên" Height="50" Width="165" Click="Register_Click"></MenuItem>
+            </Menu>
+
+
+            <Menu Name="btnSearch" FontSize="15" FontWeight="Bold" Background="White" FontStyle="Normal" Foreground="Blue" Margin="170,0,605,10" Mouse.MouseEnter="btnSearch_MouseEnter" Mouse.MouseLeave="btnSearch_MouseLeave">
+                <MenuItem Name="btnSearchI" Foreground="Blue" Header="         Tìm Kiếm" Height="50" Width="160" FontFamily="Arial" Background="White" Mouse.MouseEnter="btnSearch_MouseEnter" Mouse.MouseLeave="btnSearch_MouseLeave">
+                    <MenuItem Click="Quick_Click" Header="Tìm Kiếm Nhanh" Height="26" />
+                    <MenuItem Click="Condition_Click" Header="Tìm Kiếm Theo Điều Kiện" Height="26" />
+                </MenuItem>
+            </Menu>
+
+            <Menu Margin="320,0,447,10" Name= "btnQLHP"
+               Mouse.MouseEnter="btnQLHP_MouseEnter" Mouse.MouseLeave="btnQLHP_MouseLeave"
+               Background="White" Foreground="Blue" 
+               TextElement.FontFamily="Arial" TextElement.FontSize="15" TextElement.FontStyle="Normal" 
+               HorizontalContentAlignment="Center" VerticalContentAlignment="Center" TextElement.FontWeight="Bold" Grid.Column="1">
+                <MenuItem Header="   Quản Lý Hội Phí" Height="50" Width="168" Click="FeeManagement_Click"></MenuItem>
+            </Menu>
+
+            <Menu Margin="493,0,275,10" Name="btnQLL"
+               Mouse.MouseEnter="btnQLL_MouseEnter" Mouse.MouseLeave="btnQLL_MouseLeave"
+               Background="White" Foreground="Blue" 
+               TextElement.FontFamily="Arial" TextElement.FontSize="15" TextElement.FontStyle="Normal" 
+               HorizontalContentAlignment="Center" VerticalContentAlignment="Center" TextElement.FontWeight="Bold">
+                <MenuItem Header="       Quản Lý Lớp" Height="50" Width="172" Click="ClassManagement_Click"></MenuItem>
+            </Menu>
+
+            <Menu Margin="660,0,129,10" Name="btnTL"
+               Mouse.MouseEnter="btnTL_MouseEnter" Mouse.MouseLeave="btnTL_MouseLeave"
+               Background="White" Foreground="Blue" 
+               TextElement.FontFamily="Arial" TextElement.FontSize="15" TextElement.FontStyle="Normal" 
+               HorizontalContentAlignment="Center" VerticalContentAlignment="Center" TextElement.FontWeight="Bold">
+                <MenuItem Header="       Thiết Lập" Height="50" Width="146" Click="Setting_Click"></MenuItem>
+            </Menu>
+            <Menu Name="btnHelp" FontSize="15" FontWeight="Bold" FontStyle="Normal" Foreground="Blue" Height="50" Margin="806,0,0,10" 
+                  Background="White">
+                <MenuItem Click="btnHelpI_Click" Name="btnHelpI" Mouse.MouseEnter="btnHelpI_MouseEnter" Mouse.MouseLeave="btnHelpI_MouseLeave" 
+                    VerticalContentAlignment="Center" HorizontalContentAlignment="Center" Foreground="Blue" Header="      Trợ Giúp" Height="50" Width="129" FontFamily="Arial" >
+                    <!--<MenuItem Click="HDSD_Click" Header="Hướng dẫn sử dụng" Height="26" Margin="0,0,-2.4,0"/>
+                    <MenuItem Click="TTNPT_Click" Header="Thông tin nhà phát triển" Height="26" Margin="0,0,-0.4,0"/>-->
+                </MenuItem>
+            </Menu>
+
+
+            <Label Margin="0,45,770,10" Name="btnDKHVb" Background="DarkBlue" Grid.ColumnSpan="2"/>
+
+            <Label Margin="165,45,615,10" Name="btnSearchb"/>
+
+            <Label Margin="320,45,442,10" Name="btnQLHPb" />
+
+            <Label Margin="488,45,275,10" Name="btnQLLb"/>
+
+            <Label Margin="660,45,129,10" Name="btnTLb"/>
+
+            <Label Margin="806,45,0,10" Name="btnHelpb"/>
+
+        </Grid>
+
+        <Grid Name="ScreenRegisterMember" Margin="-5,75,-5,-451" Visibility="Visible">
+            <ScrollViewer Margin="0,10,0,-73.556" HorizontalAlignment="Left" Width="945" Height="500" VerticalAlignment="Top">
+                <StackPanel Height="799">
+                    <Grid Height="554">
+                        <Grid.RowDefinitions>
+                            <RowDefinition Height="191*"/>
+                            <RowDefinition Height="363*"/>
+                        </Grid.RowDefinitions>
+                        <Label HorizontalAlignment="Center" VerticalAlignment="Top" Content="HỒ SƠ HỌC VIÊN" TextElement.FontFamily="Arial" TextElement.FontSize="20" TextElement.FontWeight="Bold" Margin="375,0"></Label>
+                        <Label  Content="SKU " HorizontalAlignment="Left" HorizontalContentAlignment="Center" Width="45" Margin="57,40,0,-40.222" Grid.RowSpan="2"/>
+                        <Label  Content="*" Foreground="Red" HorizontalAlignment="Left" HorizontalContentAlignment="Center" Width="45" Margin="91,40,0,-40.222" Grid.RowSpan="2"/>
+                        <TextBox Name="txtSKU" TextChanged="txtSKU_TextChanged"  HorizontalAlignment="Left" Height="25" Margin="165,40,0,0" VerticalContentAlignment="Center" TextWrapping="Wrap" VerticalAlignment="Top" Width="284"/>
+                        <Label Content="Số Đăng Ký" HorizontalAlignment="Left" Width="85" Margin="482,40,0,-40" Grid.RowSpan="2" />
+                        <TextBox Name="txtRegisterNumber" Background="WhiteSmoke" IsEnabled="False" HorizontalContentAlignment="Center" HorizontalAlignment="Left" Height="25" Margin="569,40,0,0" VerticalContentAlignment="Center" TextWrapping="Wrap" VerticalAlignment="Top" Width="282"/>
+                        <Label Content="Họ Tên" HorizontalAlignment="Left" Width="57" Margin="62,70,0,-73.222" Grid.RowSpan="2"/>
+                        <TextBox Name="txtName" TextChanged="txtSKU_TextChanged"  HorizontalAlignment="Left" Height="25" Margin="165,70,0,0" VerticalContentAlignment="Center" TextWrapping="Wrap" VerticalAlignment="Top" Width="284"/>
+                        <Label  Content="*" Foreground="Red" HorizontalAlignment="Left" HorizontalContentAlignment="Center" Width="45" Margin="92,70,0,-40.222" Grid.RowSpan="2"/>
+                        <Label Content="Quốc Tịch" HorizontalAlignment="Left" Width="85" Margin="481,70,0,-73" Grid.RowSpan="2"/>
+                        <TextBox Name="txtNation" TextChanged="txtSKU_TextChanged"  HorizontalAlignment="Left" Height="25" Margin="569,70,0,0" VerticalContentAlignment="Center" TextWrapping="Wrap" VerticalAlignment="Top" Width="282"/>
+                        <Label Content="Địa Chỉ" HorizontalAlignment="Left" Width="57" Margin="63,100,0,-106.222" Grid.RowSpan="2"/>
+                        <TextBox Name="txtAddress" TextChanged="txtSKU_TextChanged"  HorizontalAlignment="Left" Height="25" Margin="166,100,0,0" VerticalContentAlignment="Bottom" TextWrapping="Wrap" VerticalAlignment="Top" Width="685"/>
+                        <Label  Content="*" Foreground="Red" HorizontalAlignment="Left" HorizontalContentAlignment="Center" Width="45" Margin="93,100,0,-70.222" Grid.RowSpan="2"/>
+                        <Label Content="Số Điện Thoại" HorizontalAlignment="Left" Width="90" Margin="63,130,0,-139" Grid.RowSpan="2"/>
+                        <TextBox Name="txtPhone" TextChanged="txtSKU_TextChanged"  HorizontalAlignment="Left" Height="25" Margin="166,130,0,0" VerticalContentAlignment="Bottom" TextWrapping="Wrap" VerticalAlignment="Top" Width="283"/>
+                        <DatePicker  Name="dtpRegisterDay" SelectedDateChanged="dtpRegisterDay_SelectedDateChanged" SelectedDateFormat="Short" HorizontalAlignment="Left" Height="25" Margin="281,168,0,0" VerticalAlignment="Top" Width="572" Grid.RowSpan="2"/>
+                        <Label Content="Ngày Đăng Ký"   HorizontalAlignment="Left" Width="90" Margin="180,168,0,-181.222" Grid.RowSpan="2"/>
+                        <DatePicker Name="dtpBirthday"  SelectedDateChanged="dtpRegisterDay_SelectedDateChanged" HorizontalAlignment="Left" Height="25" Margin="281,12.889,0,0" VerticalAlignment="Top" Width="572" Grid.Row="1"/>
+                        <Label Content="Ngày Sinh" HorizontalAlignment="Left" Width="90" Margin="180,10.889,0,-218.222" Grid.Row="1"/>
+                        <TextBox Name="txtBirthplace"    TextChanged="txtSKU_TextChanged"  HorizontalAlignment="Left" Height="25" Margin="281,45.889,0,0" VerticalContentAlignment="Top" TextWrapping="Wrap" VerticalAlignment="Top" Width="572" Grid.Row="1"/>
+                        <Label Content="Nơi Sinh" HorizontalAlignment="Left"  Width="90" Margin="180,47.889,0,-258.222" Grid.Row="1"/>
+                        <Label Content="Lớp Đăng Ký"  HorizontalAlignment="Left" Width="90" Margin="180,83.889,0,-297.222" Grid.Row="1"/>
+                        <ComboBox  Name="cboRegisterClass"  SelectionChanged="cboRegisterClass_SelectionChanged" Text="Chọn lớp học" IsEditable="False" IsReadOnly="True" HorizontalAlignment="Left" Height="25" Margin="285,83.889,0,0" VerticalAlignment="Top" Width="568" Grid.Row="1" />
+                        <Button  Name="ImageButton"  Click="ImageButton_Click" HorizontalAlignment="Left" Height="132" Margin="69,168,0,0" VerticalAlignment="Top" Width="100" Grid.RowSpan="2"/>
+                        <Label Content="CẤP 6" HorizontalAlignment="Left" Width="45" Margin="69,120.889,0,-372.222" Grid.Row="1" />
+                        <DatePicker Name="dtpLevel6" SelectedDateChanged="dtpRegisterDay_SelectedDateChanged" HorizontalAlignment="Left" Height="25" Margin="114,120.889,0,0" VerticalAlignment="Top" Width="739" Grid.Row="1"/>
+                        <Label Content="CẤP 5" HorizontalAlignment="Left" Width="45" Margin="69,150.889,0,-372.222" Grid.Row="1"/>
+                        <DatePicker  Name="dtpLevel5" SelectedDateChanged="dtpRegisterDay_SelectedDateChanged" HorizontalAlignment="Left" Height="25" Margin="114,150.889,0,0" VerticalAlignment="Top" Width="739" Grid.Row="1"/>
+                        <Label Content="CẤP 4" HorizontalAlignment="Left" Width="45" Margin="69,180.889,0,-372.222" Grid.Row="1"/>
+                        <DatePicker  Name="dtpLevel4" SelectedDateChanged="dtpRegisterDay_SelectedDateChanged" HorizontalAlignment="Left" Height="25" Margin="114,180.889,0,0" VerticalAlignment="Top" Width="739" Grid.Row="1"/>
+                        <Label Content="CẤP 3" HorizontalAlignment="Left" Width="45" Margin="69,210.889,0,-372.222" Grid.Row="1"/>
+                        <DatePicker  Name="dtpLevel3" SelectedDateChanged="dtpRegisterDay_SelectedDateChanged" HorizontalAlignment="Left" Margin="114,210.889,0,0" Width="739" Grid.Row="1" Height="25" VerticalAlignment="Top"/>
+                        <Label Content="CẤP 2" HorizontalAlignment="Left" Width="45" Margin="69,243.889,0,-375.222" Grid.Row="1"/>
+                        <DatePicker  Name="dtpLevel2" SelectedDateChanged="dtpRegisterDay_SelectedDateChanged" HorizontalAlignment="Left" Height="25" Margin="114,243.889,0,0" VerticalAlignment="Top" Width="739" Grid.Row="1"/>
+                        <Label Content="CẤP 1" HorizontalAlignment="Left" Width="45" Margin="69,273.889,0,-375.222" Grid.Row="1"/>
+                        <DatePicker  Name="dtpLevel1"  SelectedDateChanged="dtpRegisterDay_SelectedDateChanged" HorizontalAlignment="Left" Height="25" Margin="114,273.889,0,0" VerticalAlignment="Top" Width="739" Grid.Row="1"/>
+                        <Label Content="I DAN VN" HorizontalAlignment="Left" Width="71" Margin="72,308.889,0,-557.222" Grid.Row="1" />
+                        <DatePicker  Name="dtpDanVN1" SelectedDateChanged="dtpRegisterDay_SelectedDateChanged" HorizontalAlignment="Left" Height="25" Margin="148,308.889,0,0" VerticalAlignment="Top" Width="273" Grid.Row="1"/>
+                        <Label Content="II DAN VN" HorizontalAlignment="Left" Width="71" Margin="72,338.889,0,-590.222" Grid.Row="1"/>
+                        <DatePicker Name="dtpDanVN2" SelectedDateChanged="dtpRegisterDay_SelectedDateChanged" HorizontalAlignment="Left" Height="25" Margin="148,338.889,0,-1.222" VerticalAlignment="Top" Width="273" Grid.Row="1"/>
+                        <Label Content="III DAN VN" HorizontalAlignment="Left" Width="71" Margin="72,368.889,0,-623.222" Grid.Row="1"/>
+                        <DatePicker Name="dtpDanVN3" SelectedDateChanged="dtpRegisterDay_SelectedDateChanged" HorizontalAlignment="Left" Height="25" Margin="148,368.889,0,-31.222" VerticalAlignment="Top" Width="273" Grid.Row="1"/>
+                        <Label Content="IV DAN VN" HorizontalAlignment="Left" Width="71" Margin="72,398.889,0,-656.222" Grid.Row="1"/>
+                        <DatePicker Name="dtpDanVN4" SelectedDateChanged="dtpRegisterDay_SelectedDateChanged" HorizontalAlignment="Left" Height="25" Margin="148,398.889,0,-61.222" VerticalAlignment="Top" Width="273" Grid.Row="1"/>
+                        <Label Content="V DAN VN" HorizontalAlignment="Left" Width="71" Margin="72,428.889,0,-689.222" Grid.Row="1"/>
+                        <DatePicker Name="dtpDanVN5" SelectedDateChanged="dtpRegisterDay_SelectedDateChanged" HorizontalAlignment="Left" Height="25" Margin="148,428.889,0,-91.222" VerticalAlignment="Top" Width="273" Grid.Row="1"/>
+                        <Label  Content="VI DAN VN" HorizontalAlignment="Left" Width="71" Margin="72,458.889,0,-722.222" Grid.Row="1"/>
+                        <DatePicker Name="dtpDanVN6" SelectedDateChanged="dtpRegisterDay_SelectedDateChanged" HorizontalAlignment="Left" Height="25" Margin="148,458.889,0,-121.222" VerticalAlignment="Top" Width="273" Grid.Row="1"/>
+                        <Label Content="VII DAN VN" HorizontalAlignment="Left" Width="71" Margin="72,488.889,0,-755.222" Grid.Row="1"/>
+                        <DatePicker  Name="dtpDanVN7" SelectedDateChanged="dtpRegisterDay_SelectedDateChanged" HorizontalAlignment="Left" Height="25" Margin="148,488.889,0,-151.222" VerticalAlignment="Top" Width="273" Grid.Row="1"/>
+                        <Label Content="VIII DAN VN" HorizontalAlignment="Left" Width="76" Margin="72,518.889,0,-788.222" Grid.Row="1"/>
+                        <DatePicker Name="dtpDanVN8" SelectedDateChanged="dtpRegisterDay_SelectedDateChanged" HorizontalAlignment="Left" Height="25" Margin="148,518.889,0,-181.222" VerticalAlignment="Top" Width="273" Grid.Row="1"/>
+                        <Label Content="I DAN AIKIKAI" HorizontalAlignment="Left" Width="100" Margin="479,308.8,0,-557.4" Grid.Row="1"/>
+                        <DatePicker Name="dtpDanAIKIKAI1" SelectedDateChanged="dtpRegisterDay_SelectedDateChanged" HorizontalAlignment="Left" Height="25" Margin="579,308.8,0,0" VerticalAlignment="Top" Width="273" Grid.Row="1"/>
+                        <Label Content="II DAN AIKIKAI" HorizontalAlignment="Left" Width="100" Margin="479,338.8,0,-590.4" Grid.Row="1"/>
+                        <DatePicker Name="dtpDanAIKIKAI2" SelectedDateChanged="dtpRegisterDay_SelectedDateChanged" HorizontalAlignment="Left" Height="23" Margin="579,338.8,0,0" VerticalAlignment="Top" Width="273" Grid.Row="1"/>
+                        <Label Content="III DAN AIKIKAI" HorizontalAlignment="Left" Width="100" Margin="479,368.8,0,-623.4" Grid.Row="1"/>
+                        <DatePicker  Name="dtpDanAIKIKAI3" SelectedDateChanged="dtpRegisterDay_SelectedDateChanged" HorizontalAlignment="Left" Height="23" Margin="579,368.8,0,-29.4" VerticalAlignment="Top" Width="273" Grid.Row="1"/>
+                        <Label Content="IV DAN AIKIKAI" HorizontalAlignment="Left" Width="100" Margin="479,398.8,0,-656.4" Grid.Row="1"/>
+                        <DatePicker Name="dtpDanAIKIKAI4" SelectedDateChanged="dtpRegisterDay_SelectedDateChanged" HorizontalAlignment="Left" Height="23" Margin="579,398.8,0,-59.4" VerticalAlignment="Top" Width="273" Grid.Row="1"/>
+                        <Label Content="V DAN AIKIKAI" HorizontalAlignment="Left" Width="100" Margin="479,428.8,0,-689.4" Grid.Row="1" />
+                        <DatePicker Name="dtpDanAIKIKAI5" SelectedDateChanged="dtpRegisterDay_SelectedDateChanged" HorizontalAlignment="Left" Height="23" Margin="579,428.8,0,-89.4" VerticalAlignment="Top" Width="273" Grid.Row="1"/>
+                        <Label Content="VI DAN AIKIKAI" HorizontalAlignment="Left" Width="100" Margin="479,458.8,0,-722.4" Grid.Row="1"/>
+                        <DatePicker Name="dtpDanAIKIKAI6" SelectedDateChanged="dtpRegisterDay_SelectedDateChanged" HorizontalAlignment="Left" Height="23" Margin="579,458.8,0,-119.4" VerticalAlignment="Top" Width="273" Grid.Row="1"/>
+                        <Label Content="VII DAN AIKIKAI" HorizontalAlignment="Left" Width="100" Margin="479,488.8,0,-755.4" Grid.Row="1"/>
+                        <DatePicker Name="dtpDanAIKIKAI7" SelectedDateChanged="dtpRegisterDay_SelectedDateChanged" HorizontalAlignment="Left" Height="23" Margin="579,488.8,0,-149.4" VerticalAlignment="Top" Width="273" Grid.Row="1"/>
+                        <Label Content="VIII DAN AIKIKAI" HorizontalAlignment="Left" Width="100" Margin="479,518.8,0,-788.4" Grid.Row="1"/>
+                        <DatePicker Name="dtpDanAIKIKAI8" SelectedDateChanged="dtpRegisterDay_SelectedDateChanged" HorizontalAlignment="Left" Height="23" Margin="579,518.8,0,-179.4" VerticalAlignment="Top" Width="273" Grid.Row="1"/>
+                        <Button Name="Save" Content="Lưu" Click="Save_Click"  HorizontalAlignment="Left" Height="30" Margin="337,572.889,0,-240.222" VerticalAlignment="Top" Width="96" Grid.Row="1"/>
+                        <Button Name="Print" Content="Print" Click="Print_MouseEnter" HorizontalAlignment="Right" Height="30" Margin="0,572.889,349,-240.222" VerticalAlignment="Top" Width="96" Grid.Row="1"/>
+                        <Label  Content="*" Foreground="Red" HorizontalAlignment="Left" HorizontalContentAlignment="Center" Width="45" Margin="130,130,0,-100" Grid.RowSpan="2"/>
+                        <Label  Content="*" Foreground="Red" HorizontalAlignment="Left" HorizontalContentAlignment="Center" Width="45" Margin="524,70,0,-40" Grid.RowSpan="2"/>
+                        <Label  Content="*" Foreground="Red" HorizontalAlignment="Left" HorizontalContentAlignment="Center" Width="45" Margin="246,170,0,-140.222" Grid.RowSpan="2"/>
+                        <Label  Content="*" Foreground="Red" HorizontalAlignment="Left" HorizontalContentAlignment="Center" Width="45" Margin="246,12.889,0,-173.222" Grid.Row="1"/>
+                        <Label  Content="*" Foreground="Red" HorizontalAlignment="Left" HorizontalContentAlignment="Center" Width="45" Margin="246,47.889,0,-208.222" Grid.Row="1"/>
+                        <Label  Content="*" Foreground="Red" HorizontalAlignment="Left" HorizontalContentAlignment="Center" Width="45" Margin="246,83.889,0,-243.222" Grid.Row="1"/>
+
+                    </Grid>
+                </StackPanel>
+            </ScrollViewer>
+        </Grid>
+    </Grid>
+</Window>

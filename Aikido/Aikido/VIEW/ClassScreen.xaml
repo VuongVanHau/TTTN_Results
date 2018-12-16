@@ -1,0 +1,100 @@
+﻿<Window x:Class="Aikido.VIEW.ClassScreen"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             xmlns:local="clr-namespace:Aikido.VIEW"
+             mc:Ignorable="d" 
+             Title="Quản Lý lớp" Height="663" Width="955" ResizeMode="NoResize" WindowStartupLocation="CenterScreen">
+    <Grid Height="60" HorizontalAlignment="Center" VerticalAlignment="Top" Margin="0,0,0,0" Width="935">
+
+        <Grid Height="60" HorizontalAlignment="Center" VerticalAlignment="Top" Margin="10,0,0,0" Width="935">
+            <Menu Margin="0,0,770,10" Name="btnDKHV"
+               Mouse.MouseEnter="btnDKHV_MouseEnter" Mouse.MouseLeave="btnDKHV_MouseLeave"
+               Background="White" Foreground="Blue" 
+               TextElement.FontFamily="Arial" TextElement.FontSize="15" TextElement.FontStyle="Normal" TextElement.FontWeight="Bold"
+               HorizontalContentAlignment="Center" VerticalContentAlignment="Center">
+                <MenuItem  Header="    Đăng Ký Hội Viên" Height="50" Width="165" Click="Register_Click"></MenuItem>
+            </Menu>
+
+            <Menu Name="btnSearch" FontSize="15" FontWeight="Bold" Background="White" FontStyle="Normal" Foreground="Blue" Margin="165,0,605,10" Mouse.MouseEnter="btnSearch_MouseEnter" Mouse.MouseLeave="btnSearch_MouseLeave">
+                <MenuItem Name="btnSearchI" Foreground="Blue" Header="         Tìm Kiếm" Height="50" Width="165" FontFamily="Arial" Background="White" Mouse.MouseEnter="btnSearch_MouseEnter" Mouse.MouseLeave="btnSearch_MouseLeave">
+                    <MenuItem Click="Quick_Click" Header="Tìm Kiếm Nhanh" Height="26" />
+                    <MenuItem Click="Condition_Click" Header="Tìm Kiếm Theo Điều Kiện" Height="26" />
+                </MenuItem>
+            </Menu>
+
+            <Menu Margin="330,0,447,10" Name= "btnQLHP"
+               Mouse.MouseEnter="btnQLHP_MouseEnter" Mouse.MouseLeave="btnQLHP_MouseLeave"
+               Background="White" Foreground="Blue" 
+               TextElement.FontFamily="Arial" TextElement.FontSize="15" TextElement.FontStyle="Normal" 
+               HorizontalContentAlignment="Center" VerticalContentAlignment="Center" TextElement.FontWeight="Bold">
+                <MenuItem Header="   Quản Lý Hội Phí" Height="50" Width="158" Click="FeeManagement_Click"></MenuItem>
+            </Menu>
+
+            <Menu Margin="488,0,275,10" Name="btnQLL"
+               Mouse.MouseEnter="btnQLL_MouseEnter" Mouse.MouseLeave="btnQLL_MouseLeave"
+               Background="LightGray" Foreground="Blue" 
+               TextElement.FontFamily="Arial" TextElement.FontSize="15" TextElement.FontStyle="Normal" 
+               HorizontalContentAlignment="Center" VerticalContentAlignment="Center" TextElement.FontWeight="Bold">
+                <MenuItem Header="       Quản Lý Lớp" Height="50" Width="172" Click="ClassManagement_Click" Mouse.MouseEnter="btnQLL_MouseEnter" Mouse.MouseLeave="btnQLL_MouseLeave"></MenuItem>
+            </Menu>
+
+            <Menu Margin="660,0,129,10" Name="btnTL"
+               Mouse.MouseEnter="btnTL_MouseEnter" Mouse.MouseLeave="btnTL_MouseLeave"
+               Background="White" Foreground="Blue" 
+               TextElement.FontFamily="Arial" TextElement.FontSize="15" TextElement.FontStyle="Normal" 
+               HorizontalContentAlignment="Center" VerticalContentAlignment="Center" TextElement.FontWeight="Bold">
+                <MenuItem Header="       Thiết Lập" Height="50" Width="146" Click="Setting_Click" Mouse.MouseEnter="btnQLL_MouseEnter" Mouse.MouseLeave="btnQLL_MouseLeave"></MenuItem>
+            </Menu>
+            <Menu Name="btnHelp" FontSize="15" FontWeight="Bold" FontStyle="Normal" Foreground="Blue" Height="50" Margin="806,0,0,10" 
+                  Background="White">
+                <MenuItem Click="btnHelpI_Click" Name="btnHelpI" Mouse.MouseEnter="btnHelpI_MouseEnter" Mouse.MouseLeave="btnHelpI_MouseLeave" 
+                    VerticalContentAlignment="Center" HorizontalContentAlignment="Center" Foreground="Blue" Header="      Trợ Giúp" Height="50" Width="129" FontFamily="Arial"  Background="White" >
+                    <!--<MenuItem Click="HDSD_Click" Header="Hướng dẫn sử dụng" Height="26" Margin="0,0,-2.4,0"/>
+                    <MenuItem Click="TTNPT_Click" Header="Thông tin nhà phát triển" Height="26" Margin="0,0,-0.4,0"/>-->
+                </MenuItem>
+            </Menu>
+
+            <Label Margin="0,45,770,10" Name="btnDKHVb"/>
+
+            <Label Margin="165,45,605,10" Name="btnSearchb"/>
+
+            <Label Margin="330,45,447,10" Name="btnQLHPb" />
+
+            <Label Margin="488,45,275,10" Name="btnQLLb" Background="DarkBlue"/>
+
+            <Label Margin="660,45,129,10" Name="btnTLb"/>
+
+            <Label Margin="806,45,0,10" Name="btnHelpb"/>
+
+        </Grid>
+        <Grid Name="ScreenClass" Margin="0,75,0,-568" Visibility="Visible" Grid.ColumnSpan="2">
+            <GroupBox TextElement.FontFamily="Arial" TextElement.FontSize="16" TextElement.FontWeight="Bold" BorderBrush="Black" BorderThickness="1.5" Margin="0,0,0,10">
+                <Grid Height="540"  VerticalAlignment="Top" HorizontalAlignment="Left" Width="925" TextElement.FontSize="15" TextElement.FontWeight="Normal" Margin="0,0,-2,-3">
+                    <DataGrid RowEditEnding="dgvClass_RowEditEnding" CellEditEnding="dgvClass_CellEditEnding"
+                              Loaded="dgvClass_Loaded" SelectionChanged="dgvClass_SelectionChanged" 
+                              HorizontalAlignment="Left" Height="453" Name="dgvClass" Margin="10,20,0,0" 
+                              VerticalAlignment="Top" Width="905" HorizontalContentAlignment="Center" VerticalContentAlignment="Center"
+                              Background="White" RowBackground="White" AlternatingRowBackground="LightGray" SelectionMode="Extended"  
+                              CanUserResizeColumns="False" CanUserResizeRows="False" AutoGeneratingColumn="dgvClass_AutoGeneratingColumn">
+                        <!---->
+                        <DataGrid.Columns>
+                            <DataGridTextColumn Header=""/>
+                            <DataGridTemplateColumn Width="25">
+                                <DataGridTemplateColumn.CellTemplate>
+                                    <DataTemplate>
+                                        <Button Click="btnDelete_Click" HorizontalContentAlignment="Center" VerticalContentAlignment="Center" Content="-"></Button>
+                                    </DataTemplate>
+                                </DataGridTemplateColumn.CellTemplate>
+                            </DataGridTemplateColumn>
+                        </DataGrid.Columns>
+                    </DataGrid>
+                    <Button Name="btnSaveC" Content="Lưu" HorizontalAlignment="Right" VerticalAlignment="Bottom" Height="30" Width="100" Margin="0,0,50,25" Click="btnSaveC_Click"></Button>
+                    <!--Button Name="btnDelete" Content="-" HorizontalAlignment="Left" VerticalAlignment="Bottom" Height="20" Width="20" Margin="128,0,0,25" Click="btnDelete_Click" RenderTransformOrigin="-22.3,12.65"/-->
+                        <!--Button Name="btnAdd" Content="+" HorizontalAlignment="Left" VerticalAlignment="Bottom" Height="20" Width="20" Margin="78,0,0,25" Click="btnAdd_Click" RenderTransformOrigin="-0.867,0.667"/-->
+                </Grid>
+            </GroupBox>
+        </Grid>
+    </Grid>
+</Window>

@@ -1,0 +1,1344 @@
+C:\Users\minhh\OneDrive\Desktop\Combine\C-_WF-Intership-\Aikido\Aikido\bin\x86\Debug\x86\e_sqlite3.dll
+C:\Users\minhh\OneDrive\Desktop\Combine\C-_WF-Intership-\Aikido\Aikido\bin\x86\Debug\x64\e_sqlite3.dll
+C:\Users\minhh\OneDrive\Desktop\Combine\C-_WF-Intership-\Aikido\Aikido\bin\x86\Debug\Aikido.exe.config
+C:\Users\minhh\OneDrive\Desktop\Combine\C-_WF-Intership-\Aikido\Aikido\bin\x86\Debug\Aikido.exe
+C:\Users\minhh\OneDrive\Desktop\Combine\C-_WF-Intership-\Aikido\Aikido\bin\x86\Debug\Aikido.pdb
+C:\Users\minhh\OneDrive\Desktop\Combine\C-_WF-Intership-\Aikido\Aikido\bin\x86\Debug\Microsoft.Win32.Primitives.dll
+C:\Users\minhh\OneDrive\Desktop\Combine\C-_WF-Intership-\Aikido\Aikido\bin\x86\Debug\netstandard.dll
+C:\Users\minhh\OneDrive\Desktop\Combine\C-_WF-Intership-\Aikido\Aikido\bin\x86\Debug\System.AppContext.dll
+C:\Users\minhh\OneDrive\Desktop\Combine\C-_WF-Intership-\Aikido\Aikido\bin\x86\Debug\System.Collections.Concurrent.dll
+C:\Users\minhh\OneDrive\Desktop\Combine\C-_WF-Intership-\Aikido\Aikido\bin\x86\Debug\System.Collections.dll
+C:\Users\minhh\OneDrive\Desktop\Combine\C-_WF-Intership-\Aikido\Aikido\bin\x86\Debug\System.Collections.NonGeneric.dll
+C:\Users\minhh\OneDrive\Desktop\Combine\C-_WF-Intership-\Aikido\Aikido\bin\x86\Debug\System.Collections.Specialized.dll
+C:\Users\minhh\OneDrive\Desktop\Combine\C-_WF-Intership-\Aikido\Aikido\bin\x86\Debug\System.ComponentModel.dll
+C:\Users\minhh\OneDrive\Desktop\Combine\C-_WF-Intership-\Aikido\Aikido\bin\x86\Debug\System.ComponentModel.EventBasedAsync.dll
+C:\Users\minhh\OneDrive\Desktop\Combine\C-_WF-Intership-\Aikido\Aikido\bin\x86\Debug\System.ComponentModel.Primitives.dll
+C:\Users\minhh\OneDrive\Desktop\Combine\C-_WF-Intership-\Aikido\Aikido\bin\x86\Debug\System.ComponentModel.TypeConverter.dll
+C:\Users\minhh\OneDrive\Desktop\Combine\C-_WF-Intership-\Aikido\Aikido\bin\x86\Debug\System.Console.dll
+C:\Users\minhh\OneDrive\Desktop\Combine\C-_WF-Intership-\Aikido\Aikido\bin\x86\Debug\System.Data.Common.dll
+C:\Users\minhh\OneDrive\Desktop\Combine\C-_WF-Intership-\Aikido\Aikido\bin\x86\Debug\System.Diagnostics.Contracts.dll
+C:\Users\minhh\OneDrive\Desktop\Combine\C-_WF-Intership-\Aikido\Aikido\bin\x86\Debug\System.Diagnostics.Debug.dll
+C:\Users\minhh\OneDrive\Desktop\Combine\C-_WF-Intership-\Aikido\Aikido\bin\x86\Debug\System.Diagnostics.FileVersionInfo.dll
+C:\Users\minhh\OneDrive\Desktop\Combine\C-_WF-Intership-\Aikido\Aikido\bin\x86\Debug\System.Diagnostics.Process.dll
+C:\Users\minhh\OneDrive\Desktop\Combine\C-_WF-Intership-\Aikido\Aikido\bin\x86\Debug\System.Diagnostics.StackTrace.dll
+C:\Users\minhh\OneDrive\Desktop\Combine\C-_WF-Intership-\Aikido\Aikido\bin\x86\Debug\System.Diagnostics.TextWriterTraceListener.dll
+C:\Users\minhh\OneDrive\Desktop\Combine\C-_WF-Intership-\Aikido\Aikido\bin\x86\Debug\System.Diagnostics.Tools.dll
+C:\Users\minhh\OneDrive\Desktop\Combine\C-_WF-Intership-\Aikido\Aikido\bin\x86\Debug\System.Diagnostics.TraceSource.dll
+C:\Users\minhh\OneDrive\Desktop\Combine\C-_WF-Intership-\Aikido\Aikido\bin\x86\Debug\System.Diagnostics.Tracing.dll
+C:\Users\minhh\OneDrive\Desktop\Combine\C-_WF-Intership-\Aikido\Aikido\bin\x86\Debug\System.Drawing.Primitives.dll
+C:\Users\minhh\OneDrive\Desktop\Combine\C-_WF-Intership-\Aikido\Aikido\bin\x86\Debug\System.Dynamic.Runtime.dll
+C:\Users\minhh\OneDrive\Desktop\Combine\C-_WF-Intership-\Aikido\Aikido\bin\x86\Debug\System.Globalization.Calendars.dll
+C:\Users\minhh\OneDrive\Desktop\Combine\C-_WF-Intership-\Aikido\Aikido\bin\x86\Debug\System.Globalization.dll
+C:\Users\minhh\OneDrive\Desktop\Combine\C-_WF-Intership-\Aikido\Aikido\bin\x86\Debug\System.Globalization.Extensions.dll
+C:\Users\minhh\OneDrive\Desktop\Combine\C-_WF-Intership-\Aikido\Aikido\bin\x86\Debug\System.IO.Compression.dll
+C:\Users\minhh\OneDrive\Desktop\Combine\C-_WF-Intership-\Aikido\Aikido\bin\x86\Debug\System.IO.Compression.ZipFile.dll
+C:\Users\minhh\OneDrive\Desktop\Combine\C-_WF-Intership-\Aikido\Aikido\bin\x86\Debug\System.IO.dll
+C:\Users\minhh\OneDrive\Desktop\Combine\C-_WF-Intership-\Aikido\Aikido\bin\x86\Debug\System.IO.FileSystem.dll
+C:\Users\minhh\OneDrive\Desktop\Combine\C-_WF-Intership-\Aikido\Aikido\bin\x86\Debug\System.IO.FileSystem.DriveInfo.dll
+C:\Users\minhh\OneDrive\Desktop\Combine\C-_WF-Intership-\Aikido\Aikido\bin\x86\Debug\System.IO.FileSystem.Primitives.dll
+C:\Users\minhh\OneDrive\Desktop\Combine\C-_WF-Intership-\Aikido\Aikido\bin\x86\Debug\System.IO.FileSystem.Watcher.dll
+C:\Users\minhh\OneDrive\Desktop\Combine\C-_WF-Intership-\Aikido\Aikido\bin\x86\Debug\System.IO.IsolatedStorage.dll
+C:\Users\minhh\OneDrive\Desktop\Combine\C-_WF-Intership-\Aikido\Aikido\bin\x86\Debug\System.IO.MemoryMappedFiles.dll
+C:\Users\minhh\OneDrive\Desktop\Combine\C-_WF-Intership-\Aikido\Aikido\bin\x86\Debug\System.IO.Pipes.dll
+C:\Users\minhh\OneDrive\Desktop\Combine\C-_WF-Intership-\Aikido\Aikido\bin\x86\Debug\System.IO.UnmanagedMemoryStream.dll
+C:\Users\minhh\OneDrive\Desktop\Combine\C-_WF-Intership-\Aikido\Aikido\bin\x86\Debug\System.Linq.dll
+C:\Users\minhh\OneDrive\Desktop\Combine\C-_WF-Intership-\Aikido\Aikido\bin\x86\Debug\System.Linq.Expressions.dll
+C:\Users\minhh\OneDrive\Desktop\Combine\C-_WF-Intership-\Aikido\Aikido\bin\x86\Debug\System.Linq.Parallel.dll
+C:\Users\minhh\OneDrive\Desktop\Combine\C-_WF-Intership-\Aikido\Aikido\bin\x86\Debug\System.Linq.Queryable.dll
+C:\Users\minhh\OneDrive\Desktop\Combine\C-_WF-Intership-\Aikido\Aikido\bin\x86\Debug\System.Net.Http.dll
+C:\Users\minhh\OneDrive\Desktop\Combine\C-_WF-Intership-\Aikido\Aikido\bin\x86\Debug\System.Net.NameResolution.dll
+C:\Users\minhh\OneDrive\Desktop\Combine\C-_WF-Intership-\Aikido\Aikido\bin\x86\Debug\System.Net.NetworkInformation.dll
+C:\Users\minhh\OneDrive\Desktop\Combine\C-_WF-Intership-\Aikido\Aikido\bin\x86\Debug\System.Net.Ping.dll
+C:\Users\minhh\OneDrive\Desktop\Combine\C-_WF-Intership-\Aikido\Aikido\bin\x86\Debug\System.Net.Primitives.dll
+C:\Users\minhh\OneDrive\Desktop\Combine\C-_WF-Intership-\Aikido\Aikido\bin\x86\Debug\System.Net.Requests.dll
+C:\Users\minhh\OneDrive\Desktop\Combine\C-_WF-Intership-\Aikido\Aikido\bin\x86\Debug\System.Net.Security.dll
+C:\Users\minhh\OneDrive\Desktop\Combine\C-_WF-Intership-\Aikido\Aikido\bin\x86\Debug\System.Net.Sockets.dll
+C:\Users\minhh\OneDrive\Desktop\Combine\C-_WF-Intership-\Aikido\Aikido\bin\x86\Debug\System.Net.WebHeaderCollection.dll
+C:\Users\minhh\OneDrive\Desktop\Combine\C-_WF-Intership-\Aikido\Aikido\bin\x86\Debug\System.Net.WebSockets.Client.dll
+C:\Users\minhh\OneDrive\Desktop\Combine\C-_WF-Intership-\Aikido\Aikido\bin\x86\Debug\System.Net.WebSockets.dll
+C:\Users\minhh\OneDrive\Desktop\Combine\C-_WF-Intership-\Aikido\Aikido\bin\x86\Debug\System.ObjectModel.dll
+C:\Users\minhh\OneDrive\Desktop\Combine\C-_WF-Intership-\Aikido\Aikido\bin\x86\Debug\System.Reflection.dll
+C:\Users\minhh\OneDrive\Desktop\Combine\C-_WF-Intership-\Aikido\Aikido\bin\x86\Debug\System.Reflection.Extensions.dll
+C:\Users\minhh\OneDrive\Desktop\Combine\C-_WF-Intership-\Aikido\Aikido\bin\x86\Debug\System.Reflection.Primitives.dll
+C:\Users\minhh\OneDrive\Desktop\Combine\C-_WF-Intership-\Aikido\Aikido\bin\x86\Debug\System.Resources.Reader.dll
+C:\Users\minhh\OneDrive\Desktop\Combine\C-_WF-Intership-\Aikido\Aikido\bin\x86\Debug\System.Resources.ResourceManager.dll
+C:\Users\minhh\OneDrive\Desktop\Combine\C-_WF-Intership-\Aikido\Aikido\bin\x86\Debug\System.Resources.Writer.dll
+C:\Users\minhh\OneDrive\Desktop\Combine\C-_WF-Intership-\Aikido\Aikido\bin\x86\Debug\System.Runtime.CompilerServices.VisualC.dll
+C:\Users\minhh\OneDrive\Desktop\Combine\C-_WF-Intership-\Aikido\Aikido\bin\x86\Debug\System.Runtime.dll
+C:\Users\minhh\OneDrive\Desktop\Combine\C-_WF-Intership-\Aikido\Aikido\bin\x86\Debug\System.Runtime.Extensions.dll
+C:\Users\minhh\OneDrive\Desktop\Combine\C-_WF-Intership-\Aikido\Aikido\bin\x86\Debug\System.Runtime.Handles.dll
+C:\Users\minhh\OneDrive\Desktop\Combine\C-_WF-Intership-\Aikido\Aikido\bin\x86\Debug\System.Runtime.InteropServices.dll
+C:\Users\minhh\OneDrive\Desktop\Combine\C-_WF-Intership-\Aikido\Aikido\bin\x86\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\minhh\OneDrive\Desktop\Combine\C-_WF-Intership-\Aikido\Aikido\bin\x86\Debug\System.Runtime.Numerics.dll
+C:\Users\minhh\OneDrive\Desktop\Combine\C-_WF-Intership-\Aikido\Aikido\bin\x86\Debug\System.Runtime.Serialization.Formatters.dll
+C:\Users\minhh\OneDrive\Desktop\Combine\C-_WF-Intership-\Aikido\Aikido\bin\x86\Debug\System.Runtime.Serialization.Json.dll
+C:\Users\minhh\OneDrive\Desktop\Combine\C-_WF-Intership-\Aikido\Aikido\bin\x86\Debug\System.Runtime.Serialization.Primitives.dll
+C:\Users\minhh\OneDrive\Desktop\Combine\C-_WF-Intership-\Aikido\Aikido\bin\x86\Debug\System.Runtime.Serialization.Xml.dll
+C:\Users\minhh\OneDrive\Desktop\Combine\C-_WF-Intership-\Aikido\Aikido\bin\x86\Debug\System.Security.Claims.dll
+C:\Users\minhh\OneDrive\Desktop\Combine\C-_WF-Intership-\Aikido\Aikido\bin\x86\Debug\System.Security.Cryptography.Algorithms.dll
+C:\Users\minhh\OneDrive\Desktop\Combine\C-_WF-Intership-\Aikido\Aikido\bin\x86\Debug\System.Security.Cryptography.Csp.dll
+C:\Users\minhh\OneDrive\Desktop\Combine\C-_WF-Intership-\Aikido\Aikido\bin\x86\Debug\System.Security.Cryptography.Encoding.dll
+C:\Users\minhh\OneDrive\Desktop\Combine\C-_WF-Intership-\Aikido\Aikido\bin\x86\Debug\System.Security.Cryptography.Primitives.dll
+C:\Users\minhh\OneDrive\Desktop\Combine\C-_WF-Intership-\Aikido\Aikido\bin\x86\Debug\System.Security.Cryptography.X509Certificates.dll
+C:\Users\minhh\OneDrive\Desktop\Combine\C-_WF-Intership-\Aikido\Aikido\bin\x86\Debug\System.Security.Principal.dll
+C:\Users\minhh\OneDrive\Desktop\Combine\C-_WF-Intership-\Aikido\Aikido\bin\x86\Debug\System.Security.SecureString.dll
+C:\Users\minhh\OneDrive\Desktop\Combine\C-_WF-Intership-\Aikido\Aikido\bin\x86\Debug\System.Text.Encoding.dll
+C:\Users\minhh\OneDrive\Desktop\Combine\C-_WF-Intership-\Aikido\Aikido\bin\x86\Debug\System.Text.Encoding.Extensions.dll
+C:\Users\minhh\OneDrive\Desktop\Combine\C-_WF-Intership-\Aikido\Aikido\bin\x86\Debug\System.Text.RegularExpressions.dll
+C:\Users\minhh\OneDrive\Desktop\Combine\C-_WF-Intership-\Aikido\Aikido\bin\x86\Debug\System.Threading.dll
+C:\Users\minhh\OneDrive\Desktop\Combine\C-_WF-Intership-\Aikido\Aikido\bin\x86\Debug\System.Threading.Overlapped.dll
+C:\Users\minhh\OneDrive\Desktop\Combine\C-_WF-Intership-\Aikido\Aikido\bin\x86\Debug\System.Threading.Tasks.dll
+C:\Users\minhh\OneDrive\Desktop\Combine\C-_WF-Intership-\Aikido\Aikido\bin\x86\Debug\System.Threading.Tasks.Parallel.dll
+C:\Users\minhh\OneDrive\Desktop\Combine\C-_WF-Intership-\Aikido\Aikido\bin\x86\Debug\System.Threading.Thread.dll
+C:\Users\minhh\OneDrive\Desktop\Combine\C-_WF-Intership-\Aikido\Aikido\bin\x86\Debug\System.Threading.ThreadPool.dll
+C:\Users\minhh\OneDrive\Desktop\Combine\C-_WF-Intership-\Aikido\Aikido\bin\x86\Debug\System.Threading.Timer.dll
+C:\Users\minhh\OneDrive\Desktop\Combine\C-_WF-Intership-\Aikido\Aikido\bin\x86\Debug\System.ValueTuple.dll
+C:\Users\minhh\OneDrive\Desktop\Combine\C-_WF-Intership-\Aikido\Aikido\bin\x86\Debug\System.Xml.ReaderWriter.dll
+C:\Users\minhh\OneDrive\Desktop\Combine\C-_WF-Intership-\Aikido\Aikido\bin\x86\Debug\System.Xml.XDocument.dll
+C:\Users\minhh\OneDrive\Desktop\Combine\C-_WF-Intership-\Aikido\Aikido\bin\x86\Debug\System.Xml.XmlDocument.dll
+C:\Users\minhh\OneDrive\Desktop\Combine\C-_WF-Intership-\Aikido\Aikido\bin\x86\Debug\System.Xml.XmlSerializer.dll
+C:\Users\minhh\OneDrive\Desktop\Combine\C-_WF-Intership-\Aikido\Aikido\bin\x86\Debug\System.Xml.XPath.dll
+C:\Users\minhh\OneDrive\Desktop\Combine\C-_WF-Intership-\Aikido\Aikido\bin\x86\Debug\System.Xml.XPath.XDocument.dll
+C:\Users\minhh\OneDrive\Desktop\Combine\C-_WF-Intership-\Aikido\Aikido\bin\x86\Debug\EntityFramework.dll
+C:\Users\minhh\OneDrive\Desktop\Combine\C-_WF-Intership-\Aikido\Aikido\bin\x86\Debug\EntityFramework.SqlServer.dll
+C:\Users\minhh\OneDrive\Desktop\Combine\C-_WF-Intership-\Aikido\Aikido\bin\x86\Debug\Microsoft.Data.Sqlite.dll
+C:\Users\minhh\OneDrive\Desktop\Combine\C-_WF-Intership-\Aikido\Aikido\bin\x86\Debug\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\minhh\OneDrive\Desktop\Combine\C-_WF-Intership-\Aikido\Aikido\bin\x86\Debug\Microsoft.EntityFrameworkCore.dll
+C:\Users\minhh\OneDrive\Desktop\Combine\C-_WF-Intership-\Aikido\Aikido\bin\x86\Debug\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\minhh\OneDrive\Desktop\Combine\C-_WF-Intership-\Aikido\Aikido\bin\x86\Debug\Microsoft.EntityFrameworkCore.Sqlite.dll
+C:\Users\minhh\OneDrive\Desktop\Combine\C-_WF-Intership-\Aikido\Aikido\bin\x86\Debug\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\minhh\OneDrive\Desktop\Combine\C-_WF-Intership-\Aikido\Aikido\bin\x86\Debug\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\minhh\OneDrive\Desktop\Combine\C-_WF-Intership-\Aikido\Aikido\bin\x86\Debug\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\minhh\OneDrive\Desktop\Combine\C-_WF-Intership-\Aikido\Aikido\bin\x86\Debug\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\minhh\OneDrive\Desktop\Combine\C-_WF-Intership-\Aikido\Aikido\bin\x86\Debug\Microsoft.Extensions.Configuration.dll
+C:\Users\minhh\OneDrive\Desktop\Combine\C-_WF-Intership-\Aikido\Aikido\bin\x86\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\minhh\OneDrive\Desktop\Combine\C-_WF-Intership-\Aikido\Aikido\bin\x86\Debug\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\minhh\OneDrive\Desktop\Combine\C-_WF-Intership-\Aikido\Aikido\bin\x86\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\minhh\OneDrive\Desktop\Combine\C-_WF-Intership-\Aikido\Aikido\bin\x86\Debug\Microsoft.Extensions.Logging.dll
+C:\Users\minhh\OneDrive\Desktop\Combine\C-_WF-Intership-\Aikido\Aikido\bin\x86\Debug\Microsoft.Extensions.Options.dll
+C:\Users\minhh\OneDrive\Desktop\Combine\C-_WF-Intership-\Aikido\Aikido\bin\x86\Debug\Microsoft.Extensions.Primitives.dll
+C:\Users\minhh\OneDrive\Desktop\Combine\C-_WF-Intership-\Aikido\Aikido\bin\x86\Debug\Remotion.Linq.dll
+C:\Users\minhh\OneDrive\Desktop\Combine\C-_WF-Intership-\Aikido\Aikido\bin\x86\Debug\Spire.Doc.dll
+C:\Users\minhh\OneDrive\Desktop\Combine\C-_WF-Intership-\Aikido\Aikido\bin\x86\Debug\Spire.License.dll
+C:\Users\minhh\OneDrive\Desktop\Combine\C-_WF-Intership-\Aikido\Aikido\bin\x86\Debug\Spire.Pdf.dll
+C:\Users\minhh\OneDrive\Desktop\Combine\C-_WF-Intership-\Aikido\Aikido\bin\x86\Debug\SQLitePCLRaw.batteries_green.dll
+C:\Users\minhh\OneDrive\Desktop\Combine\C-_WF-Intership-\Aikido\Aikido\bin\x86\Debug\SQLitePCLRaw.batteries_v2.dll
+C:\Users\minhh\OneDrive\Desktop\Combine\C-_WF-Intership-\Aikido\Aikido\bin\x86\Debug\SQLitePCLRaw.core.dll
+C:\Users\minhh\OneDrive\Desktop\Combine\C-_WF-Intership-\Aikido\Aikido\bin\x86\Debug\SQLitePCLRaw.provider.e_sqlite3.dll
+C:\Users\minhh\OneDrive\Desktop\Combine\C-_WF-Intership-\Aikido\Aikido\bin\x86\Debug\System.Buffers.dll
+C:\Users\minhh\OneDrive\Desktop\Combine\C-_WF-Intership-\Aikido\Aikido\bin\x86\Debug\System.Collections.Immutable.dll
+C:\Users\minhh\OneDrive\Desktop\Combine\C-_WF-Intership-\Aikido\Aikido\bin\x86\Debug\System.ComponentModel.Annotations.dll
+C:\Users\minhh\OneDrive\Desktop\Combine\C-_WF-Intership-\Aikido\Aikido\bin\x86\Debug\System.Data.SQLite.EF6.dll
+C:\Users\minhh\OneDrive\Desktop\Combine\C-_WF-Intership-\Aikido\Aikido\bin\x86\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\minhh\OneDrive\Desktop\Combine\C-_WF-Intership-\Aikido\Aikido\bin\x86\Debug\System.Interactive.Async.dll
+C:\Users\minhh\OneDrive\Desktop\Combine\C-_WF-Intership-\Aikido\Aikido\bin\x86\Debug\System.Memory.dll
+C:\Users\minhh\OneDrive\Desktop\Combine\C-_WF-Intership-\Aikido\Aikido\bin\x86\Debug\System.Numerics.Vectors.dll
+C:\Users\minhh\OneDrive\Desktop\Combine\C-_WF-Intership-\Aikido\Aikido\bin\x86\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\minhh\OneDrive\Desktop\Combine\C-_WF-Intership-\Aikido\Aikido\bin\x86\Debug\Microsoft.mshtml.dll
+C:\Users\minhh\OneDrive\Desktop\Combine\C-_WF-Intership-\Aikido\Aikido\bin\x86\Debug\EntityFramework.xml
+C:\Users\minhh\OneDrive\Desktop\Combine\C-_WF-Intership-\Aikido\Aikido\bin\x86\Debug\EntityFramework.SqlServer.xml
+C:\Users\minhh\OneDrive\Desktop\Combine\C-_WF-Intership-\Aikido\Aikido\bin\x86\Debug\Microsoft.Data.Sqlite.xml
+C:\Users\minhh\OneDrive\Desktop\Combine\C-_WF-Intership-\Aikido\Aikido\bin\x86\Debug\Microsoft.EntityFrameworkCore.xml
+C:\Users\minhh\OneDrive\Desktop\Combine\C-_WF-Intership-\Aikido\Aikido\bin\x86\Debug\Microsoft.EntityFrameworkCore.Abstractions.xml
+C:\Users\minhh\OneDrive\Desktop\Combine\C-_WF-Intership-\Aikido\Aikido\bin\x86\Debug\Microsoft.EntityFrameworkCore.Relational.xml
+C:\Users\minhh\OneDrive\Desktop\Combine\C-_WF-Intership-\Aikido\Aikido\bin\x86\Debug\Microsoft.EntityFrameworkCore.Sqlite.xml
+C:\Users\minhh\OneDrive\Desktop\Combine\C-_WF-Intership-\Aikido\Aikido\bin\x86\Debug\Microsoft.Extensions.Caching.Abstractions.xml
+C:\Users\minhh\OneDrive\Desktop\Combine\C-_WF-Intership-\Aikido\Aikido\bin\x86\Debug\Microsoft.Extensions.Caching.Memory.xml
+C:\Users\minhh\OneDrive\Desktop\Combine\C-_WF-Intership-\Aikido\Aikido\bin\x86\Debug\Microsoft.Extensions.Configuration.xml
+C:\Users\minhh\OneDrive\Desktop\Combine\C-_WF-Intership-\Aikido\Aikido\bin\x86\Debug\Microsoft.Extensions.Configuration.Abstractions.xml
+C:\Users\minhh\OneDrive\Desktop\Combine\C-_WF-Intership-\Aikido\Aikido\bin\x86\Debug\Microsoft.Extensions.Configuration.Binder.xml
+C:\Users\minhh\OneDrive\Desktop\Combine\C-_WF-Intership-\Aikido\Aikido\bin\x86\Debug\Microsoft.Extensions.DependencyInjection.xml
+C:\Users\minhh\OneDrive\Desktop\Combine\C-_WF-Intership-\Aikido\Aikido\bin\x86\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\minhh\OneDrive\Desktop\Combine\C-_WF-Intership-\Aikido\Aikido\bin\x86\Debug\Microsoft.Extensions.Logging.xml
+C:\Users\minhh\OneDrive\Desktop\Combine\C-_WF-Intership-\Aikido\Aikido\bin\x86\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\minhh\OneDrive\Desktop\Combine\C-_WF-Intership-\Aikido\Aikido\bin\x86\Debug\Microsoft.Extensions.Options.xml
+C:\Users\minhh\OneDrive\Desktop\Combine\C-_WF-Intership-\Aikido\Aikido\bin\x86\Debug\Microsoft.Extensions.Primitives.xml
+C:\Users\minhh\OneDrive\Desktop\Combine\C-_WF-Intership-\Aikido\Aikido\bin\x86\Debug\Remotion.Linq.xml
+C:\Users\minhh\OneDrive\Desktop\Combine\C-_WF-Intership-\Aikido\Aikido\bin\x86\Debug\Spire.Doc.xml
+C:\Users\minhh\OneDrive\Desktop\Combine\C-_WF-Intership-\Aikido\Aikido\bin\x86\Debug\Spire.License.xml
+C:\Users\minhh\OneDrive\Desktop\Combine\C-_WF-Intership-\Aikido\Aikido\bin\x86\Debug\System.Buffers.xml
+C:\Users\minhh\OneDrive\Desktop\Combine\C-_WF-Intership-\Aikido\Aikido\bin\x86\Debug\System.Collections.Immutable.xml
+C:\Users\minhh\OneDrive\Desktop\Combine\C-_WF-Intership-\Aikido\Aikido\bin\x86\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\minhh\OneDrive\Desktop\Combine\C-_WF-Intership-\Aikido\Aikido\bin\x86\Debug\System.Interactive.Async.xml
+C:\Users\minhh\OneDrive\Desktop\Combine\C-_WF-Intership-\Aikido\Aikido\bin\x86\Debug\System.Memory.xml
+C:\Users\minhh\OneDrive\Desktop\Combine\C-_WF-Intership-\Aikido\Aikido\bin\x86\Debug\System.Numerics.Vectors.xml
+C:\Users\minhh\OneDrive\Desktop\Combine\C-_WF-Intership-\Aikido\Aikido\bin\x86\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\minhh\OneDrive\Desktop\Combine\C-_WF-Intership-\Aikido\Aikido\obj\x86\Debug\Aikido-Combine.csprojAssemblyReference.cache
+C:\Users\minhh\OneDrive\Desktop\Combine\C-_WF-Intership-\Aikido\Aikido\obj\x86\Debug\Aikido.exe.config
+C:\Users\minhh\OneDrive\Desktop\Combine\C-_WF-Intership-\Aikido\Aikido\obj\x86\Debug\VIEW\MainScreen.g.cs
+C:\Users\minhh\OneDrive\Desktop\Combine\C-_WF-Intership-\Aikido\Aikido\obj\x86\Debug\VIEW\ClassScreen.g.cs
+C:\Users\minhh\OneDrive\Desktop\Combine\C-_WF-Intership-\Aikido\Aikido\obj\x86\Debug\VIEW\FeeScreen.g.cs
+C:\Users\minhh\OneDrive\Desktop\Combine\C-_WF-Intership-\Aikido\Aikido\obj\x86\Debug\VIEW\QuickSearch.g.cs
+C:\Users\minhh\OneDrive\Desktop\Combine\C-_WF-Intership-\Aikido\Aikido\obj\x86\Debug\VIEW\RegisterMemberScreen.g.cs
+C:\Users\minhh\OneDrive\Desktop\Combine\C-_WF-Intership-\Aikido\Aikido\obj\x86\Debug\VIEW\SearchCondition.g.cs
+C:\Users\minhh\OneDrive\Desktop\Combine\C-_WF-Intership-\Aikido\Aikido\obj\x86\Debug\VIEW\SettingScreen.g.cs
+C:\Users\minhh\OneDrive\Desktop\Combine\C-_WF-Intership-\Aikido\Aikido\obj\x86\Debug\App.g.cs
+C:\Users\minhh\OneDrive\Desktop\Combine\C-_WF-Intership-\Aikido\Aikido\obj\x86\Debug\Aikido_Content.g.cs
+C:\Users\minhh\OneDrive\Desktop\Combine\C-_WF-Intership-\Aikido\Aikido\obj\x86\Debug\Aikido_MarkupCompile.cache
+C:\Users\minhh\OneDrive\Desktop\Combine\C-_WF-Intership-\Aikido\Aikido\obj\x86\Debug\Aikido_MarkupCompile.lref
+C:\Users\minhh\OneDrive\Desktop\Combine\C-_WF-Intership-\Aikido\Aikido\obj\x86\Debug\VIEW\MainScreen.baml
+C:\Users\minhh\OneDrive\Desktop\Combine\C-_WF-Intership-\Aikido\Aikido\obj\x86\Debug\VIEW\ClassScreen.baml
+C:\Users\minhh\OneDrive\Desktop\Combine\C-_WF-Intership-\Aikido\Aikido\obj\x86\Debug\VIEW\FeeScreen.baml
+C:\Users\minhh\OneDrive\Desktop\Combine\C-_WF-Intership-\Aikido\Aikido\obj\x86\Debug\VIEW\QuickSearch.baml
+C:\Users\minhh\OneDrive\Desktop\Combine\C-_WF-Intership-\Aikido\Aikido\obj\x86\Debug\VIEW\RegisterMemberScreen.baml
+C:\Users\minhh\OneDrive\Desktop\Combine\C-_WF-Intership-\Aikido\Aikido\obj\x86\Debug\VIEW\SearchCondition.baml
+C:\Users\minhh\OneDrive\Desktop\Combine\C-_WF-Intership-\Aikido\Aikido\obj\x86\Debug\VIEW\SettingScreen.baml
+C:\Users\minhh\OneDrive\Desktop\Combine\C-_WF-Intership-\Aikido\Aikido\obj\x86\Debug\Aikido.g.resources
+C:\Users\minhh\OneDrive\Desktop\Combine\C-_WF-Intership-\Aikido\Aikido\obj\x86\Debug\Aikido.Properties.Resources.resources
+C:\Users\minhh\OneDrive\Desktop\Combine\C-_WF-Intership-\Aikido\Aikido\obj\x86\Debug\Aikido-Combine.csproj.GenerateResource.cache
+C:\Users\minhh\OneDrive\Desktop\Combine\C-_WF-Intership-\Aikido\Aikido\obj\x86\Debug\Aikido-Combine.csproj.CoreCompileInputs.cache
+C:\Users\minhh\OneDrive\Desktop\Combine\C-_WF-Intership-\Aikido\Aikido\obj\x86\Debug\Aikido-Combine.csproj.CopyComplete
+C:\Users\minhh\OneDrive\Desktop\Combine\C-_WF-Intership-\Aikido\Aikido\obj\x86\Debug\Aikido.exe
+C:\Users\minhh\OneDrive\Desktop\Combine\C-_WF-Intership-\Aikido\Aikido\obj\x86\Debug\Aikido.pdb
+C:\Users\minhh\OneDrive\Desktop\C#_WF\Github\C-_WF-Intership-\Aikido\Aikido\bin\x86\Debug\x86\e_sqlite3.dll
+C:\Users\minhh\OneDrive\Desktop\C#_WF\Github\C-_WF-Intership-\Aikido\Aikido\bin\x86\Debug\x64\e_sqlite3.dll
+C:\Users\minhh\OneDrive\Desktop\C#_WF\Github\C-_WF-Intership-\Aikido\Aikido\bin\x86\Debug\Aikido.exe.config
+C:\Users\minhh\OneDrive\Desktop\C#_WF\Github\C-_WF-Intership-\Aikido\Aikido\bin\x86\Debug\Aikido.exe
+C:\Users\minhh\OneDrive\Desktop\C#_WF\Github\C-_WF-Intership-\Aikido\Aikido\bin\x86\Debug\Aikido.pdb
+C:\Users\minhh\OneDrive\Desktop\C#_WF\Github\C-_WF-Intership-\Aikido\Aikido\bin\x86\Debug\Microsoft.Win32.Primitives.dll
+C:\Users\minhh\OneDrive\Desktop\C#_WF\Github\C-_WF-Intership-\Aikido\Aikido\bin\x86\Debug\netstandard.dll
+C:\Users\minhh\OneDrive\Desktop\C#_WF\Github\C-_WF-Intership-\Aikido\Aikido\bin\x86\Debug\System.AppContext.dll
+C:\Users\minhh\OneDrive\Desktop\C#_WF\Github\C-_WF-Intership-\Aikido\Aikido\bin\x86\Debug\System.Collections.Concurrent.dll
+C:\Users\minhh\OneDrive\Desktop\C#_WF\Github\C-_WF-Intership-\Aikido\Aikido\bin\x86\Debug\System.Collections.dll
+C:\Users\minhh\OneDrive\Desktop\C#_WF\Github\C-_WF-Intership-\Aikido\Aikido\bin\x86\Debug\System.Collections.NonGeneric.dll
+C:\Users\minhh\OneDrive\Desktop\C#_WF\Github\C-_WF-Intership-\Aikido\Aikido\bin\x86\Debug\System.Collections.Specialized.dll
+C:\Users\minhh\OneDrive\Desktop\C#_WF\Github\C-_WF-Intership-\Aikido\Aikido\bin\x86\Debug\System.ComponentModel.dll
+C:\Users\minhh\OneDrive\Desktop\C#_WF\Github\C-_WF-Intership-\Aikido\Aikido\bin\x86\Debug\System.ComponentModel.EventBasedAsync.dll
+C:\Users\minhh\OneDrive\Desktop\C#_WF\Github\C-_WF-Intership-\Aikido\Aikido\bin\x86\Debug\System.ComponentModel.Primitives.dll
+C:\Users\minhh\OneDrive\Desktop\C#_WF\Github\C-_WF-Intership-\Aikido\Aikido\bin\x86\Debug\System.ComponentModel.TypeConverter.dll
+C:\Users\minhh\OneDrive\Desktop\C#_WF\Github\C-_WF-Intership-\Aikido\Aikido\bin\x86\Debug\System.Console.dll
+C:\Users\minhh\OneDrive\Desktop\C#_WF\Github\C-_WF-Intership-\Aikido\Aikido\bin\x86\Debug\System.Data.Common.dll
+C:\Users\minhh\OneDrive\Desktop\C#_WF\Github\C-_WF-Intership-\Aikido\Aikido\bin\x86\Debug\System.Diagnostics.Contracts.dll
+C:\Users\minhh\OneDrive\Desktop\C#_WF\Github\C-_WF-Intership-\Aikido\Aikido\bin\x86\Debug\System.Diagnostics.Debug.dll
+C:\Users\minhh\OneDrive\Desktop\C#_WF\Github\C-_WF-Intership-\Aikido\Aikido\bin\x86\Debug\System.Diagnostics.FileVersionInfo.dll
+C:\Users\minhh\OneDrive\Desktop\C#_WF\Github\C-_WF-Intership-\Aikido\Aikido\bin\x86\Debug\System.Diagnostics.Process.dll
+C:\Users\minhh\OneDrive\Desktop\C#_WF\Github\C-_WF-Intership-\Aikido\Aikido\bin\x86\Debug\System.Diagnostics.StackTrace.dll
+C:\Users\minhh\OneDrive\Desktop\C#_WF\Github\C-_WF-Intership-\Aikido\Aikido\bin\x86\Debug\System.Diagnostics.TextWriterTraceListener.dll
+C:\Users\minhh\OneDrive\Desktop\C#_WF\Github\C-_WF-Intership-\Aikido\Aikido\bin\x86\Debug\System.Diagnostics.Tools.dll
+C:\Users\minhh\OneDrive\Desktop\C#_WF\Github\C-_WF-Intership-\Aikido\Aikido\bin\x86\Debug\System.Diagnostics.TraceSource.dll
+C:\Users\minhh\OneDrive\Desktop\C#_WF\Github\C-_WF-Intership-\Aikido\Aikido\bin\x86\Debug\System.Diagnostics.Tracing.dll
+C:\Users\minhh\OneDrive\Desktop\C#_WF\Github\C-_WF-Intership-\Aikido\Aikido\bin\x86\Debug\System.Drawing.Primitives.dll
+C:\Users\minhh\OneDrive\Desktop\C#_WF\Github\C-_WF-Intership-\Aikido\Aikido\bin\x86\Debug\System.Dynamic.Runtime.dll
+C:\Users\minhh\OneDrive\Desktop\C#_WF\Github\C-_WF-Intership-\Aikido\Aikido\bin\x86\Debug\System.Globalization.Calendars.dll
+C:\Users\minhh\OneDrive\Desktop\C#_WF\Github\C-_WF-Intership-\Aikido\Aikido\bin\x86\Debug\System.Globalization.dll
+C:\Users\minhh\OneDrive\Desktop\C#_WF\Github\C-_WF-Intership-\Aikido\Aikido\bin\x86\Debug\System.Globalization.Extensions.dll
+C:\Users\minhh\OneDrive\Desktop\C#_WF\Github\C-_WF-Intership-\Aikido\Aikido\bin\x86\Debug\System.IO.Compression.dll
+C:\Users\minhh\OneDrive\Desktop\C#_WF\Github\C-_WF-Intership-\Aikido\Aikido\bin\x86\Debug\System.IO.Compression.ZipFile.dll
+C:\Users\minhh\OneDrive\Desktop\C#_WF\Github\C-_WF-Intership-\Aikido\Aikido\bin\x86\Debug\System.IO.dll
+C:\Users\minhh\OneDrive\Desktop\C#_WF\Github\C-_WF-Intership-\Aikido\Aikido\bin\x86\Debug\System.IO.FileSystem.dll
+C:\Users\minhh\OneDrive\Desktop\C#_WF\Github\C-_WF-Intership-\Aikido\Aikido\bin\x86\Debug\System.IO.FileSystem.DriveInfo.dll
+C:\Users\minhh\OneDrive\Desktop\C#_WF\Github\C-_WF-Intership-\Aikido\Aikido\bin\x86\Debug\System.IO.FileSystem.Primitives.dll
+C:\Users\minhh\OneDrive\Desktop\C#_WF\Github\C-_WF-Intership-\Aikido\Aikido\bin\x86\Debug\System.IO.FileSystem.Watcher.dll
+C:\Users\minhh\OneDrive\Desktop\C#_WF\Github\C-_WF-Intership-\Aikido\Aikido\bin\x86\Debug\System.IO.IsolatedStorage.dll
+C:\Users\minhh\OneDrive\Desktop\C#_WF\Github\C-_WF-Intership-\Aikido\Aikido\bin\x86\Debug\System.IO.MemoryMappedFiles.dll
+C:\Users\minhh\OneDrive\Desktop\C#_WF\Github\C-_WF-Intership-\Aikido\Aikido\bin\x86\Debug\System.IO.Pipes.dll
+C:\Users\minhh\OneDrive\Desktop\C#_WF\Github\C-_WF-Intership-\Aikido\Aikido\bin\x86\Debug\System.IO.UnmanagedMemoryStream.dll
+C:\Users\minhh\OneDrive\Desktop\C#_WF\Github\C-_WF-Intership-\Aikido\Aikido\bin\x86\Debug\System.Linq.dll
+C:\Users\minhh\OneDrive\Desktop\C#_WF\Github\C-_WF-Intership-\Aikido\Aikido\bin\x86\Debug\System.Linq.Expressions.dll
+C:\Users\minhh\OneDrive\Desktop\C#_WF\Github\C-_WF-Intership-\Aikido\Aikido\bin\x86\Debug\System.Linq.Parallel.dll
+C:\Users\minhh\OneDrive\Desktop\C#_WF\Github\C-_WF-Intership-\Aikido\Aikido\bin\x86\Debug\System.Linq.Queryable.dll
+C:\Users\minhh\OneDrive\Desktop\C#_WF\Github\C-_WF-Intership-\Aikido\Aikido\bin\x86\Debug\System.Net.Http.dll
+C:\Users\minhh\OneDrive\Desktop\C#_WF\Github\C-_WF-Intership-\Aikido\Aikido\bin\x86\Debug\System.Net.NameResolution.dll
+C:\Users\minhh\OneDrive\Desktop\C#_WF\Github\C-_WF-Intership-\Aikido\Aikido\bin\x86\Debug\System.Net.NetworkInformation.dll
+C:\Users\minhh\OneDrive\Desktop\C#_WF\Github\C-_WF-Intership-\Aikido\Aikido\bin\x86\Debug\System.Net.Ping.dll
+C:\Users\minhh\OneDrive\Desktop\C#_WF\Github\C-_WF-Intership-\Aikido\Aikido\bin\x86\Debug\System.Net.Primitives.dll
+C:\Users\minhh\OneDrive\Desktop\C#_WF\Github\C-_WF-Intership-\Aikido\Aikido\bin\x86\Debug\System.Net.Requests.dll
+C:\Users\minhh\OneDrive\Desktop\C#_WF\Github\C-_WF-Intership-\Aikido\Aikido\bin\x86\Debug\System.Net.Security.dll
+C:\Users\minhh\OneDrive\Desktop\C#_WF\Github\C-_WF-Intership-\Aikido\Aikido\bin\x86\Debug\System.Net.Sockets.dll
+C:\Users\minhh\OneDrive\Desktop\C#_WF\Github\C-_WF-Intership-\Aikido\Aikido\bin\x86\Debug\System.Net.WebHeaderCollection.dll
+C:\Users\minhh\OneDrive\Desktop\C#_WF\Github\C-_WF-Intership-\Aikido\Aikido\bin\x86\Debug\System.Net.WebSockets.Client.dll
+C:\Users\minhh\OneDrive\Desktop\C#_WF\Github\C-_WF-Intership-\Aikido\Aikido\bin\x86\Debug\System.Net.WebSockets.dll
+C:\Users\minhh\OneDrive\Desktop\C#_WF\Github\C-_WF-Intership-\Aikido\Aikido\bin\x86\Debug\System.ObjectModel.dll
+C:\Users\minhh\OneDrive\Desktop\C#_WF\Github\C-_WF-Intership-\Aikido\Aikido\bin\x86\Debug\System.Reflection.dll
+C:\Users\minhh\OneDrive\Desktop\C#_WF\Github\C-_WF-Intership-\Aikido\Aikido\bin\x86\Debug\System.Reflection.Extensions.dll
+C:\Users\minhh\OneDrive\Desktop\C#_WF\Github\C-_WF-Intership-\Aikido\Aikido\bin\x86\Debug\System.Reflection.Primitives.dll
+C:\Users\minhh\OneDrive\Desktop\C#_WF\Github\C-_WF-Intership-\Aikido\Aikido\bin\x86\Debug\System.Resources.Reader.dll
+C:\Users\minhh\OneDrive\Desktop\C#_WF\Github\C-_WF-Intership-\Aikido\Aikido\bin\x86\Debug\System.Resources.ResourceManager.dll
+C:\Users\minhh\OneDrive\Desktop\C#_WF\Github\C-_WF-Intership-\Aikido\Aikido\bin\x86\Debug\System.Resources.Writer.dll
+C:\Users\minhh\OneDrive\Desktop\C#_WF\Github\C-_WF-Intership-\Aikido\Aikido\bin\x86\Debug\System.Runtime.CompilerServices.VisualC.dll
+C:\Users\minhh\OneDrive\Desktop\C#_WF\Github\C-_WF-Intership-\Aikido\Aikido\bin\x86\Debug\System.Runtime.dll
+C:\Users\minhh\OneDrive\Desktop\C#_WF\Github\C-_WF-Intership-\Aikido\Aikido\bin\x86\Debug\System.Runtime.Extensions.dll
+C:\Users\minhh\OneDrive\Desktop\C#_WF\Github\C-_WF-Intership-\Aikido\Aikido\bin\x86\Debug\System.Runtime.Handles.dll
+C:\Users\minhh\OneDrive\Desktop\C#_WF\Github\C-_WF-Intership-\Aikido\Aikido\bin\x86\Debug\System.Runtime.InteropServices.dll
+C:\Users\minhh\OneDrive\Desktop\C#_WF\Github\C-_WF-Intership-\Aikido\Aikido\bin\x86\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\minhh\OneDrive\Desktop\C#_WF\Github\C-_WF-Intership-\Aikido\Aikido\bin\x86\Debug\System.Runtime.Numerics.dll
+C:\Users\minhh\OneDrive\Desktop\C#_WF\Github\C-_WF-Intership-\Aikido\Aikido\bin\x86\Debug\System.Runtime.Serialization.Formatters.dll
+C:\Users\minhh\OneDrive\Desktop\C#_WF\Github\C-_WF-Intership-\Aikido\Aikido\bin\x86\Debug\System.Runtime.Serialization.Json.dll
+C:\Users\minhh\OneDrive\Desktop\C#_WF\Github\C-_WF-Intership-\Aikido\Aikido\bin\x86\Debug\System.Runtime.Serialization.Primitives.dll
+C:\Users\minhh\OneDrive\Desktop\C#_WF\Github\C-_WF-Intership-\Aikido\Aikido\bin\x86\Debug\System.Runtime.Serialization.Xml.dll
+C:\Users\minhh\OneDrive\Desktop\C#_WF\Github\C-_WF-Intership-\Aikido\Aikido\bin\x86\Debug\System.Security.Claims.dll
+C:\Users\minhh\OneDrive\Desktop\C#_WF\Github\C-_WF-Intership-\Aikido\Aikido\bin\x86\Debug\System.Security.Cryptography.Algorithms.dll
+C:\Users\minhh\OneDrive\Desktop\C#_WF\Github\C-_WF-Intership-\Aikido\Aikido\bin\x86\Debug\System.Security.Cryptography.Csp.dll
+C:\Users\minhh\OneDrive\Desktop\C#_WF\Github\C-_WF-Intership-\Aikido\Aikido\bin\x86\Debug\System.Security.Cryptography.Encoding.dll
+C:\Users\minhh\OneDrive\Desktop\C#_WF\Github\C-_WF-Intership-\Aikido\Aikido\bin\x86\Debug\System.Security.Cryptography.Primitives.dll
+C:\Users\minhh\OneDrive\Desktop\C#_WF\Github\C-_WF-Intership-\Aikido\Aikido\bin\x86\Debug\System.Security.Cryptography.X509Certificates.dll
+C:\Users\minhh\OneDrive\Desktop\C#_WF\Github\C-_WF-Intership-\Aikido\Aikido\bin\x86\Debug\System.Security.Principal.dll
+C:\Users\minhh\OneDrive\Desktop\C#_WF\Github\C-_WF-Intership-\Aikido\Aikido\bin\x86\Debug\System.Security.SecureString.dll
+C:\Users\minhh\OneDrive\Desktop\C#_WF\Github\C-_WF-Intership-\Aikido\Aikido\bin\x86\Debug\System.Text.Encoding.dll
+C:\Users\minhh\OneDrive\Desktop\C#_WF\Github\C-_WF-Intership-\Aikido\Aikido\bin\x86\Debug\System.Text.Encoding.Extensions.dll
+C:\Users\minhh\OneDrive\Desktop\C#_WF\Github\C-_WF-Intership-\Aikido\Aikido\bin\x86\Debug\System.Text.RegularExpressions.dll
+C:\Users\minhh\OneDrive\Desktop\C#_WF\Github\C-_WF-Intership-\Aikido\Aikido\bin\x86\Debug\System.Threading.dll
+C:\Users\minhh\OneDrive\Desktop\C#_WF\Github\C-_WF-Intership-\Aikido\Aikido\bin\x86\Debug\System.Threading.Overlapped.dll
+C:\Users\minhh\OneDrive\Desktop\C#_WF\Github\C-_WF-Intership-\Aikido\Aikido\bin\x86\Debug\System.Threading.Tasks.dll
+C:\Users\minhh\OneDrive\Desktop\C#_WF\Github\C-_WF-Intership-\Aikido\Aikido\bin\x86\Debug\System.Threading.Tasks.Parallel.dll
+C:\Users\minhh\OneDrive\Desktop\C#_WF\Github\C-_WF-Intership-\Aikido\Aikido\bin\x86\Debug\System.Threading.Thread.dll
+C:\Users\minhh\OneDrive\Desktop\C#_WF\Github\C-_WF-Intership-\Aikido\Aikido\bin\x86\Debug\System.Threading.ThreadPool.dll
+C:\Users\minhh\OneDrive\Desktop\C#_WF\Github\C-_WF-Intership-\Aikido\Aikido\bin\x86\Debug\System.Threading.Timer.dll
+C:\Users\minhh\OneDrive\Desktop\C#_WF\Github\C-_WF-Intership-\Aikido\Aikido\bin\x86\Debug\System.ValueTuple.dll
+C:\Users\minhh\OneDrive\Desktop\C#_WF\Github\C-_WF-Intership-\Aikido\Aikido\bin\x86\Debug\System.Xml.ReaderWriter.dll
+C:\Users\minhh\OneDrive\Desktop\C#_WF\Github\C-_WF-Intership-\Aikido\Aikido\bin\x86\Debug\System.Xml.XDocument.dll
+C:\Users\minhh\OneDrive\Desktop\C#_WF\Github\C-_WF-Intership-\Aikido\Aikido\bin\x86\Debug\System.Xml.XmlDocument.dll
+C:\Users\minhh\OneDrive\Desktop\C#_WF\Github\C-_WF-Intership-\Aikido\Aikido\bin\x86\Debug\System.Xml.XmlSerializer.dll
+C:\Users\minhh\OneDrive\Desktop\C#_WF\Github\C-_WF-Intership-\Aikido\Aikido\bin\x86\Debug\System.Xml.XPath.dll
+C:\Users\minhh\OneDrive\Desktop\C#_WF\Github\C-_WF-Intership-\Aikido\Aikido\bin\x86\Debug\System.Xml.XPath.XDocument.dll
+C:\Users\minhh\OneDrive\Desktop\C#_WF\Github\C-_WF-Intership-\Aikido\Aikido\bin\x86\Debug\EntityFramework.dll
+C:\Users\minhh\OneDrive\Desktop\C#_WF\Github\C-_WF-Intership-\Aikido\Aikido\bin\x86\Debug\EntityFramework.SqlServer.dll
+C:\Users\minhh\OneDrive\Desktop\C#_WF\Github\C-_WF-Intership-\Aikido\Aikido\bin\x86\Debug\Microsoft.Data.Sqlite.dll
+C:\Users\minhh\OneDrive\Desktop\C#_WF\Github\C-_WF-Intership-\Aikido\Aikido\bin\x86\Debug\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\minhh\OneDrive\Desktop\C#_WF\Github\C-_WF-Intership-\Aikido\Aikido\bin\x86\Debug\Microsoft.EntityFrameworkCore.dll
+C:\Users\minhh\OneDrive\Desktop\C#_WF\Github\C-_WF-Intership-\Aikido\Aikido\bin\x86\Debug\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\minhh\OneDrive\Desktop\C#_WF\Github\C-_WF-Intership-\Aikido\Aikido\bin\x86\Debug\Microsoft.EntityFrameworkCore.Sqlite.dll
+C:\Users\minhh\OneDrive\Desktop\C#_WF\Github\C-_WF-Intership-\Aikido\Aikido\bin\x86\Debug\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\minhh\OneDrive\Desktop\C#_WF\Github\C-_WF-Intership-\Aikido\Aikido\bin\x86\Debug\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\minhh\OneDrive\Desktop\C#_WF\Github\C-_WF-Intership-\Aikido\Aikido\bin\x86\Debug\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\minhh\OneDrive\Desktop\C#_WF\Github\C-_WF-Intership-\Aikido\Aikido\bin\x86\Debug\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\minhh\OneDrive\Desktop\C#_WF\Github\C-_WF-Intership-\Aikido\Aikido\bin\x86\Debug\Microsoft.Extensions.Configuration.dll
+C:\Users\minhh\OneDrive\Desktop\C#_WF\Github\C-_WF-Intership-\Aikido\Aikido\bin\x86\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\minhh\OneDrive\Desktop\C#_WF\Github\C-_WF-Intership-\Aikido\Aikido\bin\x86\Debug\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\minhh\OneDrive\Desktop\C#_WF\Github\C-_WF-Intership-\Aikido\Aikido\bin\x86\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\minhh\OneDrive\Desktop\C#_WF\Github\C-_WF-Intership-\Aikido\Aikido\bin\x86\Debug\Microsoft.Extensions.Logging.dll
+C:\Users\minhh\OneDrive\Desktop\C#_WF\Github\C-_WF-Intership-\Aikido\Aikido\bin\x86\Debug\Microsoft.Extensions.Options.dll
+C:\Users\minhh\OneDrive\Desktop\C#_WF\Github\C-_WF-Intership-\Aikido\Aikido\bin\x86\Debug\Microsoft.Extensions.Primitives.dll
+C:\Users\minhh\OneDrive\Desktop\C#_WF\Github\C-_WF-Intership-\Aikido\Aikido\bin\x86\Debug\Remotion.Linq.dll
+C:\Users\minhh\OneDrive\Desktop\C#_WF\Github\C-_WF-Intership-\Aikido\Aikido\bin\x86\Debug\Spire.Doc.dll
+C:\Users\minhh\OneDrive\Desktop\C#_WF\Github\C-_WF-Intership-\Aikido\Aikido\bin\x86\Debug\Spire.License.dll
+C:\Users\minhh\OneDrive\Desktop\C#_WF\Github\C-_WF-Intership-\Aikido\Aikido\bin\x86\Debug\Spire.Pdf.dll
+C:\Users\minhh\OneDrive\Desktop\C#_WF\Github\C-_WF-Intership-\Aikido\Aikido\bin\x86\Debug\SQLitePCLRaw.batteries_green.dll
+C:\Users\minhh\OneDrive\Desktop\C#_WF\Github\C-_WF-Intership-\Aikido\Aikido\bin\x86\Debug\SQLitePCLRaw.batteries_v2.dll
+C:\Users\minhh\OneDrive\Desktop\C#_WF\Github\C-_WF-Intership-\Aikido\Aikido\bin\x86\Debug\SQLitePCLRaw.core.dll
+C:\Users\minhh\OneDrive\Desktop\C#_WF\Github\C-_WF-Intership-\Aikido\Aikido\bin\x86\Debug\SQLitePCLRaw.provider.e_sqlite3.dll
+C:\Users\minhh\OneDrive\Desktop\C#_WF\Github\C-_WF-Intership-\Aikido\Aikido\bin\x86\Debug\System.Buffers.dll
+C:\Users\minhh\OneDrive\Desktop\C#_WF\Github\C-_WF-Intership-\Aikido\Aikido\bin\x86\Debug\System.Collections.Immutable.dll
+C:\Users\minhh\OneDrive\Desktop\C#_WF\Github\C-_WF-Intership-\Aikido\Aikido\bin\x86\Debug\System.ComponentModel.Annotations.dll
+C:\Users\minhh\OneDrive\Desktop\C#_WF\Github\C-_WF-Intership-\Aikido\Aikido\bin\x86\Debug\System.Data.SQLite.EF6.dll
+C:\Users\minhh\OneDrive\Desktop\C#_WF\Github\C-_WF-Intership-\Aikido\Aikido\bin\x86\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\minhh\OneDrive\Desktop\C#_WF\Github\C-_WF-Intership-\Aikido\Aikido\bin\x86\Debug\System.Interactive.Async.dll
+C:\Users\minhh\OneDrive\Desktop\C#_WF\Github\C-_WF-Intership-\Aikido\Aikido\bin\x86\Debug\System.Memory.dll
+C:\Users\minhh\OneDrive\Desktop\C#_WF\Github\C-_WF-Intership-\Aikido\Aikido\bin\x86\Debug\System.Numerics.Vectors.dll
+C:\Users\minhh\OneDrive\Desktop\C#_WF\Github\C-_WF-Intership-\Aikido\Aikido\bin\x86\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\minhh\OneDrive\Desktop\C#_WF\Github\C-_WF-Intership-\Aikido\Aikido\bin\x86\Debug\Microsoft.mshtml.dll
+C:\Users\minhh\OneDrive\Desktop\C#_WF\Github\C-_WF-Intership-\Aikido\Aikido\bin\x86\Debug\EntityFramework.xml
+C:\Users\minhh\OneDrive\Desktop\C#_WF\Github\C-_WF-Intership-\Aikido\Aikido\bin\x86\Debug\EntityFramework.SqlServer.xml
+C:\Users\minhh\OneDrive\Desktop\C#_WF\Github\C-_WF-Intership-\Aikido\Aikido\bin\x86\Debug\Microsoft.Data.Sqlite.xml
+C:\Users\minhh\OneDrive\Desktop\C#_WF\Github\C-_WF-Intership-\Aikido\Aikido\bin\x86\Debug\Microsoft.EntityFrameworkCore.xml
+C:\Users\minhh\OneDrive\Desktop\C#_WF\Github\C-_WF-Intership-\Aikido\Aikido\bin\x86\Debug\Microsoft.EntityFrameworkCore.Abstractions.xml
+C:\Users\minhh\OneDrive\Desktop\C#_WF\Github\C-_WF-Intership-\Aikido\Aikido\bin\x86\Debug\Microsoft.EntityFrameworkCore.Relational.xml
+C:\Users\minhh\OneDrive\Desktop\C#_WF\Github\C-_WF-Intership-\Aikido\Aikido\bin\x86\Debug\Microsoft.EntityFrameworkCore.Sqlite.xml
+C:\Users\minhh\OneDrive\Desktop\C#_WF\Github\C-_WF-Intership-\Aikido\Aikido\bin\x86\Debug\Microsoft.Extensions.Caching.Abstractions.xml
+C:\Users\minhh\OneDrive\Desktop\C#_WF\Github\C-_WF-Intership-\Aikido\Aikido\bin\x86\Debug\Microsoft.Extensions.Caching.Memory.xml
+C:\Users\minhh\OneDrive\Desktop\C#_WF\Github\C-_WF-Intership-\Aikido\Aikido\bin\x86\Debug\Microsoft.Extensions.Configuration.xml
+C:\Users\minhh\OneDrive\Desktop\C#_WF\Github\C-_WF-Intership-\Aikido\Aikido\bin\x86\Debug\Microsoft.Extensions.Configuration.Abstractions.xml
+C:\Users\minhh\OneDrive\Desktop\C#_WF\Github\C-_WF-Intership-\Aikido\Aikido\bin\x86\Debug\Microsoft.Extensions.Configuration.Binder.xml
+C:\Users\minhh\OneDrive\Desktop\C#_WF\Github\C-_WF-Intership-\Aikido\Aikido\bin\x86\Debug\Microsoft.Extensions.DependencyInjection.xml
+C:\Users\minhh\OneDrive\Desktop\C#_WF\Github\C-_WF-Intership-\Aikido\Aikido\bin\x86\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\minhh\OneDrive\Desktop\C#_WF\Github\C-_WF-Intership-\Aikido\Aikido\bin\x86\Debug\Microsoft.Extensions.Logging.xml
+C:\Users\minhh\OneDrive\Desktop\C#_WF\Github\C-_WF-Intership-\Aikido\Aikido\bin\x86\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\minhh\OneDrive\Desktop\C#_WF\Github\C-_WF-Intership-\Aikido\Aikido\bin\x86\Debug\Microsoft.Extensions.Options.xml
+C:\Users\minhh\OneDrive\Desktop\C#_WF\Github\C-_WF-Intership-\Aikido\Aikido\bin\x86\Debug\Microsoft.Extensions.Primitives.xml
+C:\Users\minhh\OneDrive\Desktop\C#_WF\Github\C-_WF-Intership-\Aikido\Aikido\bin\x86\Debug\Remotion.Linq.xml
+C:\Users\minhh\OneDrive\Desktop\C#_WF\Github\C-_WF-Intership-\Aikido\Aikido\bin\x86\Debug\Spire.Doc.xml
+C:\Users\minhh\OneDrive\Desktop\C#_WF\Github\C-_WF-Intership-\Aikido\Aikido\bin\x86\Debug\Spire.License.xml
+C:\Users\minhh\OneDrive\Desktop\C#_WF\Github\C-_WF-Intership-\Aikido\Aikido\bin\x86\Debug\System.Buffers.xml
+C:\Users\minhh\OneDrive\Desktop\C#_WF\Github\C-_WF-Intership-\Aikido\Aikido\bin\x86\Debug\System.Collections.Immutable.xml
+C:\Users\minhh\OneDrive\Desktop\C#_WF\Github\C-_WF-Intership-\Aikido\Aikido\bin\x86\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\minhh\OneDrive\Desktop\C#_WF\Github\C-_WF-Intership-\Aikido\Aikido\bin\x86\Debug\System.Interactive.Async.xml
+C:\Users\minhh\OneDrive\Desktop\C#_WF\Github\C-_WF-Intership-\Aikido\Aikido\bin\x86\Debug\System.Memory.xml
+C:\Users\minhh\OneDrive\Desktop\C#_WF\Github\C-_WF-Intership-\Aikido\Aikido\bin\x86\Debug\System.Numerics.Vectors.xml
+C:\Users\minhh\OneDrive\Desktop\C#_WF\Github\C-_WF-Intership-\Aikido\Aikido\bin\x86\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\minhh\OneDrive\Desktop\C#_WF\Github\C-_WF-Intership-\Aikido\Aikido\obj\x86\Debug\Aikido-Combine.csprojAssemblyReference.cache
+C:\Users\minhh\OneDrive\Desktop\C#_WF\Github\C-_WF-Intership-\Aikido\Aikido\obj\x86\Debug\Aikido.exe.config
+C:\Users\minhh\OneDrive\Desktop\C#_WF\Github\C-_WF-Intership-\Aikido\Aikido\obj\x86\Debug\VIEW\MainScreen.g.cs
+C:\Users\minhh\OneDrive\Desktop\C#_WF\Github\C-_WF-Intership-\Aikido\Aikido\obj\x86\Debug\VIEW\ClassScreen.g.cs
+C:\Users\minhh\OneDrive\Desktop\C#_WF\Github\C-_WF-Intership-\Aikido\Aikido\obj\x86\Debug\VIEW\FeeScreen.g.cs
+C:\Users\minhh\OneDrive\Desktop\C#_WF\Github\C-_WF-Intership-\Aikido\Aikido\obj\x86\Debug\VIEW\QuickSearch.g.cs
+C:\Users\minhh\OneDrive\Desktop\C#_WF\Github\C-_WF-Intership-\Aikido\Aikido\obj\x86\Debug\VIEW\RegisterMemberScreen.g.cs
+C:\Users\minhh\OneDrive\Desktop\C#_WF\Github\C-_WF-Intership-\Aikido\Aikido\obj\x86\Debug\VIEW\SearchCondition.g.cs
+C:\Users\minhh\OneDrive\Desktop\C#_WF\Github\C-_WF-Intership-\Aikido\Aikido\obj\x86\Debug\VIEW\SettingScreen.g.cs
+C:\Users\minhh\OneDrive\Desktop\C#_WF\Github\C-_WF-Intership-\Aikido\Aikido\obj\x86\Debug\App.g.cs
+C:\Users\minhh\OneDrive\Desktop\C#_WF\Github\C-_WF-Intership-\Aikido\Aikido\obj\x86\Debug\Aikido_Content.g.cs
+C:\Users\minhh\OneDrive\Desktop\C#_WF\Github\C-_WF-Intership-\Aikido\Aikido\obj\x86\Debug\Aikido_MarkupCompile.cache
+C:\Users\minhh\OneDrive\Desktop\C#_WF\Github\C-_WF-Intership-\Aikido\Aikido\obj\x86\Debug\Aikido_MarkupCompile.lref
+C:\Users\minhh\OneDrive\Desktop\C#_WF\Github\C-_WF-Intership-\Aikido\Aikido\obj\x86\Debug\VIEW\MainScreen.baml
+C:\Users\minhh\OneDrive\Desktop\C#_WF\Github\C-_WF-Intership-\Aikido\Aikido\obj\x86\Debug\VIEW\ClassScreen.baml
+C:\Users\minhh\OneDrive\Desktop\C#_WF\Github\C-_WF-Intership-\Aikido\Aikido\obj\x86\Debug\VIEW\FeeScreen.baml
+C:\Users\minhh\OneDrive\Desktop\C#_WF\Github\C-_WF-Intership-\Aikido\Aikido\obj\x86\Debug\VIEW\QuickSearch.baml
+C:\Users\minhh\OneDrive\Desktop\C#_WF\Github\C-_WF-Intership-\Aikido\Aikido\obj\x86\Debug\VIEW\RegisterMemberScreen.baml
+C:\Users\minhh\OneDrive\Desktop\C#_WF\Github\C-_WF-Intership-\Aikido\Aikido\obj\x86\Debug\VIEW\SearchCondition.baml
+C:\Users\minhh\OneDrive\Desktop\C#_WF\Github\C-_WF-Intership-\Aikido\Aikido\obj\x86\Debug\VIEW\SettingScreen.baml
+C:\Users\minhh\OneDrive\Desktop\C#_WF\Github\C-_WF-Intership-\Aikido\Aikido\obj\x86\Debug\Aikido.g.resources
+C:\Users\minhh\OneDrive\Desktop\C#_WF\Github\C-_WF-Intership-\Aikido\Aikido\obj\x86\Debug\Aikido.Properties.Resources.resources
+C:\Users\minhh\OneDrive\Desktop\C#_WF\Github\C-_WF-Intership-\Aikido\Aikido\obj\x86\Debug\Aikido-Combine.csproj.GenerateResource.cache
+C:\Users\minhh\OneDrive\Desktop\C#_WF\Github\C-_WF-Intership-\Aikido\Aikido\obj\x86\Debug\Aikido-Combine.csproj.CoreCompileInputs.cache
+C:\Users\minhh\OneDrive\Desktop\C#_WF\Github\C-_WF-Intership-\Aikido\Aikido\obj\x86\Debug\Aikido-Combine.csproj.CopyComplete
+C:\Users\minhh\OneDrive\Desktop\C#_WF\Github\C-_WF-Intership-\Aikido\Aikido\obj\x86\Debug\Aikido.exe
+C:\Users\minhh\OneDrive\Desktop\C#_WF\Github\C-_WF-Intership-\Aikido\Aikido\obj\x86\Debug\Aikido.pdb
+C:\Users\VUONGVANHAU\Desktop\Intern Program\Winfrom Aikido\Combine\C-_WF-Intership-\Aikido\Aikido\bin\x86\Debug\x86\e_sqlite3.dll
+C:\Users\VUONGVANHAU\Desktop\Intern Program\Winfrom Aikido\Combine\C-_WF-Intership-\Aikido\Aikido\bin\x86\Debug\x64\e_sqlite3.dll
+C:\Users\VUONGVANHAU\Desktop\Intern Program\Winfrom Aikido\Combine\C-_WF-Intership-\Aikido\Aikido\bin\x86\Debug\Aikido.exe.config
+C:\Users\VUONGVANHAU\Desktop\Intern Program\Winfrom Aikido\Combine\C-_WF-Intership-\Aikido\Aikido\bin\x86\Debug\Aikido.exe
+C:\Users\VUONGVANHAU\Desktop\Intern Program\Winfrom Aikido\Combine\C-_WF-Intership-\Aikido\Aikido\bin\x86\Debug\Aikido.pdb
+C:\Users\VUONGVANHAU\Desktop\Intern Program\Winfrom Aikido\Combine\C-_WF-Intership-\Aikido\Aikido\bin\x86\Debug\Microsoft.Win32.Primitives.dll
+C:\Users\VUONGVANHAU\Desktop\Intern Program\Winfrom Aikido\Combine\C-_WF-Intership-\Aikido\Aikido\bin\x86\Debug\netstandard.dll
+C:\Users\VUONGVANHAU\Desktop\Intern Program\Winfrom Aikido\Combine\C-_WF-Intership-\Aikido\Aikido\bin\x86\Debug\System.AppContext.dll
+C:\Users\VUONGVANHAU\Desktop\Intern Program\Winfrom Aikido\Combine\C-_WF-Intership-\Aikido\Aikido\bin\x86\Debug\System.Collections.Concurrent.dll
+C:\Users\VUONGVANHAU\Desktop\Intern Program\Winfrom Aikido\Combine\C-_WF-Intership-\Aikido\Aikido\bin\x86\Debug\System.Collections.dll
+C:\Users\VUONGVANHAU\Desktop\Intern Program\Winfrom Aikido\Combine\C-_WF-Intership-\Aikido\Aikido\bin\x86\Debug\System.Collections.NonGeneric.dll
+C:\Users\VUONGVANHAU\Desktop\Intern Program\Winfrom Aikido\Combine\C-_WF-Intership-\Aikido\Aikido\bin\x86\Debug\System.Collections.Specialized.dll
+C:\Users\VUONGVANHAU\Desktop\Intern Program\Winfrom Aikido\Combine\C-_WF-Intership-\Aikido\Aikido\bin\x86\Debug\System.ComponentModel.dll
+C:\Users\VUONGVANHAU\Desktop\Intern Program\Winfrom Aikido\Combine\C-_WF-Intership-\Aikido\Aikido\bin\x86\Debug\System.ComponentModel.EventBasedAsync.dll
+C:\Users\VUONGVANHAU\Desktop\Intern Program\Winfrom Aikido\Combine\C-_WF-Intership-\Aikido\Aikido\bin\x86\Debug\System.ComponentModel.Primitives.dll
+C:\Users\VUONGVANHAU\Desktop\Intern Program\Winfrom Aikido\Combine\C-_WF-Intership-\Aikido\Aikido\bin\x86\Debug\System.ComponentModel.TypeConverter.dll
+C:\Users\VUONGVANHAU\Desktop\Intern Program\Winfrom Aikido\Combine\C-_WF-Intership-\Aikido\Aikido\bin\x86\Debug\System.Console.dll
+C:\Users\VUONGVANHAU\Desktop\Intern Program\Winfrom Aikido\Combine\C-_WF-Intership-\Aikido\Aikido\bin\x86\Debug\System.Data.Common.dll
+C:\Users\VUONGVANHAU\Desktop\Intern Program\Winfrom Aikido\Combine\C-_WF-Intership-\Aikido\Aikido\bin\x86\Debug\System.Diagnostics.Contracts.dll
+C:\Users\VUONGVANHAU\Desktop\Intern Program\Winfrom Aikido\Combine\C-_WF-Intership-\Aikido\Aikido\bin\x86\Debug\System.Diagnostics.Debug.dll
+C:\Users\VUONGVANHAU\Desktop\Intern Program\Winfrom Aikido\Combine\C-_WF-Intership-\Aikido\Aikido\bin\x86\Debug\System.Diagnostics.FileVersionInfo.dll
+C:\Users\VUONGVANHAU\Desktop\Intern Program\Winfrom Aikido\Combine\C-_WF-Intership-\Aikido\Aikido\bin\x86\Debug\System.Diagnostics.Process.dll
+C:\Users\VUONGVANHAU\Desktop\Intern Program\Winfrom Aikido\Combine\C-_WF-Intership-\Aikido\Aikido\bin\x86\Debug\System.Diagnostics.StackTrace.dll
+C:\Users\VUONGVANHAU\Desktop\Intern Program\Winfrom Aikido\Combine\C-_WF-Intership-\Aikido\Aikido\bin\x86\Debug\System.Diagnostics.TextWriterTraceListener.dll
+C:\Users\VUONGVANHAU\Desktop\Intern Program\Winfrom Aikido\Combine\C-_WF-Intership-\Aikido\Aikido\bin\x86\Debug\System.Diagnostics.Tools.dll
+C:\Users\VUONGVANHAU\Desktop\Intern Program\Winfrom Aikido\Combine\C-_WF-Intership-\Aikido\Aikido\bin\x86\Debug\System.Diagnostics.TraceSource.dll
+C:\Users\VUONGVANHAU\Desktop\Intern Program\Winfrom Aikido\Combine\C-_WF-Intership-\Aikido\Aikido\bin\x86\Debug\System.Diagnostics.Tracing.dll
+C:\Users\VUONGVANHAU\Desktop\Intern Program\Winfrom Aikido\Combine\C-_WF-Intership-\Aikido\Aikido\bin\x86\Debug\System.Drawing.Primitives.dll
+C:\Users\VUONGVANHAU\Desktop\Intern Program\Winfrom Aikido\Combine\C-_WF-Intership-\Aikido\Aikido\bin\x86\Debug\System.Dynamic.Runtime.dll
+C:\Users\VUONGVANHAU\Desktop\Intern Program\Winfrom Aikido\Combine\C-_WF-Intership-\Aikido\Aikido\bin\x86\Debug\System.Globalization.Calendars.dll
+C:\Users\VUONGVANHAU\Desktop\Intern Program\Winfrom Aikido\Combine\C-_WF-Intership-\Aikido\Aikido\bin\x86\Debug\System.Globalization.dll
+C:\Users\VUONGVANHAU\Desktop\Intern Program\Winfrom Aikido\Combine\C-_WF-Intership-\Aikido\Aikido\bin\x86\Debug\System.Globalization.Extensions.dll
+C:\Users\VUONGVANHAU\Desktop\Intern Program\Winfrom Aikido\Combine\C-_WF-Intership-\Aikido\Aikido\bin\x86\Debug\System.IO.Compression.dll
+C:\Users\VUONGVANHAU\Desktop\Intern Program\Winfrom Aikido\Combine\C-_WF-Intership-\Aikido\Aikido\bin\x86\Debug\System.IO.Compression.ZipFile.dll
+C:\Users\VUONGVANHAU\Desktop\Intern Program\Winfrom Aikido\Combine\C-_WF-Intership-\Aikido\Aikido\bin\x86\Debug\System.IO.dll
+C:\Users\VUONGVANHAU\Desktop\Intern Program\Winfrom Aikido\Combine\C-_WF-Intership-\Aikido\Aikido\bin\x86\Debug\System.IO.FileSystem.dll
+C:\Users\VUONGVANHAU\Desktop\Intern Program\Winfrom Aikido\Combine\C-_WF-Intership-\Aikido\Aikido\bin\x86\Debug\System.IO.FileSystem.DriveInfo.dll
+C:\Users\VUONGVANHAU\Desktop\Intern Program\Winfrom Aikido\Combine\C-_WF-Intership-\Aikido\Aikido\bin\x86\Debug\System.IO.FileSystem.Primitives.dll
+C:\Users\VUONGVANHAU\Desktop\Intern Program\Winfrom Aikido\Combine\C-_WF-Intership-\Aikido\Aikido\bin\x86\Debug\System.IO.FileSystem.Watcher.dll
+C:\Users\VUONGVANHAU\Desktop\Intern Program\Winfrom Aikido\Combine\C-_WF-Intership-\Aikido\Aikido\bin\x86\Debug\System.IO.IsolatedStorage.dll
+C:\Users\VUONGVANHAU\Desktop\Intern Program\Winfrom Aikido\Combine\C-_WF-Intership-\Aikido\Aikido\bin\x86\Debug\System.IO.MemoryMappedFiles.dll
+C:\Users\VUONGVANHAU\Desktop\Intern Program\Winfrom Aikido\Combine\C-_WF-Intership-\Aikido\Aikido\bin\x86\Debug\System.IO.Pipes.dll
+C:\Users\VUONGVANHAU\Desktop\Intern Program\Winfrom Aikido\Combine\C-_WF-Intership-\Aikido\Aikido\bin\x86\Debug\System.IO.UnmanagedMemoryStream.dll
+C:\Users\VUONGVANHAU\Desktop\Intern Program\Winfrom Aikido\Combine\C-_WF-Intership-\Aikido\Aikido\bin\x86\Debug\System.Linq.dll
+C:\Users\VUONGVANHAU\Desktop\Intern Program\Winfrom Aikido\Combine\C-_WF-Intership-\Aikido\Aikido\bin\x86\Debug\System.Linq.Expressions.dll
+C:\Users\VUONGVANHAU\Desktop\Intern Program\Winfrom Aikido\Combine\C-_WF-Intership-\Aikido\Aikido\bin\x86\Debug\System.Linq.Parallel.dll
+C:\Users\VUONGVANHAU\Desktop\Intern Program\Winfrom Aikido\Combine\C-_WF-Intership-\Aikido\Aikido\bin\x86\Debug\System.Linq.Queryable.dll
+C:\Users\VUONGVANHAU\Desktop\Intern Program\Winfrom Aikido\Combine\C-_WF-Intership-\Aikido\Aikido\bin\x86\Debug\System.Net.Http.dll
+C:\Users\VUONGVANHAU\Desktop\Intern Program\Winfrom Aikido\Combine\C-_WF-Intership-\Aikido\Aikido\bin\x86\Debug\System.Net.NameResolution.dll
+C:\Users\VUONGVANHAU\Desktop\Intern Program\Winfrom Aikido\Combine\C-_WF-Intership-\Aikido\Aikido\bin\x86\Debug\System.Net.NetworkInformation.dll
+C:\Users\VUONGVANHAU\Desktop\Intern Program\Winfrom Aikido\Combine\C-_WF-Intership-\Aikido\Aikido\bin\x86\Debug\System.Net.Ping.dll
+C:\Users\VUONGVANHAU\Desktop\Intern Program\Winfrom Aikido\Combine\C-_WF-Intership-\Aikido\Aikido\bin\x86\Debug\System.Net.Primitives.dll
+C:\Users\VUONGVANHAU\Desktop\Intern Program\Winfrom Aikido\Combine\C-_WF-Intership-\Aikido\Aikido\bin\x86\Debug\System.Net.Requests.dll
+C:\Users\VUONGVANHAU\Desktop\Intern Program\Winfrom Aikido\Combine\C-_WF-Intership-\Aikido\Aikido\bin\x86\Debug\System.Net.Security.dll
+C:\Users\VUONGVANHAU\Desktop\Intern Program\Winfrom Aikido\Combine\C-_WF-Intership-\Aikido\Aikido\bin\x86\Debug\System.Net.Sockets.dll
+C:\Users\VUONGVANHAU\Desktop\Intern Program\Winfrom Aikido\Combine\C-_WF-Intership-\Aikido\Aikido\bin\x86\Debug\System.Net.WebHeaderCollection.dll
+C:\Users\VUONGVANHAU\Desktop\Intern Program\Winfrom Aikido\Combine\C-_WF-Intership-\Aikido\Aikido\bin\x86\Debug\System.Net.WebSockets.Client.dll
+C:\Users\VUONGVANHAU\Desktop\Intern Program\Winfrom Aikido\Combine\C-_WF-Intership-\Aikido\Aikido\bin\x86\Debug\System.Net.WebSockets.dll
+C:\Users\VUONGVANHAU\Desktop\Intern Program\Winfrom Aikido\Combine\C-_WF-Intership-\Aikido\Aikido\bin\x86\Debug\System.ObjectModel.dll
+C:\Users\VUONGVANHAU\Desktop\Intern Program\Winfrom Aikido\Combine\C-_WF-Intership-\Aikido\Aikido\bin\x86\Debug\System.Reflection.dll
+C:\Users\VUONGVANHAU\Desktop\Intern Program\Winfrom Aikido\Combine\C-_WF-Intership-\Aikido\Aikido\bin\x86\Debug\System.Reflection.Extensions.dll
+C:\Users\VUONGVANHAU\Desktop\Intern Program\Winfrom Aikido\Combine\C-_WF-Intership-\Aikido\Aikido\bin\x86\Debug\System.Reflection.Primitives.dll
+C:\Users\VUONGVANHAU\Desktop\Intern Program\Winfrom Aikido\Combine\C-_WF-Intership-\Aikido\Aikido\bin\x86\Debug\System.Resources.Reader.dll
+C:\Users\VUONGVANHAU\Desktop\Intern Program\Winfrom Aikido\Combine\C-_WF-Intership-\Aikido\Aikido\bin\x86\Debug\System.Resources.ResourceManager.dll
+C:\Users\VUONGVANHAU\Desktop\Intern Program\Winfrom Aikido\Combine\C-_WF-Intership-\Aikido\Aikido\bin\x86\Debug\System.Resources.Writer.dll
+C:\Users\VUONGVANHAU\Desktop\Intern Program\Winfrom Aikido\Combine\C-_WF-Intership-\Aikido\Aikido\bin\x86\Debug\System.Runtime.CompilerServices.VisualC.dll
+C:\Users\VUONGVANHAU\Desktop\Intern Program\Winfrom Aikido\Combine\C-_WF-Intership-\Aikido\Aikido\bin\x86\Debug\System.Runtime.dll
+C:\Users\VUONGVANHAU\Desktop\Intern Program\Winfrom Aikido\Combine\C-_WF-Intership-\Aikido\Aikido\bin\x86\Debug\System.Runtime.Extensions.dll
+C:\Users\VUONGVANHAU\Desktop\Intern Program\Winfrom Aikido\Combine\C-_WF-Intership-\Aikido\Aikido\bin\x86\Debug\System.Runtime.Handles.dll
+C:\Users\VUONGVANHAU\Desktop\Intern Program\Winfrom Aikido\Combine\C-_WF-Intership-\Aikido\Aikido\bin\x86\Debug\System.Runtime.InteropServices.dll
+C:\Users\VUONGVANHAU\Desktop\Intern Program\Winfrom Aikido\Combine\C-_WF-Intership-\Aikido\Aikido\bin\x86\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\VUONGVANHAU\Desktop\Intern Program\Winfrom Aikido\Combine\C-_WF-Intership-\Aikido\Aikido\bin\x86\Debug\System.Runtime.Numerics.dll
+C:\Users\VUONGVANHAU\Desktop\Intern Program\Winfrom Aikido\Combine\C-_WF-Intership-\Aikido\Aikido\bin\x86\Debug\System.Runtime.Serialization.Formatters.dll
+C:\Users\VUONGVANHAU\Desktop\Intern Program\Winfrom Aikido\Combine\C-_WF-Intership-\Aikido\Aikido\bin\x86\Debug\System.Runtime.Serialization.Json.dll
+C:\Users\VUONGVANHAU\Desktop\Intern Program\Winfrom Aikido\Combine\C-_WF-Intership-\Aikido\Aikido\bin\x86\Debug\System.Runtime.Serialization.Primitives.dll
+C:\Users\VUONGVANHAU\Desktop\Intern Program\Winfrom Aikido\Combine\C-_WF-Intership-\Aikido\Aikido\bin\x86\Debug\System.Runtime.Serialization.Xml.dll
+C:\Users\VUONGVANHAU\Desktop\Intern Program\Winfrom Aikido\Combine\C-_WF-Intership-\Aikido\Aikido\bin\x86\Debug\System.Security.Claims.dll
+C:\Users\VUONGVANHAU\Desktop\Intern Program\Winfrom Aikido\Combine\C-_WF-Intership-\Aikido\Aikido\bin\x86\Debug\System.Security.Cryptography.Algorithms.dll
+C:\Users\VUONGVANHAU\Desktop\Intern Program\Winfrom Aikido\Combine\C-_WF-Intership-\Aikido\Aikido\bin\x86\Debug\System.Security.Cryptography.Csp.dll
+C:\Users\VUONGVANHAU\Desktop\Intern Program\Winfrom Aikido\Combine\C-_WF-Intership-\Aikido\Aikido\bin\x86\Debug\System.Security.Cryptography.Encoding.dll
+C:\Users\VUONGVANHAU\Desktop\Intern Program\Winfrom Aikido\Combine\C-_WF-Intership-\Aikido\Aikido\bin\x86\Debug\System.Security.Cryptography.Primitives.dll
+C:\Users\VUONGVANHAU\Desktop\Intern Program\Winfrom Aikido\Combine\C-_WF-Intership-\Aikido\Aikido\bin\x86\Debug\System.Security.Cryptography.X509Certificates.dll
+C:\Users\VUONGVANHAU\Desktop\Intern Program\Winfrom Aikido\Combine\C-_WF-Intership-\Aikido\Aikido\bin\x86\Debug\System.Security.Principal.dll
+C:\Users\VUONGVANHAU\Desktop\Intern Program\Winfrom Aikido\Combine\C-_WF-Intership-\Aikido\Aikido\bin\x86\Debug\System.Security.SecureString.dll
+C:\Users\VUONGVANHAU\Desktop\Intern Program\Winfrom Aikido\Combine\C-_WF-Intership-\Aikido\Aikido\bin\x86\Debug\System.Text.Encoding.dll
+C:\Users\VUONGVANHAU\Desktop\Intern Program\Winfrom Aikido\Combine\C-_WF-Intership-\Aikido\Aikido\bin\x86\Debug\System.Text.Encoding.Extensions.dll
+C:\Users\VUONGVANHAU\Desktop\Intern Program\Winfrom Aikido\Combine\C-_WF-Intership-\Aikido\Aikido\bin\x86\Debug\System.Text.RegularExpressions.dll
+C:\Users\VUONGVANHAU\Desktop\Intern Program\Winfrom Aikido\Combine\C-_WF-Intership-\Aikido\Aikido\bin\x86\Debug\System.Threading.dll
+C:\Users\VUONGVANHAU\Desktop\Intern Program\Winfrom Aikido\Combine\C-_WF-Intership-\Aikido\Aikido\bin\x86\Debug\System.Threading.Overlapped.dll
+C:\Users\VUONGVANHAU\Desktop\Intern Program\Winfrom Aikido\Combine\C-_WF-Intership-\Aikido\Aikido\bin\x86\Debug\System.Threading.Tasks.dll
+C:\Users\VUONGVANHAU\Desktop\Intern Program\Winfrom Aikido\Combine\C-_WF-Intership-\Aikido\Aikido\bin\x86\Debug\System.Threading.Tasks.Parallel.dll
+C:\Users\VUONGVANHAU\Desktop\Intern Program\Winfrom Aikido\Combine\C-_WF-Intership-\Aikido\Aikido\bin\x86\Debug\System.Threading.Thread.dll
+C:\Users\VUONGVANHAU\Desktop\Intern Program\Winfrom Aikido\Combine\C-_WF-Intership-\Aikido\Aikido\bin\x86\Debug\System.Threading.ThreadPool.dll
+C:\Users\VUONGVANHAU\Desktop\Intern Program\Winfrom Aikido\Combine\C-_WF-Intership-\Aikido\Aikido\bin\x86\Debug\System.Threading.Timer.dll
+C:\Users\VUONGVANHAU\Desktop\Intern Program\Winfrom Aikido\Combine\C-_WF-Intership-\Aikido\Aikido\bin\x86\Debug\System.ValueTuple.dll
+C:\Users\VUONGVANHAU\Desktop\Intern Program\Winfrom Aikido\Combine\C-_WF-Intership-\Aikido\Aikido\bin\x86\Debug\System.Xml.ReaderWriter.dll
+C:\Users\VUONGVANHAU\Desktop\Intern Program\Winfrom Aikido\Combine\C-_WF-Intership-\Aikido\Aikido\bin\x86\Debug\System.Xml.XDocument.dll
+C:\Users\VUONGVANHAU\Desktop\Intern Program\Winfrom Aikido\Combine\C-_WF-Intership-\Aikido\Aikido\bin\x86\Debug\System.Xml.XmlDocument.dll
+C:\Users\VUONGVANHAU\Desktop\Intern Program\Winfrom Aikido\Combine\C-_WF-Intership-\Aikido\Aikido\bin\x86\Debug\System.Xml.XmlSerializer.dll
+C:\Users\VUONGVANHAU\Desktop\Intern Program\Winfrom Aikido\Combine\C-_WF-Intership-\Aikido\Aikido\bin\x86\Debug\System.Xml.XPath.dll
+C:\Users\VUONGVANHAU\Desktop\Intern Program\Winfrom Aikido\Combine\C-_WF-Intership-\Aikido\Aikido\bin\x86\Debug\System.Xml.XPath.XDocument.dll
+C:\Users\VUONGVANHAU\Desktop\Intern Program\Winfrom Aikido\Combine\C-_WF-Intership-\Aikido\Aikido\bin\x86\Debug\EntityFramework.dll
+C:\Users\VUONGVANHAU\Desktop\Intern Program\Winfrom Aikido\Combine\C-_WF-Intership-\Aikido\Aikido\bin\x86\Debug\EntityFramework.SqlServer.dll
+C:\Users\VUONGVANHAU\Desktop\Intern Program\Winfrom Aikido\Combine\C-_WF-Intership-\Aikido\Aikido\bin\x86\Debug\Microsoft.Data.Sqlite.dll
+C:\Users\VUONGVANHAU\Desktop\Intern Program\Winfrom Aikido\Combine\C-_WF-Intership-\Aikido\Aikido\bin\x86\Debug\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\VUONGVANHAU\Desktop\Intern Program\Winfrom Aikido\Combine\C-_WF-Intership-\Aikido\Aikido\bin\x86\Debug\Microsoft.EntityFrameworkCore.dll
+C:\Users\VUONGVANHAU\Desktop\Intern Program\Winfrom Aikido\Combine\C-_WF-Intership-\Aikido\Aikido\bin\x86\Debug\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\VUONGVANHAU\Desktop\Intern Program\Winfrom Aikido\Combine\C-_WF-Intership-\Aikido\Aikido\bin\x86\Debug\Microsoft.EntityFrameworkCore.Sqlite.dll
+C:\Users\VUONGVANHAU\Desktop\Intern Program\Winfrom Aikido\Combine\C-_WF-Intership-\Aikido\Aikido\bin\x86\Debug\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\VUONGVANHAU\Desktop\Intern Program\Winfrom Aikido\Combine\C-_WF-Intership-\Aikido\Aikido\bin\x86\Debug\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\VUONGVANHAU\Desktop\Intern Program\Winfrom Aikido\Combine\C-_WF-Intership-\Aikido\Aikido\bin\x86\Debug\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\VUONGVANHAU\Desktop\Intern Program\Winfrom Aikido\Combine\C-_WF-Intership-\Aikido\Aikido\bin\x86\Debug\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\VUONGVANHAU\Desktop\Intern Program\Winfrom Aikido\Combine\C-_WF-Intership-\Aikido\Aikido\bin\x86\Debug\Microsoft.Extensions.Configuration.dll
+C:\Users\VUONGVANHAU\Desktop\Intern Program\Winfrom Aikido\Combine\C-_WF-Intership-\Aikido\Aikido\bin\x86\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\VUONGVANHAU\Desktop\Intern Program\Winfrom Aikido\Combine\C-_WF-Intership-\Aikido\Aikido\bin\x86\Debug\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\VUONGVANHAU\Desktop\Intern Program\Winfrom Aikido\Combine\C-_WF-Intership-\Aikido\Aikido\bin\x86\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\VUONGVANHAU\Desktop\Intern Program\Winfrom Aikido\Combine\C-_WF-Intership-\Aikido\Aikido\bin\x86\Debug\Microsoft.Extensions.Logging.dll
+C:\Users\VUONGVANHAU\Desktop\Intern Program\Winfrom Aikido\Combine\C-_WF-Intership-\Aikido\Aikido\bin\x86\Debug\Microsoft.Extensions.Options.dll
+C:\Users\VUONGVANHAU\Desktop\Intern Program\Winfrom Aikido\Combine\C-_WF-Intership-\Aikido\Aikido\bin\x86\Debug\Microsoft.Extensions.Primitives.dll
+C:\Users\VUONGVANHAU\Desktop\Intern Program\Winfrom Aikido\Combine\C-_WF-Intership-\Aikido\Aikido\bin\x86\Debug\Remotion.Linq.dll
+C:\Users\VUONGVANHAU\Desktop\Intern Program\Winfrom Aikido\Combine\C-_WF-Intership-\Aikido\Aikido\bin\x86\Debug\Spire.Doc.dll
+C:\Users\VUONGVANHAU\Desktop\Intern Program\Winfrom Aikido\Combine\C-_WF-Intership-\Aikido\Aikido\bin\x86\Debug\Spire.License.dll
+C:\Users\VUONGVANHAU\Desktop\Intern Program\Winfrom Aikido\Combine\C-_WF-Intership-\Aikido\Aikido\bin\x86\Debug\Spire.Pdf.dll
+C:\Users\VUONGVANHAU\Desktop\Intern Program\Winfrom Aikido\Combine\C-_WF-Intership-\Aikido\Aikido\bin\x86\Debug\SQLitePCLRaw.batteries_green.dll
+C:\Users\VUONGVANHAU\Desktop\Intern Program\Winfrom Aikido\Combine\C-_WF-Intership-\Aikido\Aikido\bin\x86\Debug\SQLitePCLRaw.batteries_v2.dll
+C:\Users\VUONGVANHAU\Desktop\Intern Program\Winfrom Aikido\Combine\C-_WF-Intership-\Aikido\Aikido\bin\x86\Debug\SQLitePCLRaw.core.dll
+C:\Users\VUONGVANHAU\Desktop\Intern Program\Winfrom Aikido\Combine\C-_WF-Intership-\Aikido\Aikido\bin\x86\Debug\SQLitePCLRaw.provider.e_sqlite3.dll
+C:\Users\VUONGVANHAU\Desktop\Intern Program\Winfrom Aikido\Combine\C-_WF-Intership-\Aikido\Aikido\bin\x86\Debug\System.Buffers.dll
+C:\Users\VUONGVANHAU\Desktop\Intern Program\Winfrom Aikido\Combine\C-_WF-Intership-\Aikido\Aikido\bin\x86\Debug\System.Collections.Immutable.dll
+C:\Users\VUONGVANHAU\Desktop\Intern Program\Winfrom Aikido\Combine\C-_WF-Intership-\Aikido\Aikido\bin\x86\Debug\System.ComponentModel.Annotations.dll
+C:\Users\VUONGVANHAU\Desktop\Intern Program\Winfrom Aikido\Combine\C-_WF-Intership-\Aikido\Aikido\bin\x86\Debug\System.Data.SQLite.EF6.dll
+C:\Users\VUONGVANHAU\Desktop\Intern Program\Winfrom Aikido\Combine\C-_WF-Intership-\Aikido\Aikido\bin\x86\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\VUONGVANHAU\Desktop\Intern Program\Winfrom Aikido\Combine\C-_WF-Intership-\Aikido\Aikido\bin\x86\Debug\System.Interactive.Async.dll
+C:\Users\VUONGVANHAU\Desktop\Intern Program\Winfrom Aikido\Combine\C-_WF-Intership-\Aikido\Aikido\bin\x86\Debug\System.Memory.dll
+C:\Users\VUONGVANHAU\Desktop\Intern Program\Winfrom Aikido\Combine\C-_WF-Intership-\Aikido\Aikido\bin\x86\Debug\System.Numerics.Vectors.dll
+C:\Users\VUONGVANHAU\Desktop\Intern Program\Winfrom Aikido\Combine\C-_WF-Intership-\Aikido\Aikido\bin\x86\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\VUONGVANHAU\Desktop\Intern Program\Winfrom Aikido\Combine\C-_WF-Intership-\Aikido\Aikido\bin\x86\Debug\Microsoft.mshtml.dll
+C:\Users\VUONGVANHAU\Desktop\Intern Program\Winfrom Aikido\Combine\C-_WF-Intership-\Aikido\Aikido\bin\x86\Debug\EntityFramework.xml
+C:\Users\VUONGVANHAU\Desktop\Intern Program\Winfrom Aikido\Combine\C-_WF-Intership-\Aikido\Aikido\bin\x86\Debug\EntityFramework.SqlServer.xml
+C:\Users\VUONGVANHAU\Desktop\Intern Program\Winfrom Aikido\Combine\C-_WF-Intership-\Aikido\Aikido\bin\x86\Debug\Microsoft.Data.Sqlite.xml
+C:\Users\VUONGVANHAU\Desktop\Intern Program\Winfrom Aikido\Combine\C-_WF-Intership-\Aikido\Aikido\bin\x86\Debug\Microsoft.EntityFrameworkCore.xml
+C:\Users\VUONGVANHAU\Desktop\Intern Program\Winfrom Aikido\Combine\C-_WF-Intership-\Aikido\Aikido\bin\x86\Debug\Microsoft.EntityFrameworkCore.Abstractions.xml
+C:\Users\VUONGVANHAU\Desktop\Intern Program\Winfrom Aikido\Combine\C-_WF-Intership-\Aikido\Aikido\bin\x86\Debug\Microsoft.EntityFrameworkCore.Relational.xml
+C:\Users\VUONGVANHAU\Desktop\Intern Program\Winfrom Aikido\Combine\C-_WF-Intership-\Aikido\Aikido\bin\x86\Debug\Microsoft.EntityFrameworkCore.Sqlite.xml
+C:\Users\VUONGVANHAU\Desktop\Intern Program\Winfrom Aikido\Combine\C-_WF-Intership-\Aikido\Aikido\bin\x86\Debug\Microsoft.Extensions.Caching.Abstractions.xml
+C:\Users\VUONGVANHAU\Desktop\Intern Program\Winfrom Aikido\Combine\C-_WF-Intership-\Aikido\Aikido\bin\x86\Debug\Microsoft.Extensions.Caching.Memory.xml
+C:\Users\VUONGVANHAU\Desktop\Intern Program\Winfrom Aikido\Combine\C-_WF-Intership-\Aikido\Aikido\bin\x86\Debug\Microsoft.Extensions.Configuration.xml
+C:\Users\VUONGVANHAU\Desktop\Intern Program\Winfrom Aikido\Combine\C-_WF-Intership-\Aikido\Aikido\bin\x86\Debug\Microsoft.Extensions.Configuration.Abstractions.xml
+C:\Users\VUONGVANHAU\Desktop\Intern Program\Winfrom Aikido\Combine\C-_WF-Intership-\Aikido\Aikido\bin\x86\Debug\Microsoft.Extensions.Configuration.Binder.xml
+C:\Users\VUONGVANHAU\Desktop\Intern Program\Winfrom Aikido\Combine\C-_WF-Intership-\Aikido\Aikido\bin\x86\Debug\Microsoft.Extensions.DependencyInjection.xml
+C:\Users\VUONGVANHAU\Desktop\Intern Program\Winfrom Aikido\Combine\C-_WF-Intership-\Aikido\Aikido\bin\x86\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\VUONGVANHAU\Desktop\Intern Program\Winfrom Aikido\Combine\C-_WF-Intership-\Aikido\Aikido\bin\x86\Debug\Microsoft.Extensions.Logging.xml
+C:\Users\VUONGVANHAU\Desktop\Intern Program\Winfrom Aikido\Combine\C-_WF-Intership-\Aikido\Aikido\bin\x86\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\VUONGVANHAU\Desktop\Intern Program\Winfrom Aikido\Combine\C-_WF-Intership-\Aikido\Aikido\bin\x86\Debug\Microsoft.Extensions.Options.xml
+C:\Users\VUONGVANHAU\Desktop\Intern Program\Winfrom Aikido\Combine\C-_WF-Intership-\Aikido\Aikido\bin\x86\Debug\Microsoft.Extensions.Primitives.xml
+C:\Users\VUONGVANHAU\Desktop\Intern Program\Winfrom Aikido\Combine\C-_WF-Intership-\Aikido\Aikido\bin\x86\Debug\Remotion.Linq.xml
+C:\Users\VUONGVANHAU\Desktop\Intern Program\Winfrom Aikido\Combine\C-_WF-Intership-\Aikido\Aikido\bin\x86\Debug\Spire.Doc.xml
+C:\Users\VUONGVANHAU\Desktop\Intern Program\Winfrom Aikido\Combine\C-_WF-Intership-\Aikido\Aikido\bin\x86\Debug\Spire.License.xml
+C:\Users\VUONGVANHAU\Desktop\Intern Program\Winfrom Aikido\Combine\C-_WF-Intership-\Aikido\Aikido\bin\x86\Debug\System.Buffers.xml
+C:\Users\VUONGVANHAU\Desktop\Intern Program\Winfrom Aikido\Combine\C-_WF-Intership-\Aikido\Aikido\bin\x86\Debug\System.Collections.Immutable.xml
+C:\Users\VUONGVANHAU\Desktop\Intern Program\Winfrom Aikido\Combine\C-_WF-Intership-\Aikido\Aikido\bin\x86\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\VUONGVANHAU\Desktop\Intern Program\Winfrom Aikido\Combine\C-_WF-Intership-\Aikido\Aikido\bin\x86\Debug\System.Interactive.Async.xml
+C:\Users\VUONGVANHAU\Desktop\Intern Program\Winfrom Aikido\Combine\C-_WF-Intership-\Aikido\Aikido\bin\x86\Debug\System.Memory.xml
+C:\Users\VUONGVANHAU\Desktop\Intern Program\Winfrom Aikido\Combine\C-_WF-Intership-\Aikido\Aikido\bin\x86\Debug\System.Numerics.Vectors.xml
+C:\Users\VUONGVANHAU\Desktop\Intern Program\Winfrom Aikido\Combine\C-_WF-Intership-\Aikido\Aikido\bin\x86\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\VUONGVANHAU\Desktop\Intern Program\Winfrom Aikido\Combine\C-_WF-Intership-\Aikido\Aikido\obj\x86\Debug\Aikido-Combine.csprojAssemblyReference.cache
+C:\Users\VUONGVANHAU\Desktop\Intern Program\Winfrom Aikido\Combine\C-_WF-Intership-\Aikido\Aikido\obj\x86\Debug\Aikido.exe.config
+C:\Users\VUONGVANHAU\Desktop\Intern Program\Winfrom Aikido\Combine\C-_WF-Intership-\Aikido\Aikido\obj\x86\Debug\VIEW\ClassScreen.g.cs
+C:\Users\VUONGVANHAU\Desktop\Intern Program\Winfrom Aikido\Combine\C-_WF-Intership-\Aikido\Aikido\obj\x86\Debug\VIEW\FeeScreen.g.cs
+C:\Users\VUONGVANHAU\Desktop\Intern Program\Winfrom Aikido\Combine\C-_WF-Intership-\Aikido\Aikido\obj\x86\Debug\VIEW\QuickSearch.g.cs
+C:\Users\VUONGVANHAU\Desktop\Intern Program\Winfrom Aikido\Combine\C-_WF-Intership-\Aikido\Aikido\obj\x86\Debug\VIEW\RegisterMemberScreen.g.cs
+C:\Users\VUONGVANHAU\Desktop\Intern Program\Winfrom Aikido\Combine\C-_WF-Intership-\Aikido\Aikido\obj\x86\Debug\VIEW\SearchCondition.g.cs
+C:\Users\VUONGVANHAU\Desktop\Intern Program\Winfrom Aikido\Combine\C-_WF-Intership-\Aikido\Aikido\obj\x86\Debug\VIEW\SettingScreen.g.cs
+C:\Users\VUONGVANHAU\Desktop\Intern Program\Winfrom Aikido\Combine\C-_WF-Intership-\Aikido\Aikido\obj\x86\Debug\VIEW\MainScreen.g.cs
+C:\Users\VUONGVANHAU\Desktop\Intern Program\Winfrom Aikido\Combine\C-_WF-Intership-\Aikido\Aikido\obj\x86\Debug\App.g.cs
+C:\Users\VUONGVANHAU\Desktop\Intern Program\Winfrom Aikido\Combine\C-_WF-Intership-\Aikido\Aikido\obj\x86\Debug\Aikido_Content.g.cs
+C:\Users\VUONGVANHAU\Desktop\Intern Program\Winfrom Aikido\Combine\C-_WF-Intership-\Aikido\Aikido\obj\x86\Debug\Aikido_MarkupCompile.cache
+C:\Users\VUONGVANHAU\Desktop\Intern Program\Winfrom Aikido\Combine\C-_WF-Intership-\Aikido\Aikido\obj\x86\Debug\Aikido_MarkupCompile.lref
+C:\Users\VUONGVANHAU\Desktop\Intern Program\Winfrom Aikido\Combine\C-_WF-Intership-\Aikido\Aikido\obj\x86\Debug\VIEW\ClassScreen.baml
+C:\Users\VUONGVANHAU\Desktop\Intern Program\Winfrom Aikido\Combine\C-_WF-Intership-\Aikido\Aikido\obj\x86\Debug\VIEW\FeeScreen.baml
+C:\Users\VUONGVANHAU\Desktop\Intern Program\Winfrom Aikido\Combine\C-_WF-Intership-\Aikido\Aikido\obj\x86\Debug\VIEW\QuickSearch.baml
+C:\Users\VUONGVANHAU\Desktop\Intern Program\Winfrom Aikido\Combine\C-_WF-Intership-\Aikido\Aikido\obj\x86\Debug\VIEW\RegisterMemberScreen.baml
+C:\Users\VUONGVANHAU\Desktop\Intern Program\Winfrom Aikido\Combine\C-_WF-Intership-\Aikido\Aikido\obj\x86\Debug\VIEW\SearchCondition.baml
+C:\Users\VUONGVANHAU\Desktop\Intern Program\Winfrom Aikido\Combine\C-_WF-Intership-\Aikido\Aikido\obj\x86\Debug\VIEW\SettingScreen.baml
+C:\Users\VUONGVANHAU\Desktop\Intern Program\Winfrom Aikido\Combine\C-_WF-Intership-\Aikido\Aikido\obj\x86\Debug\VIEW\MainScreen.baml
+C:\Users\VUONGVANHAU\Desktop\Intern Program\Winfrom Aikido\Combine\C-_WF-Intership-\Aikido\Aikido\obj\x86\Debug\Aikido.g.resources
+C:\Users\VUONGVANHAU\Desktop\Intern Program\Winfrom Aikido\Combine\C-_WF-Intership-\Aikido\Aikido\obj\x86\Debug\Aikido.Properties.Resources.resources
+C:\Users\VUONGVANHAU\Desktop\Intern Program\Winfrom Aikido\Combine\C-_WF-Intership-\Aikido\Aikido\obj\x86\Debug\Aikido-Combine.csproj.GenerateResource.cache
+C:\Users\VUONGVANHAU\Desktop\Intern Program\Winfrom Aikido\Combine\C-_WF-Intership-\Aikido\Aikido\obj\x86\Debug\Aikido-Combine.csproj.CoreCompileInputs.cache
+C:\Users\VUONGVANHAU\Desktop\Intern Program\Winfrom Aikido\Combine\C-_WF-Intership-\Aikido\Aikido\obj\x86\Debug\Aikido-Combine.csproj.CopyComplete
+C:\Users\VUONGVANHAU\Desktop\Intern Program\Winfrom Aikido\Combine\C-_WF-Intership-\Aikido\Aikido\obj\x86\Debug\Aikido.exe
+C:\Users\VUONGVANHAU\Desktop\Intern Program\Winfrom Aikido\Combine\C-_WF-Intership-\Aikido\Aikido\obj\x86\Debug\Aikido.pdb
+E:\Combine\C-_WF-Intership-\Aikido\Aikido\bin\x86\Debug\x86\e_sqlite3.dll
+E:\Combine\C-_WF-Intership-\Aikido\Aikido\bin\x86\Debug\x64\e_sqlite3.dll
+E:\Combine\C-_WF-Intership-\Aikido\Aikido\bin\x86\Debug\Aikido.exe.config
+E:\Combine\C-_WF-Intership-\Aikido\Aikido\bin\x86\Debug\Aikido.exe
+E:\Combine\C-_WF-Intership-\Aikido\Aikido\bin\x86\Debug\Aikido.pdb
+E:\Combine\C-_WF-Intership-\Aikido\Aikido\bin\x86\Debug\Microsoft.Win32.Primitives.dll
+E:\Combine\C-_WF-Intership-\Aikido\Aikido\bin\x86\Debug\netstandard.dll
+E:\Combine\C-_WF-Intership-\Aikido\Aikido\bin\x86\Debug\System.AppContext.dll
+E:\Combine\C-_WF-Intership-\Aikido\Aikido\bin\x86\Debug\System.Collections.Concurrent.dll
+E:\Combine\C-_WF-Intership-\Aikido\Aikido\bin\x86\Debug\System.Collections.dll
+E:\Combine\C-_WF-Intership-\Aikido\Aikido\bin\x86\Debug\System.Collections.NonGeneric.dll
+E:\Combine\C-_WF-Intership-\Aikido\Aikido\bin\x86\Debug\System.Collections.Specialized.dll
+E:\Combine\C-_WF-Intership-\Aikido\Aikido\bin\x86\Debug\System.ComponentModel.dll
+E:\Combine\C-_WF-Intership-\Aikido\Aikido\bin\x86\Debug\System.ComponentModel.EventBasedAsync.dll
+E:\Combine\C-_WF-Intership-\Aikido\Aikido\bin\x86\Debug\System.ComponentModel.Primitives.dll
+E:\Combine\C-_WF-Intership-\Aikido\Aikido\bin\x86\Debug\System.ComponentModel.TypeConverter.dll
+E:\Combine\C-_WF-Intership-\Aikido\Aikido\bin\x86\Debug\System.Console.dll
+E:\Combine\C-_WF-Intership-\Aikido\Aikido\bin\x86\Debug\System.Data.Common.dll
+E:\Combine\C-_WF-Intership-\Aikido\Aikido\bin\x86\Debug\System.Diagnostics.Contracts.dll
+E:\Combine\C-_WF-Intership-\Aikido\Aikido\bin\x86\Debug\System.Diagnostics.Debug.dll
+E:\Combine\C-_WF-Intership-\Aikido\Aikido\bin\x86\Debug\System.Diagnostics.FileVersionInfo.dll
+E:\Combine\C-_WF-Intership-\Aikido\Aikido\bin\x86\Debug\System.Diagnostics.Process.dll
+E:\Combine\C-_WF-Intership-\Aikido\Aikido\bin\x86\Debug\System.Diagnostics.StackTrace.dll
+E:\Combine\C-_WF-Intership-\Aikido\Aikido\bin\x86\Debug\System.Diagnostics.TextWriterTraceListener.dll
+E:\Combine\C-_WF-Intership-\Aikido\Aikido\bin\x86\Debug\System.Diagnostics.Tools.dll
+E:\Combine\C-_WF-Intership-\Aikido\Aikido\bin\x86\Debug\System.Diagnostics.TraceSource.dll
+E:\Combine\C-_WF-Intership-\Aikido\Aikido\bin\x86\Debug\System.Diagnostics.Tracing.dll
+E:\Combine\C-_WF-Intership-\Aikido\Aikido\bin\x86\Debug\System.Drawing.Primitives.dll
+E:\Combine\C-_WF-Intership-\Aikido\Aikido\bin\x86\Debug\System.Dynamic.Runtime.dll
+E:\Combine\C-_WF-Intership-\Aikido\Aikido\bin\x86\Debug\System.Globalization.Calendars.dll
+E:\Combine\C-_WF-Intership-\Aikido\Aikido\bin\x86\Debug\System.Globalization.dll
+E:\Combine\C-_WF-Intership-\Aikido\Aikido\bin\x86\Debug\System.Globalization.Extensions.dll
+E:\Combine\C-_WF-Intership-\Aikido\Aikido\bin\x86\Debug\System.IO.Compression.dll
+E:\Combine\C-_WF-Intership-\Aikido\Aikido\bin\x86\Debug\System.IO.Compression.ZipFile.dll
+E:\Combine\C-_WF-Intership-\Aikido\Aikido\bin\x86\Debug\System.IO.dll
+E:\Combine\C-_WF-Intership-\Aikido\Aikido\bin\x86\Debug\System.IO.FileSystem.dll
+E:\Combine\C-_WF-Intership-\Aikido\Aikido\bin\x86\Debug\System.IO.FileSystem.DriveInfo.dll
+E:\Combine\C-_WF-Intership-\Aikido\Aikido\bin\x86\Debug\System.IO.FileSystem.Primitives.dll
+E:\Combine\C-_WF-Intership-\Aikido\Aikido\bin\x86\Debug\System.IO.FileSystem.Watcher.dll
+E:\Combine\C-_WF-Intership-\Aikido\Aikido\bin\x86\Debug\System.IO.IsolatedStorage.dll
+E:\Combine\C-_WF-Intership-\Aikido\Aikido\bin\x86\Debug\System.IO.MemoryMappedFiles.dll
+E:\Combine\C-_WF-Intership-\Aikido\Aikido\bin\x86\Debug\System.IO.Pipes.dll
+E:\Combine\C-_WF-Intership-\Aikido\Aikido\bin\x86\Debug\System.IO.UnmanagedMemoryStream.dll
+E:\Combine\C-_WF-Intership-\Aikido\Aikido\bin\x86\Debug\System.Linq.dll
+E:\Combine\C-_WF-Intership-\Aikido\Aikido\bin\x86\Debug\System.Linq.Expressions.dll
+E:\Combine\C-_WF-Intership-\Aikido\Aikido\bin\x86\Debug\System.Linq.Parallel.dll
+E:\Combine\C-_WF-Intership-\Aikido\Aikido\bin\x86\Debug\System.Linq.Queryable.dll
+E:\Combine\C-_WF-Intership-\Aikido\Aikido\bin\x86\Debug\System.Net.Http.dll
+E:\Combine\C-_WF-Intership-\Aikido\Aikido\bin\x86\Debug\System.Net.NameResolution.dll
+E:\Combine\C-_WF-Intership-\Aikido\Aikido\bin\x86\Debug\System.Net.NetworkInformation.dll
+E:\Combine\C-_WF-Intership-\Aikido\Aikido\bin\x86\Debug\System.Net.Ping.dll
+E:\Combine\C-_WF-Intership-\Aikido\Aikido\bin\x86\Debug\System.Net.Primitives.dll
+E:\Combine\C-_WF-Intership-\Aikido\Aikido\bin\x86\Debug\System.Net.Requests.dll
+E:\Combine\C-_WF-Intership-\Aikido\Aikido\bin\x86\Debug\System.Net.Security.dll
+E:\Combine\C-_WF-Intership-\Aikido\Aikido\bin\x86\Debug\System.Net.Sockets.dll
+E:\Combine\C-_WF-Intership-\Aikido\Aikido\bin\x86\Debug\System.Net.WebHeaderCollection.dll
+E:\Combine\C-_WF-Intership-\Aikido\Aikido\bin\x86\Debug\System.Net.WebSockets.Client.dll
+E:\Combine\C-_WF-Intership-\Aikido\Aikido\bin\x86\Debug\System.Net.WebSockets.dll
+E:\Combine\C-_WF-Intership-\Aikido\Aikido\bin\x86\Debug\System.ObjectModel.dll
+E:\Combine\C-_WF-Intership-\Aikido\Aikido\bin\x86\Debug\System.Reflection.dll
+E:\Combine\C-_WF-Intership-\Aikido\Aikido\bin\x86\Debug\System.Reflection.Extensions.dll
+E:\Combine\C-_WF-Intership-\Aikido\Aikido\bin\x86\Debug\System.Reflection.Primitives.dll
+E:\Combine\C-_WF-Intership-\Aikido\Aikido\bin\x86\Debug\System.Resources.Reader.dll
+E:\Combine\C-_WF-Intership-\Aikido\Aikido\bin\x86\Debug\System.Resources.ResourceManager.dll
+E:\Combine\C-_WF-Intership-\Aikido\Aikido\bin\x86\Debug\System.Resources.Writer.dll
+E:\Combine\C-_WF-Intership-\Aikido\Aikido\bin\x86\Debug\System.Runtime.CompilerServices.VisualC.dll
+E:\Combine\C-_WF-Intership-\Aikido\Aikido\bin\x86\Debug\System.Runtime.dll
+E:\Combine\C-_WF-Intership-\Aikido\Aikido\bin\x86\Debug\System.Runtime.Extensions.dll
+E:\Combine\C-_WF-Intership-\Aikido\Aikido\bin\x86\Debug\System.Runtime.Handles.dll
+E:\Combine\C-_WF-Intership-\Aikido\Aikido\bin\x86\Debug\System.Runtime.InteropServices.dll
+E:\Combine\C-_WF-Intership-\Aikido\Aikido\bin\x86\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+E:\Combine\C-_WF-Intership-\Aikido\Aikido\bin\x86\Debug\System.Runtime.Numerics.dll
+E:\Combine\C-_WF-Intership-\Aikido\Aikido\bin\x86\Debug\System.Runtime.Serialization.Formatters.dll
+E:\Combine\C-_WF-Intership-\Aikido\Aikido\bin\x86\Debug\System.Runtime.Serialization.Json.dll
+E:\Combine\C-_WF-Intership-\Aikido\Aikido\bin\x86\Debug\System.Runtime.Serialization.Primitives.dll
+E:\Combine\C-_WF-Intership-\Aikido\Aikido\bin\x86\Debug\System.Runtime.Serialization.Xml.dll
+E:\Combine\C-_WF-Intership-\Aikido\Aikido\bin\x86\Debug\System.Security.Claims.dll
+E:\Combine\C-_WF-Intership-\Aikido\Aikido\bin\x86\Debug\System.Security.Cryptography.Algorithms.dll
+E:\Combine\C-_WF-Intership-\Aikido\Aikido\bin\x86\Debug\System.Security.Cryptography.Csp.dll
+E:\Combine\C-_WF-Intership-\Aikido\Aikido\bin\x86\Debug\System.Security.Cryptography.Encoding.dll
+E:\Combine\C-_WF-Intership-\Aikido\Aikido\bin\x86\Debug\System.Security.Cryptography.Primitives.dll
+E:\Combine\C-_WF-Intership-\Aikido\Aikido\bin\x86\Debug\System.Security.Cryptography.X509Certificates.dll
+E:\Combine\C-_WF-Intership-\Aikido\Aikido\bin\x86\Debug\System.Security.Principal.dll
+E:\Combine\C-_WF-Intership-\Aikido\Aikido\bin\x86\Debug\System.Security.SecureString.dll
+E:\Combine\C-_WF-Intership-\Aikido\Aikido\bin\x86\Debug\System.Text.Encoding.dll
+E:\Combine\C-_WF-Intership-\Aikido\Aikido\bin\x86\Debug\System.Text.Encoding.Extensions.dll
+E:\Combine\C-_WF-Intership-\Aikido\Aikido\bin\x86\Debug\System.Text.RegularExpressions.dll
+E:\Combine\C-_WF-Intership-\Aikido\Aikido\bin\x86\Debug\System.Threading.dll
+E:\Combine\C-_WF-Intership-\Aikido\Aikido\bin\x86\Debug\System.Threading.Overlapped.dll
+E:\Combine\C-_WF-Intership-\Aikido\Aikido\bin\x86\Debug\System.Threading.Tasks.dll
+E:\Combine\C-_WF-Intership-\Aikido\Aikido\bin\x86\Debug\System.Threading.Tasks.Parallel.dll
+E:\Combine\C-_WF-Intership-\Aikido\Aikido\bin\x86\Debug\System.Threading.Thread.dll
+E:\Combine\C-_WF-Intership-\Aikido\Aikido\bin\x86\Debug\System.Threading.ThreadPool.dll
+E:\Combine\C-_WF-Intership-\Aikido\Aikido\bin\x86\Debug\System.Threading.Timer.dll
+E:\Combine\C-_WF-Intership-\Aikido\Aikido\bin\x86\Debug\System.ValueTuple.dll
+E:\Combine\C-_WF-Intership-\Aikido\Aikido\bin\x86\Debug\System.Xml.ReaderWriter.dll
+E:\Combine\C-_WF-Intership-\Aikido\Aikido\bin\x86\Debug\System.Xml.XDocument.dll
+E:\Combine\C-_WF-Intership-\Aikido\Aikido\bin\x86\Debug\System.Xml.XmlDocument.dll
+E:\Combine\C-_WF-Intership-\Aikido\Aikido\bin\x86\Debug\System.Xml.XmlSerializer.dll
+E:\Combine\C-_WF-Intership-\Aikido\Aikido\bin\x86\Debug\System.Xml.XPath.dll
+E:\Combine\C-_WF-Intership-\Aikido\Aikido\bin\x86\Debug\System.Xml.XPath.XDocument.dll
+E:\Combine\C-_WF-Intership-\Aikido\Aikido\bin\x86\Debug\EntityFramework.dll
+E:\Combine\C-_WF-Intership-\Aikido\Aikido\bin\x86\Debug\EntityFramework.SqlServer.dll
+E:\Combine\C-_WF-Intership-\Aikido\Aikido\bin\x86\Debug\Microsoft.Data.Sqlite.dll
+E:\Combine\C-_WF-Intership-\Aikido\Aikido\bin\x86\Debug\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\Combine\C-_WF-Intership-\Aikido\Aikido\bin\x86\Debug\Microsoft.EntityFrameworkCore.dll
+E:\Combine\C-_WF-Intership-\Aikido\Aikido\bin\x86\Debug\Microsoft.EntityFrameworkCore.Relational.dll
+E:\Combine\C-_WF-Intership-\Aikido\Aikido\bin\x86\Debug\Microsoft.EntityFrameworkCore.Sqlite.dll
+E:\Combine\C-_WF-Intership-\Aikido\Aikido\bin\x86\Debug\Microsoft.Extensions.Caching.Abstractions.dll
+E:\Combine\C-_WF-Intership-\Aikido\Aikido\bin\x86\Debug\Microsoft.Extensions.Caching.Memory.dll
+E:\Combine\C-_WF-Intership-\Aikido\Aikido\bin\x86\Debug\Microsoft.Extensions.Configuration.Abstractions.dll
+E:\Combine\C-_WF-Intership-\Aikido\Aikido\bin\x86\Debug\Microsoft.Extensions.Configuration.Binder.dll
+E:\Combine\C-_WF-Intership-\Aikido\Aikido\bin\x86\Debug\Microsoft.Extensions.Configuration.dll
+E:\Combine\C-_WF-Intership-\Aikido\Aikido\bin\x86\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\Combine\C-_WF-Intership-\Aikido\Aikido\bin\x86\Debug\Microsoft.Extensions.DependencyInjection.dll
+E:\Combine\C-_WF-Intership-\Aikido\Aikido\bin\x86\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+E:\Combine\C-_WF-Intership-\Aikido\Aikido\bin\x86\Debug\Microsoft.Extensions.Logging.dll
+E:\Combine\C-_WF-Intership-\Aikido\Aikido\bin\x86\Debug\Microsoft.Extensions.Options.dll
+E:\Combine\C-_WF-Intership-\Aikido\Aikido\bin\x86\Debug\Microsoft.Extensions.Primitives.dll
+E:\Combine\C-_WF-Intership-\Aikido\Aikido\bin\x86\Debug\Remotion.Linq.dll
+E:\Combine\C-_WF-Intership-\Aikido\Aikido\bin\x86\Debug\Spire.Doc.dll
+E:\Combine\C-_WF-Intership-\Aikido\Aikido\bin\x86\Debug\Spire.License.dll
+E:\Combine\C-_WF-Intership-\Aikido\Aikido\bin\x86\Debug\Spire.Pdf.dll
+E:\Combine\C-_WF-Intership-\Aikido\Aikido\bin\x86\Debug\SQLitePCLRaw.batteries_green.dll
+E:\Combine\C-_WF-Intership-\Aikido\Aikido\bin\x86\Debug\SQLitePCLRaw.batteries_v2.dll
+E:\Combine\C-_WF-Intership-\Aikido\Aikido\bin\x86\Debug\SQLitePCLRaw.core.dll
+E:\Combine\C-_WF-Intership-\Aikido\Aikido\bin\x86\Debug\SQLitePCLRaw.provider.e_sqlite3.dll
+E:\Combine\C-_WF-Intership-\Aikido\Aikido\bin\x86\Debug\System.Buffers.dll
+E:\Combine\C-_WF-Intership-\Aikido\Aikido\bin\x86\Debug\System.Collections.Immutable.dll
+E:\Combine\C-_WF-Intership-\Aikido\Aikido\bin\x86\Debug\System.ComponentModel.Annotations.dll
+E:\Combine\C-_WF-Intership-\Aikido\Aikido\bin\x86\Debug\System.Data.SQLite.EF6.dll
+E:\Combine\C-_WF-Intership-\Aikido\Aikido\bin\x86\Debug\System.Diagnostics.DiagnosticSource.dll
+E:\Combine\C-_WF-Intership-\Aikido\Aikido\bin\x86\Debug\System.Interactive.Async.dll
+E:\Combine\C-_WF-Intership-\Aikido\Aikido\bin\x86\Debug\System.Memory.dll
+E:\Combine\C-_WF-Intership-\Aikido\Aikido\bin\x86\Debug\System.Numerics.Vectors.dll
+E:\Combine\C-_WF-Intership-\Aikido\Aikido\bin\x86\Debug\System.Runtime.CompilerServices.Unsafe.dll
+E:\Combine\C-_WF-Intership-\Aikido\Aikido\bin\x86\Debug\Microsoft.mshtml.dll
+E:\Combine\C-_WF-Intership-\Aikido\Aikido\bin\x86\Debug\EntityFramework.xml
+E:\Combine\C-_WF-Intership-\Aikido\Aikido\bin\x86\Debug\EntityFramework.SqlServer.xml
+E:\Combine\C-_WF-Intership-\Aikido\Aikido\bin\x86\Debug\Microsoft.Data.Sqlite.xml
+E:\Combine\C-_WF-Intership-\Aikido\Aikido\bin\x86\Debug\Microsoft.EntityFrameworkCore.xml
+E:\Combine\C-_WF-Intership-\Aikido\Aikido\bin\x86\Debug\Microsoft.EntityFrameworkCore.Abstractions.xml
+E:\Combine\C-_WF-Intership-\Aikido\Aikido\bin\x86\Debug\Microsoft.EntityFrameworkCore.Relational.xml
+E:\Combine\C-_WF-Intership-\Aikido\Aikido\bin\x86\Debug\Microsoft.EntityFrameworkCore.Sqlite.xml
+E:\Combine\C-_WF-Intership-\Aikido\Aikido\bin\x86\Debug\Microsoft.Extensions.Caching.Abstractions.xml
+E:\Combine\C-_WF-Intership-\Aikido\Aikido\bin\x86\Debug\Microsoft.Extensions.Caching.Memory.xml
+E:\Combine\C-_WF-Intership-\Aikido\Aikido\bin\x86\Debug\Microsoft.Extensions.Configuration.xml
+E:\Combine\C-_WF-Intership-\Aikido\Aikido\bin\x86\Debug\Microsoft.Extensions.Configuration.Abstractions.xml
+E:\Combine\C-_WF-Intership-\Aikido\Aikido\bin\x86\Debug\Microsoft.Extensions.Configuration.Binder.xml
+E:\Combine\C-_WF-Intership-\Aikido\Aikido\bin\x86\Debug\Microsoft.Extensions.DependencyInjection.xml
+E:\Combine\C-_WF-Intership-\Aikido\Aikido\bin\x86\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+E:\Combine\C-_WF-Intership-\Aikido\Aikido\bin\x86\Debug\Microsoft.Extensions.Logging.xml
+E:\Combine\C-_WF-Intership-\Aikido\Aikido\bin\x86\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+E:\Combine\C-_WF-Intership-\Aikido\Aikido\bin\x86\Debug\Microsoft.Extensions.Options.xml
+E:\Combine\C-_WF-Intership-\Aikido\Aikido\bin\x86\Debug\Microsoft.Extensions.Primitives.xml
+E:\Combine\C-_WF-Intership-\Aikido\Aikido\bin\x86\Debug\Remotion.Linq.xml
+E:\Combine\C-_WF-Intership-\Aikido\Aikido\bin\x86\Debug\Spire.Doc.xml
+E:\Combine\C-_WF-Intership-\Aikido\Aikido\bin\x86\Debug\Spire.License.xml
+E:\Combine\C-_WF-Intership-\Aikido\Aikido\bin\x86\Debug\System.Buffers.xml
+E:\Combine\C-_WF-Intership-\Aikido\Aikido\bin\x86\Debug\System.Collections.Immutable.xml
+E:\Combine\C-_WF-Intership-\Aikido\Aikido\bin\x86\Debug\System.Diagnostics.DiagnosticSource.xml
+E:\Combine\C-_WF-Intership-\Aikido\Aikido\bin\x86\Debug\System.Interactive.Async.xml
+E:\Combine\C-_WF-Intership-\Aikido\Aikido\bin\x86\Debug\System.Memory.xml
+E:\Combine\C-_WF-Intership-\Aikido\Aikido\bin\x86\Debug\System.Numerics.Vectors.xml
+E:\Combine\C-_WF-Intership-\Aikido\Aikido\bin\x86\Debug\System.Runtime.CompilerServices.Unsafe.xml
+E:\Combine\C-_WF-Intership-\Aikido\Aikido\obj\x86\Debug\Aikido-Combine.csprojAssemblyReference.cache
+E:\Combine\C-_WF-Intership-\Aikido\Aikido\obj\x86\Debug\Aikido.exe.config
+E:\Combine\C-_WF-Intership-\Aikido\Aikido\obj\x86\Debug\VIEW\ClassScreen.g.cs
+E:\Combine\C-_WF-Intership-\Aikido\Aikido\obj\x86\Debug\VIEW\FeeScreen.g.cs
+E:\Combine\C-_WF-Intership-\Aikido\Aikido\obj\x86\Debug\VIEW\QuickSearch.g.cs
+E:\Combine\C-_WF-Intership-\Aikido\Aikido\obj\x86\Debug\VIEW\RegisterMemberScreen.g.cs
+E:\Combine\C-_WF-Intership-\Aikido\Aikido\obj\x86\Debug\VIEW\SearchCondition.g.cs
+E:\Combine\C-_WF-Intership-\Aikido\Aikido\obj\x86\Debug\VIEW\SettingScreen.g.cs
+E:\Combine\C-_WF-Intership-\Aikido\Aikido\obj\x86\Debug\VIEW\MainScreen.g.cs
+E:\Combine\C-_WF-Intership-\Aikido\Aikido\obj\x86\Debug\App.g.cs
+E:\Combine\C-_WF-Intership-\Aikido\Aikido\obj\x86\Debug\Aikido_Content.g.cs
+E:\Combine\C-_WF-Intership-\Aikido\Aikido\obj\x86\Debug\Aikido_MarkupCompile.cache
+E:\Combine\C-_WF-Intership-\Aikido\Aikido\obj\x86\Debug\Aikido_MarkupCompile.lref
+E:\Combine\C-_WF-Intership-\Aikido\Aikido\obj\x86\Debug\VIEW\ClassScreen.baml
+E:\Combine\C-_WF-Intership-\Aikido\Aikido\obj\x86\Debug\VIEW\FeeScreen.baml
+E:\Combine\C-_WF-Intership-\Aikido\Aikido\obj\x86\Debug\VIEW\QuickSearch.baml
+E:\Combine\C-_WF-Intership-\Aikido\Aikido\obj\x86\Debug\VIEW\RegisterMemberScreen.baml
+E:\Combine\C-_WF-Intership-\Aikido\Aikido\obj\x86\Debug\VIEW\SearchCondition.baml
+E:\Combine\C-_WF-Intership-\Aikido\Aikido\obj\x86\Debug\VIEW\SettingScreen.baml
+E:\Combine\C-_WF-Intership-\Aikido\Aikido\obj\x86\Debug\VIEW\MainScreen.baml
+E:\Combine\C-_WF-Intership-\Aikido\Aikido\obj\x86\Debug\Aikido.g.resources
+E:\Combine\C-_WF-Intership-\Aikido\Aikido\obj\x86\Debug\Aikido.Properties.Resources.resources
+E:\Combine\C-_WF-Intership-\Aikido\Aikido\obj\x86\Debug\Aikido-Combine.csproj.GenerateResource.cache
+E:\Combine\C-_WF-Intership-\Aikido\Aikido\obj\x86\Debug\Aikido-Combine.csproj.CoreCompileInputs.cache
+E:\Combine\C-_WF-Intership-\Aikido\Aikido\obj\x86\Debug\Aikido-Combine.csproj.CopyComplete
+E:\Combine\C-_WF-Intership-\Aikido\Aikido\obj\x86\Debug\Aikido.exe
+E:\Combine\C-_WF-Intership-\Aikido\Aikido\obj\x86\Debug\Aikido.pdb
+C:\Users\minhh\OneDrive\Desktop\C#_WF\Github\Aikido\Aikido\bin\x86\Debug\Microsoft.EntityFrameworkCore.xml
+C:\Users\minhh\OneDrive\Desktop\C#_WF\Github\Aikido\Aikido\bin\x86\Debug\x86\e_sqlite3.dll
+C:\Users\minhh\OneDrive\Desktop\C#_WF\Github\Aikido\Aikido\bin\x86\Debug\x64\e_sqlite3.dll
+C:\Users\minhh\OneDrive\Desktop\C#_WF\Github\Aikido\Aikido\bin\x86\Debug\Aikido.exe.config
+C:\Users\minhh\OneDrive\Desktop\C#_WF\Github\Aikido\Aikido\bin\x86\Debug\Aikido.exe
+C:\Users\minhh\OneDrive\Desktop\C#_WF\Github\Aikido\Aikido\bin\x86\Debug\Aikido.pdb
+C:\Users\minhh\OneDrive\Desktop\C#_WF\Github\Aikido\Aikido\bin\x86\Debug\Microsoft.Win32.Primitives.dll
+C:\Users\minhh\OneDrive\Desktop\C#_WF\Github\Aikido\Aikido\bin\x86\Debug\netstandard.dll
+C:\Users\minhh\OneDrive\Desktop\C#_WF\Github\Aikido\Aikido\bin\x86\Debug\System.AppContext.dll
+C:\Users\minhh\OneDrive\Desktop\C#_WF\Github\Aikido\Aikido\bin\x86\Debug\System.Collections.Concurrent.dll
+C:\Users\minhh\OneDrive\Desktop\C#_WF\Github\Aikido\Aikido\bin\x86\Debug\System.Collections.dll
+C:\Users\minhh\OneDrive\Desktop\C#_WF\Github\Aikido\Aikido\bin\x86\Debug\System.Collections.NonGeneric.dll
+C:\Users\minhh\OneDrive\Desktop\C#_WF\Github\Aikido\Aikido\bin\x86\Debug\System.Collections.Specialized.dll
+C:\Users\minhh\OneDrive\Desktop\C#_WF\Github\Aikido\Aikido\bin\x86\Debug\System.ComponentModel.dll
+C:\Users\minhh\OneDrive\Desktop\C#_WF\Github\Aikido\Aikido\bin\x86\Debug\System.ComponentModel.EventBasedAsync.dll
+C:\Users\minhh\OneDrive\Desktop\C#_WF\Github\Aikido\Aikido\bin\x86\Debug\System.ComponentModel.Primitives.dll
+C:\Users\minhh\OneDrive\Desktop\C#_WF\Github\Aikido\Aikido\bin\x86\Debug\System.ComponentModel.TypeConverter.dll
+C:\Users\minhh\OneDrive\Desktop\C#_WF\Github\Aikido\Aikido\bin\x86\Debug\System.Console.dll
+C:\Users\minhh\OneDrive\Desktop\C#_WF\Github\Aikido\Aikido\bin\x86\Debug\System.Data.Common.dll
+C:\Users\minhh\OneDrive\Desktop\C#_WF\Github\Aikido\Aikido\bin\x86\Debug\System.Diagnostics.Contracts.dll
+C:\Users\minhh\OneDrive\Desktop\C#_WF\Github\Aikido\Aikido\bin\x86\Debug\System.Diagnostics.Debug.dll
+C:\Users\minhh\OneDrive\Desktop\C#_WF\Github\Aikido\Aikido\bin\x86\Debug\System.Diagnostics.FileVersionInfo.dll
+C:\Users\minhh\OneDrive\Desktop\C#_WF\Github\Aikido\Aikido\bin\x86\Debug\System.Diagnostics.Process.dll
+C:\Users\minhh\OneDrive\Desktop\C#_WF\Github\Aikido\Aikido\bin\x86\Debug\System.Diagnostics.StackTrace.dll
+C:\Users\minhh\OneDrive\Desktop\C#_WF\Github\Aikido\Aikido\bin\x86\Debug\System.Diagnostics.TextWriterTraceListener.dll
+C:\Users\minhh\OneDrive\Desktop\C#_WF\Github\Aikido\Aikido\bin\x86\Debug\System.Diagnostics.Tools.dll
+C:\Users\minhh\OneDrive\Desktop\C#_WF\Github\Aikido\Aikido\bin\x86\Debug\System.Diagnostics.TraceSource.dll
+C:\Users\minhh\OneDrive\Desktop\C#_WF\Github\Aikido\Aikido\bin\x86\Debug\System.Diagnostics.Tracing.dll
+C:\Users\minhh\OneDrive\Desktop\C#_WF\Github\Aikido\Aikido\bin\x86\Debug\System.Drawing.Primitives.dll
+C:\Users\minhh\OneDrive\Desktop\C#_WF\Github\Aikido\Aikido\bin\x86\Debug\System.Dynamic.Runtime.dll
+C:\Users\minhh\OneDrive\Desktop\C#_WF\Github\Aikido\Aikido\bin\x86\Debug\System.Globalization.Calendars.dll
+C:\Users\minhh\OneDrive\Desktop\C#_WF\Github\Aikido\Aikido\bin\x86\Debug\System.Globalization.dll
+C:\Users\minhh\OneDrive\Desktop\C#_WF\Github\Aikido\Aikido\bin\x86\Debug\System.Globalization.Extensions.dll
+C:\Users\minhh\OneDrive\Desktop\C#_WF\Github\Aikido\Aikido\bin\x86\Debug\System.IO.Compression.dll
+C:\Users\minhh\OneDrive\Desktop\C#_WF\Github\Aikido\Aikido\bin\x86\Debug\System.IO.Compression.ZipFile.dll
+C:\Users\minhh\OneDrive\Desktop\C#_WF\Github\Aikido\Aikido\bin\x86\Debug\System.IO.dll
+C:\Users\minhh\OneDrive\Desktop\C#_WF\Github\Aikido\Aikido\bin\x86\Debug\System.IO.FileSystem.dll
+C:\Users\minhh\OneDrive\Desktop\C#_WF\Github\Aikido\Aikido\bin\x86\Debug\System.IO.FileSystem.DriveInfo.dll
+C:\Users\minhh\OneDrive\Desktop\C#_WF\Github\Aikido\Aikido\bin\x86\Debug\System.IO.FileSystem.Primitives.dll
+C:\Users\minhh\OneDrive\Desktop\C#_WF\Github\Aikido\Aikido\bin\x86\Debug\System.IO.FileSystem.Watcher.dll
+C:\Users\minhh\OneDrive\Desktop\C#_WF\Github\Aikido\Aikido\bin\x86\Debug\System.IO.IsolatedStorage.dll
+C:\Users\minhh\OneDrive\Desktop\C#_WF\Github\Aikido\Aikido\bin\x86\Debug\System.IO.MemoryMappedFiles.dll
+C:\Users\minhh\OneDrive\Desktop\C#_WF\Github\Aikido\Aikido\bin\x86\Debug\System.IO.Pipes.dll
+C:\Users\minhh\OneDrive\Desktop\C#_WF\Github\Aikido\Aikido\bin\x86\Debug\System.IO.UnmanagedMemoryStream.dll
+C:\Users\minhh\OneDrive\Desktop\C#_WF\Github\Aikido\Aikido\bin\x86\Debug\System.Linq.dll
+C:\Users\minhh\OneDrive\Desktop\C#_WF\Github\Aikido\Aikido\bin\x86\Debug\System.Linq.Expressions.dll
+C:\Users\minhh\OneDrive\Desktop\C#_WF\Github\Aikido\Aikido\bin\x86\Debug\System.Linq.Parallel.dll
+C:\Users\minhh\OneDrive\Desktop\C#_WF\Github\Aikido\Aikido\bin\x86\Debug\System.Linq.Queryable.dll
+C:\Users\minhh\OneDrive\Desktop\C#_WF\Github\Aikido\Aikido\bin\x86\Debug\System.Net.Http.dll
+C:\Users\minhh\OneDrive\Desktop\C#_WF\Github\Aikido\Aikido\bin\x86\Debug\System.Net.NameResolution.dll
+C:\Users\minhh\OneDrive\Desktop\C#_WF\Github\Aikido\Aikido\bin\x86\Debug\System.Net.NetworkInformation.dll
+C:\Users\minhh\OneDrive\Desktop\C#_WF\Github\Aikido\Aikido\bin\x86\Debug\System.Net.Ping.dll
+C:\Users\minhh\OneDrive\Desktop\C#_WF\Github\Aikido\Aikido\bin\x86\Debug\System.Net.Primitives.dll
+C:\Users\minhh\OneDrive\Desktop\C#_WF\Github\Aikido\Aikido\bin\x86\Debug\System.Net.Requests.dll
+C:\Users\minhh\OneDrive\Desktop\C#_WF\Github\Aikido\Aikido\bin\x86\Debug\System.Net.Security.dll
+C:\Users\minhh\OneDrive\Desktop\C#_WF\Github\Aikido\Aikido\bin\x86\Debug\System.Net.Sockets.dll
+C:\Users\minhh\OneDrive\Desktop\C#_WF\Github\Aikido\Aikido\bin\x86\Debug\System.Net.WebHeaderCollection.dll
+C:\Users\minhh\OneDrive\Desktop\C#_WF\Github\Aikido\Aikido\bin\x86\Debug\System.Net.WebSockets.Client.dll
+C:\Users\minhh\OneDrive\Desktop\C#_WF\Github\Aikido\Aikido\bin\x86\Debug\System.Net.WebSockets.dll
+C:\Users\minhh\OneDrive\Desktop\C#_WF\Github\Aikido\Aikido\bin\x86\Debug\System.ObjectModel.dll
+C:\Users\minhh\OneDrive\Desktop\C#_WF\Github\Aikido\Aikido\bin\x86\Debug\System.Reflection.dll
+C:\Users\minhh\OneDrive\Desktop\C#_WF\Github\Aikido\Aikido\bin\x86\Debug\System.Reflection.Extensions.dll
+C:\Users\minhh\OneDrive\Desktop\C#_WF\Github\Aikido\Aikido\bin\x86\Debug\System.Reflection.Primitives.dll
+C:\Users\minhh\OneDrive\Desktop\C#_WF\Github\Aikido\Aikido\bin\x86\Debug\System.Resources.Reader.dll
+C:\Users\minhh\OneDrive\Desktop\C#_WF\Github\Aikido\Aikido\bin\x86\Debug\System.Resources.ResourceManager.dll
+C:\Users\minhh\OneDrive\Desktop\C#_WF\Github\Aikido\Aikido\bin\x86\Debug\System.Resources.Writer.dll
+C:\Users\minhh\OneDrive\Desktop\C#_WF\Github\Aikido\Aikido\bin\x86\Debug\System.Runtime.CompilerServices.VisualC.dll
+C:\Users\minhh\OneDrive\Desktop\C#_WF\Github\Aikido\Aikido\bin\x86\Debug\System.Runtime.dll
+C:\Users\minhh\OneDrive\Desktop\C#_WF\Github\Aikido\Aikido\bin\x86\Debug\System.Runtime.Extensions.dll
+C:\Users\minhh\OneDrive\Desktop\C#_WF\Github\Aikido\Aikido\bin\x86\Debug\System.Runtime.Handles.dll
+C:\Users\minhh\OneDrive\Desktop\C#_WF\Github\Aikido\Aikido\bin\x86\Debug\System.Runtime.InteropServices.dll
+C:\Users\minhh\OneDrive\Desktop\C#_WF\Github\Aikido\Aikido\bin\x86\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\minhh\OneDrive\Desktop\C#_WF\Github\Aikido\Aikido\bin\x86\Debug\System.Runtime.Numerics.dll
+C:\Users\minhh\OneDrive\Desktop\C#_WF\Github\Aikido\Aikido\bin\x86\Debug\System.Runtime.Serialization.Formatters.dll
+C:\Users\minhh\OneDrive\Desktop\C#_WF\Github\Aikido\Aikido\bin\x86\Debug\System.Runtime.Serialization.Json.dll
+C:\Users\minhh\OneDrive\Desktop\C#_WF\Github\Aikido\Aikido\bin\x86\Debug\System.Runtime.Serialization.Primitives.dll
+C:\Users\minhh\OneDrive\Desktop\C#_WF\Github\Aikido\Aikido\bin\x86\Debug\System.Runtime.Serialization.Xml.dll
+C:\Users\minhh\OneDrive\Desktop\C#_WF\Github\Aikido\Aikido\bin\x86\Debug\System.Security.Claims.dll
+C:\Users\minhh\OneDrive\Desktop\C#_WF\Github\Aikido\Aikido\bin\x86\Debug\System.Security.Cryptography.Algorithms.dll
+C:\Users\minhh\OneDrive\Desktop\C#_WF\Github\Aikido\Aikido\bin\x86\Debug\System.Security.Cryptography.Csp.dll
+C:\Users\minhh\OneDrive\Desktop\C#_WF\Github\Aikido\Aikido\bin\x86\Debug\System.Security.Cryptography.Encoding.dll
+C:\Users\minhh\OneDrive\Desktop\C#_WF\Github\Aikido\Aikido\bin\x86\Debug\System.Security.Cryptography.Primitives.dll
+C:\Users\minhh\OneDrive\Desktop\C#_WF\Github\Aikido\Aikido\bin\x86\Debug\System.Security.Cryptography.X509Certificates.dll
+C:\Users\minhh\OneDrive\Desktop\C#_WF\Github\Aikido\Aikido\bin\x86\Debug\System.Security.Principal.dll
+C:\Users\minhh\OneDrive\Desktop\C#_WF\Github\Aikido\Aikido\bin\x86\Debug\System.Security.SecureString.dll
+C:\Users\minhh\OneDrive\Desktop\C#_WF\Github\Aikido\Aikido\bin\x86\Debug\System.Text.Encoding.dll
+C:\Users\minhh\OneDrive\Desktop\C#_WF\Github\Aikido\Aikido\bin\x86\Debug\System.Text.Encoding.Extensions.dll
+C:\Users\minhh\OneDrive\Desktop\C#_WF\Github\Aikido\Aikido\bin\x86\Debug\System.Text.RegularExpressions.dll
+C:\Users\minhh\OneDrive\Desktop\C#_WF\Github\Aikido\Aikido\bin\x86\Debug\System.Threading.dll
+C:\Users\minhh\OneDrive\Desktop\C#_WF\Github\Aikido\Aikido\bin\x86\Debug\System.Threading.Overlapped.dll
+C:\Users\minhh\OneDrive\Desktop\C#_WF\Github\Aikido\Aikido\bin\x86\Debug\System.Threading.Tasks.dll
+C:\Users\minhh\OneDrive\Desktop\C#_WF\Github\Aikido\Aikido\bin\x86\Debug\System.Threading.Tasks.Parallel.dll
+C:\Users\minhh\OneDrive\Desktop\C#_WF\Github\Aikido\Aikido\bin\x86\Debug\System.Threading.Thread.dll
+C:\Users\minhh\OneDrive\Desktop\C#_WF\Github\Aikido\Aikido\bin\x86\Debug\System.Threading.ThreadPool.dll
+C:\Users\minhh\OneDrive\Desktop\C#_WF\Github\Aikido\Aikido\bin\x86\Debug\System.Threading.Timer.dll
+C:\Users\minhh\OneDrive\Desktop\C#_WF\Github\Aikido\Aikido\bin\x86\Debug\System.ValueTuple.dll
+C:\Users\minhh\OneDrive\Desktop\C#_WF\Github\Aikido\Aikido\bin\x86\Debug\System.Xml.ReaderWriter.dll
+C:\Users\minhh\OneDrive\Desktop\C#_WF\Github\Aikido\Aikido\bin\x86\Debug\System.Xml.XDocument.dll
+C:\Users\minhh\OneDrive\Desktop\C#_WF\Github\Aikido\Aikido\bin\x86\Debug\System.Xml.XmlDocument.dll
+C:\Users\minhh\OneDrive\Desktop\C#_WF\Github\Aikido\Aikido\bin\x86\Debug\System.Xml.XmlSerializer.dll
+C:\Users\minhh\OneDrive\Desktop\C#_WF\Github\Aikido\Aikido\bin\x86\Debug\System.Xml.XPath.dll
+C:\Users\minhh\OneDrive\Desktop\C#_WF\Github\Aikido\Aikido\bin\x86\Debug\System.Xml.XPath.XDocument.dll
+C:\Users\minhh\OneDrive\Desktop\C#_WF\Github\Aikido\Aikido\bin\x86\Debug\EntityFramework.dll
+C:\Users\minhh\OneDrive\Desktop\C#_WF\Github\Aikido\Aikido\bin\x86\Debug\EntityFramework.SqlServer.dll
+C:\Users\minhh\OneDrive\Desktop\C#_WF\Github\Aikido\Aikido\bin\x86\Debug\Microsoft.Data.Sqlite.dll
+C:\Users\minhh\OneDrive\Desktop\C#_WF\Github\Aikido\Aikido\bin\x86\Debug\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\minhh\OneDrive\Desktop\C#_WF\Github\Aikido\Aikido\bin\x86\Debug\Microsoft.EntityFrameworkCore.dll
+C:\Users\minhh\OneDrive\Desktop\C#_WF\Github\Aikido\Aikido\bin\x86\Debug\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\minhh\OneDrive\Desktop\C#_WF\Github\Aikido\Aikido\bin\x86\Debug\Microsoft.EntityFrameworkCore.Sqlite.dll
+C:\Users\minhh\OneDrive\Desktop\C#_WF\Github\Aikido\Aikido\bin\x86\Debug\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\minhh\OneDrive\Desktop\C#_WF\Github\Aikido\Aikido\bin\x86\Debug\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\minhh\OneDrive\Desktop\C#_WF\Github\Aikido\Aikido\bin\x86\Debug\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\minhh\OneDrive\Desktop\C#_WF\Github\Aikido\Aikido\bin\x86\Debug\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\minhh\OneDrive\Desktop\C#_WF\Github\Aikido\Aikido\bin\x86\Debug\Microsoft.Extensions.Configuration.dll
+C:\Users\minhh\OneDrive\Desktop\C#_WF\Github\Aikido\Aikido\bin\x86\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\minhh\OneDrive\Desktop\C#_WF\Github\Aikido\Aikido\bin\x86\Debug\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\minhh\OneDrive\Desktop\C#_WF\Github\Aikido\Aikido\bin\x86\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\minhh\OneDrive\Desktop\C#_WF\Github\Aikido\Aikido\bin\x86\Debug\Microsoft.Extensions.Logging.dll
+C:\Users\minhh\OneDrive\Desktop\C#_WF\Github\Aikido\Aikido\bin\x86\Debug\Microsoft.Extensions.Options.dll
+C:\Users\minhh\OneDrive\Desktop\C#_WF\Github\Aikido\Aikido\bin\x86\Debug\Microsoft.Extensions.Primitives.dll
+C:\Users\minhh\OneDrive\Desktop\C#_WF\Github\Aikido\Aikido\bin\x86\Debug\Remotion.Linq.dll
+C:\Users\minhh\OneDrive\Desktop\C#_WF\Github\Aikido\Aikido\bin\x86\Debug\Spire.Doc.dll
+C:\Users\minhh\OneDrive\Desktop\C#_WF\Github\Aikido\Aikido\bin\x86\Debug\Spire.License.dll
+C:\Users\minhh\OneDrive\Desktop\C#_WF\Github\Aikido\Aikido\bin\x86\Debug\Spire.Pdf.dll
+C:\Users\minhh\OneDrive\Desktop\C#_WF\Github\Aikido\Aikido\bin\x86\Debug\SQLitePCLRaw.batteries_green.dll
+C:\Users\minhh\OneDrive\Desktop\C#_WF\Github\Aikido\Aikido\bin\x86\Debug\SQLitePCLRaw.batteries_v2.dll
+C:\Users\minhh\OneDrive\Desktop\C#_WF\Github\Aikido\Aikido\bin\x86\Debug\SQLitePCLRaw.core.dll
+C:\Users\minhh\OneDrive\Desktop\C#_WF\Github\Aikido\Aikido\bin\x86\Debug\SQLitePCLRaw.provider.e_sqlite3.dll
+C:\Users\minhh\OneDrive\Desktop\C#_WF\Github\Aikido\Aikido\bin\x86\Debug\System.Buffers.dll
+C:\Users\minhh\OneDrive\Desktop\C#_WF\Github\Aikido\Aikido\bin\x86\Debug\System.Collections.Immutable.dll
+C:\Users\minhh\OneDrive\Desktop\C#_WF\Github\Aikido\Aikido\bin\x86\Debug\System.ComponentModel.Annotations.dll
+C:\Users\minhh\OneDrive\Desktop\C#_WF\Github\Aikido\Aikido\bin\x86\Debug\System.Data.SQLite.EF6.dll
+C:\Users\minhh\OneDrive\Desktop\C#_WF\Github\Aikido\Aikido\bin\x86\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\minhh\OneDrive\Desktop\C#_WF\Github\Aikido\Aikido\bin\x86\Debug\System.Interactive.Async.dll
+C:\Users\minhh\OneDrive\Desktop\C#_WF\Github\Aikido\Aikido\bin\x86\Debug\System.Memory.dll
+C:\Users\minhh\OneDrive\Desktop\C#_WF\Github\Aikido\Aikido\bin\x86\Debug\System.Numerics.Vectors.dll
+C:\Users\minhh\OneDrive\Desktop\C#_WF\Github\Aikido\Aikido\bin\x86\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\minhh\OneDrive\Desktop\C#_WF\Github\Aikido\Aikido\bin\x86\Debug\Microsoft.mshtml.dll
+C:\Users\minhh\OneDrive\Desktop\C#_WF\Github\Aikido\Aikido\bin\x86\Debug\EntityFramework.xml
+C:\Users\minhh\OneDrive\Desktop\C#_WF\Github\Aikido\Aikido\bin\x86\Debug\EntityFramework.SqlServer.xml
+C:\Users\minhh\OneDrive\Desktop\C#_WF\Github\Aikido\Aikido\bin\x86\Debug\Microsoft.Data.Sqlite.xml
+C:\Users\minhh\OneDrive\Desktop\C#_WF\Github\Aikido\Aikido\bin\x86\Debug\Microsoft.EntityFrameworkCore.Abstractions.xml
+C:\Users\minhh\OneDrive\Desktop\C#_WF\Github\Aikido\Aikido\bin\x86\Debug\Microsoft.EntityFrameworkCore.Relational.xml
+C:\Users\minhh\OneDrive\Desktop\C#_WF\Github\Aikido\Aikido\bin\x86\Debug\Microsoft.EntityFrameworkCore.Sqlite.xml
+C:\Users\minhh\OneDrive\Desktop\C#_WF\Github\Aikido\Aikido\bin\x86\Debug\Microsoft.Extensions.Caching.Abstractions.xml
+C:\Users\minhh\OneDrive\Desktop\C#_WF\Github\Aikido\Aikido\bin\x86\Debug\Microsoft.Extensions.Caching.Memory.xml
+C:\Users\minhh\OneDrive\Desktop\C#_WF\Github\Aikido\Aikido\bin\x86\Debug\Microsoft.Extensions.Configuration.xml
+C:\Users\minhh\OneDrive\Desktop\C#_WF\Github\Aikido\Aikido\bin\x86\Debug\Microsoft.Extensions.Configuration.Abstractions.xml
+C:\Users\minhh\OneDrive\Desktop\C#_WF\Github\Aikido\Aikido\bin\x86\Debug\Microsoft.Extensions.Configuration.Binder.xml
+C:\Users\minhh\OneDrive\Desktop\C#_WF\Github\Aikido\Aikido\bin\x86\Debug\Microsoft.Extensions.DependencyInjection.xml
+C:\Users\minhh\OneDrive\Desktop\C#_WF\Github\Aikido\Aikido\bin\x86\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\minhh\OneDrive\Desktop\C#_WF\Github\Aikido\Aikido\bin\x86\Debug\Microsoft.Extensions.Logging.xml
+C:\Users\minhh\OneDrive\Desktop\C#_WF\Github\Aikido\Aikido\bin\x86\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\minhh\OneDrive\Desktop\C#_WF\Github\Aikido\Aikido\bin\x86\Debug\Microsoft.Extensions.Options.xml
+C:\Users\minhh\OneDrive\Desktop\C#_WF\Github\Aikido\Aikido\bin\x86\Debug\Microsoft.Extensions.Primitives.xml
+C:\Users\minhh\OneDrive\Desktop\C#_WF\Github\Aikido\Aikido\bin\x86\Debug\Remotion.Linq.xml
+C:\Users\minhh\OneDrive\Desktop\C#_WF\Github\Aikido\Aikido\bin\x86\Debug\Spire.Doc.xml
+C:\Users\minhh\OneDrive\Desktop\C#_WF\Github\Aikido\Aikido\bin\x86\Debug\Spire.License.xml
+C:\Users\minhh\OneDrive\Desktop\C#_WF\Github\Aikido\Aikido\bin\x86\Debug\System.Buffers.xml
+C:\Users\minhh\OneDrive\Desktop\C#_WF\Github\Aikido\Aikido\bin\x86\Debug\System.Collections.Immutable.xml
+C:\Users\minhh\OneDrive\Desktop\C#_WF\Github\Aikido\Aikido\bin\x86\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\minhh\OneDrive\Desktop\C#_WF\Github\Aikido\Aikido\bin\x86\Debug\System.Interactive.Async.xml
+C:\Users\minhh\OneDrive\Desktop\C#_WF\Github\Aikido\Aikido\bin\x86\Debug\System.Memory.xml
+C:\Users\minhh\OneDrive\Desktop\C#_WF\Github\Aikido\Aikido\bin\x86\Debug\System.Numerics.Vectors.xml
+C:\Users\minhh\OneDrive\Desktop\C#_WF\Github\Aikido\Aikido\bin\x86\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\minhh\OneDrive\Desktop\C#_WF\Github\Aikido\Aikido\obj\x86\Debug\Aikido.exe.config
+C:\Users\minhh\OneDrive\Desktop\C#_WF\Github\Aikido\Aikido\obj\x86\Debug\VIEW\ClassScreen.g.cs
+C:\Users\minhh\OneDrive\Desktop\C#_WF\Github\Aikido\Aikido\obj\x86\Debug\VIEW\FeeScreen.g.cs
+C:\Users\minhh\OneDrive\Desktop\C#_WF\Github\Aikido\Aikido\obj\x86\Debug\VIEW\QuickSearch.g.cs
+C:\Users\minhh\OneDrive\Desktop\C#_WF\Github\Aikido\Aikido\obj\x86\Debug\VIEW\RegisterMemberScreen.g.cs
+C:\Users\minhh\OneDrive\Desktop\C#_WF\Github\Aikido\Aikido\obj\x86\Debug\VIEW\SearchCondition.g.cs
+C:\Users\minhh\OneDrive\Desktop\C#_WF\Github\Aikido\Aikido\obj\x86\Debug\VIEW\SettingScreen.g.cs
+C:\Users\minhh\OneDrive\Desktop\C#_WF\Github\Aikido\Aikido\obj\x86\Debug\VIEW\MainScreen.g.cs
+C:\Users\minhh\OneDrive\Desktop\C#_WF\Github\Aikido\Aikido\obj\x86\Debug\App.g.cs
+C:\Users\minhh\OneDrive\Desktop\C#_WF\Github\Aikido\Aikido\obj\x86\Debug\Aikido_Content.g.cs
+C:\Users\minhh\OneDrive\Desktop\C#_WF\Github\Aikido\Aikido\obj\x86\Debug\Aikido_MarkupCompile.cache
+C:\Users\minhh\OneDrive\Desktop\C#_WF\Github\Aikido\Aikido\obj\x86\Debug\Aikido_MarkupCompile.lref
+C:\Users\minhh\OneDrive\Desktop\C#_WF\Github\Aikido\Aikido\obj\x86\Debug\VIEW\ClassScreen.baml
+C:\Users\minhh\OneDrive\Desktop\C#_WF\Github\Aikido\Aikido\obj\x86\Debug\VIEW\FeeScreen.baml
+C:\Users\minhh\OneDrive\Desktop\C#_WF\Github\Aikido\Aikido\obj\x86\Debug\VIEW\QuickSearch.baml
+C:\Users\minhh\OneDrive\Desktop\C#_WF\Github\Aikido\Aikido\obj\x86\Debug\VIEW\RegisterMemberScreen.baml
+C:\Users\minhh\OneDrive\Desktop\C#_WF\Github\Aikido\Aikido\obj\x86\Debug\VIEW\SearchCondition.baml
+C:\Users\minhh\OneDrive\Desktop\C#_WF\Github\Aikido\Aikido\obj\x86\Debug\VIEW\SettingScreen.baml
+C:\Users\minhh\OneDrive\Desktop\C#_WF\Github\Aikido\Aikido\obj\x86\Debug\VIEW\MainScreen.baml
+C:\Users\minhh\OneDrive\Desktop\C#_WF\Github\Aikido\Aikido\obj\x86\Debug\Aikido.g.resources
+C:\Users\minhh\OneDrive\Desktop\C#_WF\Github\Aikido\Aikido\obj\x86\Debug\Aikido.Properties.Resources.resources
+C:\Users\minhh\OneDrive\Desktop\C#_WF\Github\Aikido\Aikido\obj\x86\Debug\Aikido-Combine.csproj.GenerateResource.cache
+C:\Users\minhh\OneDrive\Desktop\C#_WF\Github\Aikido\Aikido\obj\x86\Debug\Aikido-Combine.csproj.CoreCompileInputs.cache
+C:\Users\minhh\OneDrive\Desktop\C#_WF\Github\Aikido\Aikido\obj\x86\Debug\Aikido-Combine.csproj.CopyComplete
+C:\Users\minhh\OneDrive\Desktop\C#_WF\Github\Aikido\Aikido\obj\x86\Debug\Aikido.exe
+C:\Users\minhh\OneDrive\Desktop\C#_WF\Github\Aikido\Aikido\obj\x86\Debug\Aikido.pdb
+C:\Users\minhh\OneDrive\Desktop\C#_WF\Github\Aikido\Aikido\obj\x86\Debug\Aikido-Combine.csprojAssemblyReference.cache
+D:\Intership\FPT\Winform\31-7-2018\C-_WF-Intership-\Aikido\Aikido\bin\x86\Debug\x86\e_sqlite3.dll
+D:\Intership\FPT\Winform\31-7-2018\C-_WF-Intership-\Aikido\Aikido\bin\x86\Debug\x64\e_sqlite3.dll
+D:\Intership\FPT\Winform\31-7-2018\C-_WF-Intership-\Aikido\Aikido\bin\x86\Debug\Aikido.exe.config
+D:\Intership\FPT\Winform\31-7-2018\C-_WF-Intership-\Aikido\Aikido\bin\x86\Debug\Aikido.exe
+D:\Intership\FPT\Winform\31-7-2018\C-_WF-Intership-\Aikido\Aikido\bin\x86\Debug\Aikido.pdb
+D:\Intership\FPT\Winform\31-7-2018\C-_WF-Intership-\Aikido\Aikido\bin\x86\Debug\Microsoft.Win32.Primitives.dll
+D:\Intership\FPT\Winform\31-7-2018\C-_WF-Intership-\Aikido\Aikido\bin\x86\Debug\netstandard.dll
+D:\Intership\FPT\Winform\31-7-2018\C-_WF-Intership-\Aikido\Aikido\bin\x86\Debug\System.AppContext.dll
+D:\Intership\FPT\Winform\31-7-2018\C-_WF-Intership-\Aikido\Aikido\bin\x86\Debug\System.Collections.Concurrent.dll
+D:\Intership\FPT\Winform\31-7-2018\C-_WF-Intership-\Aikido\Aikido\bin\x86\Debug\System.Collections.dll
+D:\Intership\FPT\Winform\31-7-2018\C-_WF-Intership-\Aikido\Aikido\bin\x86\Debug\System.Collections.NonGeneric.dll
+D:\Intership\FPT\Winform\31-7-2018\C-_WF-Intership-\Aikido\Aikido\bin\x86\Debug\System.Collections.Specialized.dll
+D:\Intership\FPT\Winform\31-7-2018\C-_WF-Intership-\Aikido\Aikido\bin\x86\Debug\System.ComponentModel.dll
+D:\Intership\FPT\Winform\31-7-2018\C-_WF-Intership-\Aikido\Aikido\bin\x86\Debug\System.ComponentModel.EventBasedAsync.dll
+D:\Intership\FPT\Winform\31-7-2018\C-_WF-Intership-\Aikido\Aikido\bin\x86\Debug\System.ComponentModel.Primitives.dll
+D:\Intership\FPT\Winform\31-7-2018\C-_WF-Intership-\Aikido\Aikido\bin\x86\Debug\System.ComponentModel.TypeConverter.dll
+D:\Intership\FPT\Winform\31-7-2018\C-_WF-Intership-\Aikido\Aikido\bin\x86\Debug\System.Console.dll
+D:\Intership\FPT\Winform\31-7-2018\C-_WF-Intership-\Aikido\Aikido\bin\x86\Debug\System.Data.Common.dll
+D:\Intership\FPT\Winform\31-7-2018\C-_WF-Intership-\Aikido\Aikido\bin\x86\Debug\System.Diagnostics.Contracts.dll
+D:\Intership\FPT\Winform\31-7-2018\C-_WF-Intership-\Aikido\Aikido\bin\x86\Debug\System.Diagnostics.Debug.dll
+D:\Intership\FPT\Winform\31-7-2018\C-_WF-Intership-\Aikido\Aikido\bin\x86\Debug\System.Diagnostics.FileVersionInfo.dll
+D:\Intership\FPT\Winform\31-7-2018\C-_WF-Intership-\Aikido\Aikido\bin\x86\Debug\System.Diagnostics.Process.dll
+D:\Intership\FPT\Winform\31-7-2018\C-_WF-Intership-\Aikido\Aikido\bin\x86\Debug\System.Diagnostics.StackTrace.dll
+D:\Intership\FPT\Winform\31-7-2018\C-_WF-Intership-\Aikido\Aikido\bin\x86\Debug\System.Diagnostics.TextWriterTraceListener.dll
+D:\Intership\FPT\Winform\31-7-2018\C-_WF-Intership-\Aikido\Aikido\bin\x86\Debug\System.Diagnostics.Tools.dll
+D:\Intership\FPT\Winform\31-7-2018\C-_WF-Intership-\Aikido\Aikido\bin\x86\Debug\System.Diagnostics.TraceSource.dll
+D:\Intership\FPT\Winform\31-7-2018\C-_WF-Intership-\Aikido\Aikido\bin\x86\Debug\System.Diagnostics.Tracing.dll
+D:\Intership\FPT\Winform\31-7-2018\C-_WF-Intership-\Aikido\Aikido\bin\x86\Debug\System.Drawing.Primitives.dll
+D:\Intership\FPT\Winform\31-7-2018\C-_WF-Intership-\Aikido\Aikido\bin\x86\Debug\System.Dynamic.Runtime.dll
+D:\Intership\FPT\Winform\31-7-2018\C-_WF-Intership-\Aikido\Aikido\bin\x86\Debug\System.Globalization.Calendars.dll
+D:\Intership\FPT\Winform\31-7-2018\C-_WF-Intership-\Aikido\Aikido\bin\x86\Debug\System.Globalization.dll
+D:\Intership\FPT\Winform\31-7-2018\C-_WF-Intership-\Aikido\Aikido\bin\x86\Debug\System.Globalization.Extensions.dll
+D:\Intership\FPT\Winform\31-7-2018\C-_WF-Intership-\Aikido\Aikido\bin\x86\Debug\System.IO.Compression.dll
+D:\Intership\FPT\Winform\31-7-2018\C-_WF-Intership-\Aikido\Aikido\bin\x86\Debug\System.IO.Compression.ZipFile.dll
+D:\Intership\FPT\Winform\31-7-2018\C-_WF-Intership-\Aikido\Aikido\bin\x86\Debug\System.IO.dll
+D:\Intership\FPT\Winform\31-7-2018\C-_WF-Intership-\Aikido\Aikido\bin\x86\Debug\System.IO.FileSystem.dll
+D:\Intership\FPT\Winform\31-7-2018\C-_WF-Intership-\Aikido\Aikido\bin\x86\Debug\System.IO.FileSystem.DriveInfo.dll
+D:\Intership\FPT\Winform\31-7-2018\C-_WF-Intership-\Aikido\Aikido\bin\x86\Debug\System.IO.FileSystem.Primitives.dll
+D:\Intership\FPT\Winform\31-7-2018\C-_WF-Intership-\Aikido\Aikido\bin\x86\Debug\System.IO.FileSystem.Watcher.dll
+D:\Intership\FPT\Winform\31-7-2018\C-_WF-Intership-\Aikido\Aikido\bin\x86\Debug\System.IO.IsolatedStorage.dll
+D:\Intership\FPT\Winform\31-7-2018\C-_WF-Intership-\Aikido\Aikido\bin\x86\Debug\System.IO.MemoryMappedFiles.dll
+D:\Intership\FPT\Winform\31-7-2018\C-_WF-Intership-\Aikido\Aikido\bin\x86\Debug\System.IO.Pipes.dll
+D:\Intership\FPT\Winform\31-7-2018\C-_WF-Intership-\Aikido\Aikido\bin\x86\Debug\System.IO.UnmanagedMemoryStream.dll
+D:\Intership\FPT\Winform\31-7-2018\C-_WF-Intership-\Aikido\Aikido\bin\x86\Debug\System.Linq.dll
+D:\Intership\FPT\Winform\31-7-2018\C-_WF-Intership-\Aikido\Aikido\bin\x86\Debug\System.Linq.Expressions.dll
+D:\Intership\FPT\Winform\31-7-2018\C-_WF-Intership-\Aikido\Aikido\bin\x86\Debug\System.Linq.Parallel.dll
+D:\Intership\FPT\Winform\31-7-2018\C-_WF-Intership-\Aikido\Aikido\bin\x86\Debug\System.Linq.Queryable.dll
+D:\Intership\FPT\Winform\31-7-2018\C-_WF-Intership-\Aikido\Aikido\bin\x86\Debug\System.Net.Http.dll
+D:\Intership\FPT\Winform\31-7-2018\C-_WF-Intership-\Aikido\Aikido\bin\x86\Debug\System.Net.NameResolution.dll
+D:\Intership\FPT\Winform\31-7-2018\C-_WF-Intership-\Aikido\Aikido\bin\x86\Debug\System.Net.NetworkInformation.dll
+D:\Intership\FPT\Winform\31-7-2018\C-_WF-Intership-\Aikido\Aikido\bin\x86\Debug\System.Net.Ping.dll
+D:\Intership\FPT\Winform\31-7-2018\C-_WF-Intership-\Aikido\Aikido\bin\x86\Debug\System.Net.Primitives.dll
+D:\Intership\FPT\Winform\31-7-2018\C-_WF-Intership-\Aikido\Aikido\bin\x86\Debug\System.Net.Requests.dll
+D:\Intership\FPT\Winform\31-7-2018\C-_WF-Intership-\Aikido\Aikido\bin\x86\Debug\System.Net.Security.dll
+D:\Intership\FPT\Winform\31-7-2018\C-_WF-Intership-\Aikido\Aikido\bin\x86\Debug\System.Net.Sockets.dll
+D:\Intership\FPT\Winform\31-7-2018\C-_WF-Intership-\Aikido\Aikido\bin\x86\Debug\System.Net.WebHeaderCollection.dll
+D:\Intership\FPT\Winform\31-7-2018\C-_WF-Intership-\Aikido\Aikido\bin\x86\Debug\System.Net.WebSockets.Client.dll
+D:\Intership\FPT\Winform\31-7-2018\C-_WF-Intership-\Aikido\Aikido\bin\x86\Debug\System.Net.WebSockets.dll
+D:\Intership\FPT\Winform\31-7-2018\C-_WF-Intership-\Aikido\Aikido\bin\x86\Debug\System.ObjectModel.dll
+D:\Intership\FPT\Winform\31-7-2018\C-_WF-Intership-\Aikido\Aikido\bin\x86\Debug\System.Reflection.dll
+D:\Intership\FPT\Winform\31-7-2018\C-_WF-Intership-\Aikido\Aikido\bin\x86\Debug\System.Reflection.Extensions.dll
+D:\Intership\FPT\Winform\31-7-2018\C-_WF-Intership-\Aikido\Aikido\bin\x86\Debug\System.Reflection.Primitives.dll
+D:\Intership\FPT\Winform\31-7-2018\C-_WF-Intership-\Aikido\Aikido\bin\x86\Debug\System.Resources.Reader.dll
+D:\Intership\FPT\Winform\31-7-2018\C-_WF-Intership-\Aikido\Aikido\bin\x86\Debug\System.Resources.ResourceManager.dll
+D:\Intership\FPT\Winform\31-7-2018\C-_WF-Intership-\Aikido\Aikido\bin\x86\Debug\System.Resources.Writer.dll
+D:\Intership\FPT\Winform\31-7-2018\C-_WF-Intership-\Aikido\Aikido\bin\x86\Debug\System.Runtime.CompilerServices.VisualC.dll
+D:\Intership\FPT\Winform\31-7-2018\C-_WF-Intership-\Aikido\Aikido\bin\x86\Debug\System.Runtime.dll
+D:\Intership\FPT\Winform\31-7-2018\C-_WF-Intership-\Aikido\Aikido\bin\x86\Debug\System.Runtime.Extensions.dll
+D:\Intership\FPT\Winform\31-7-2018\C-_WF-Intership-\Aikido\Aikido\bin\x86\Debug\System.Runtime.Handles.dll
+D:\Intership\FPT\Winform\31-7-2018\C-_WF-Intership-\Aikido\Aikido\bin\x86\Debug\System.Runtime.InteropServices.dll
+D:\Intership\FPT\Winform\31-7-2018\C-_WF-Intership-\Aikido\Aikido\bin\x86\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\Intership\FPT\Winform\31-7-2018\C-_WF-Intership-\Aikido\Aikido\bin\x86\Debug\System.Runtime.Numerics.dll
+D:\Intership\FPT\Winform\31-7-2018\C-_WF-Intership-\Aikido\Aikido\bin\x86\Debug\System.Runtime.Serialization.Formatters.dll
+D:\Intership\FPT\Winform\31-7-2018\C-_WF-Intership-\Aikido\Aikido\bin\x86\Debug\System.Runtime.Serialization.Json.dll
+D:\Intership\FPT\Winform\31-7-2018\C-_WF-Intership-\Aikido\Aikido\bin\x86\Debug\System.Runtime.Serialization.Primitives.dll
+D:\Intership\FPT\Winform\31-7-2018\C-_WF-Intership-\Aikido\Aikido\bin\x86\Debug\System.Runtime.Serialization.Xml.dll
+D:\Intership\FPT\Winform\31-7-2018\C-_WF-Intership-\Aikido\Aikido\bin\x86\Debug\System.Security.Claims.dll
+D:\Intership\FPT\Winform\31-7-2018\C-_WF-Intership-\Aikido\Aikido\bin\x86\Debug\System.Security.Cryptography.Algorithms.dll
+D:\Intership\FPT\Winform\31-7-2018\C-_WF-Intership-\Aikido\Aikido\bin\x86\Debug\System.Security.Cryptography.Csp.dll
+D:\Intership\FPT\Winform\31-7-2018\C-_WF-Intership-\Aikido\Aikido\bin\x86\Debug\System.Security.Cryptography.Encoding.dll
+D:\Intership\FPT\Winform\31-7-2018\C-_WF-Intership-\Aikido\Aikido\bin\x86\Debug\System.Security.Cryptography.Primitives.dll
+D:\Intership\FPT\Winform\31-7-2018\C-_WF-Intership-\Aikido\Aikido\bin\x86\Debug\System.Security.Cryptography.X509Certificates.dll
+D:\Intership\FPT\Winform\31-7-2018\C-_WF-Intership-\Aikido\Aikido\bin\x86\Debug\System.Security.Principal.dll
+D:\Intership\FPT\Winform\31-7-2018\C-_WF-Intership-\Aikido\Aikido\bin\x86\Debug\System.Security.SecureString.dll
+D:\Intership\FPT\Winform\31-7-2018\C-_WF-Intership-\Aikido\Aikido\bin\x86\Debug\System.Text.Encoding.dll
+D:\Intership\FPT\Winform\31-7-2018\C-_WF-Intership-\Aikido\Aikido\bin\x86\Debug\System.Text.Encoding.Extensions.dll
+D:\Intership\FPT\Winform\31-7-2018\C-_WF-Intership-\Aikido\Aikido\bin\x86\Debug\System.Text.RegularExpressions.dll
+D:\Intership\FPT\Winform\31-7-2018\C-_WF-Intership-\Aikido\Aikido\bin\x86\Debug\System.Threading.dll
+D:\Intership\FPT\Winform\31-7-2018\C-_WF-Intership-\Aikido\Aikido\bin\x86\Debug\System.Threading.Overlapped.dll
+D:\Intership\FPT\Winform\31-7-2018\C-_WF-Intership-\Aikido\Aikido\bin\x86\Debug\System.Threading.Tasks.dll
+D:\Intership\FPT\Winform\31-7-2018\C-_WF-Intership-\Aikido\Aikido\bin\x86\Debug\System.Threading.Tasks.Parallel.dll
+D:\Intership\FPT\Winform\31-7-2018\C-_WF-Intership-\Aikido\Aikido\bin\x86\Debug\System.Threading.Thread.dll
+D:\Intership\FPT\Winform\31-7-2018\C-_WF-Intership-\Aikido\Aikido\bin\x86\Debug\System.Threading.ThreadPool.dll
+D:\Intership\FPT\Winform\31-7-2018\C-_WF-Intership-\Aikido\Aikido\bin\x86\Debug\System.Threading.Timer.dll
+D:\Intership\FPT\Winform\31-7-2018\C-_WF-Intership-\Aikido\Aikido\bin\x86\Debug\System.ValueTuple.dll
+D:\Intership\FPT\Winform\31-7-2018\C-_WF-Intership-\Aikido\Aikido\bin\x86\Debug\System.Xml.ReaderWriter.dll
+D:\Intership\FPT\Winform\31-7-2018\C-_WF-Intership-\Aikido\Aikido\bin\x86\Debug\System.Xml.XDocument.dll
+D:\Intership\FPT\Winform\31-7-2018\C-_WF-Intership-\Aikido\Aikido\bin\x86\Debug\System.Xml.XmlDocument.dll
+D:\Intership\FPT\Winform\31-7-2018\C-_WF-Intership-\Aikido\Aikido\bin\x86\Debug\System.Xml.XmlSerializer.dll
+D:\Intership\FPT\Winform\31-7-2018\C-_WF-Intership-\Aikido\Aikido\bin\x86\Debug\System.Xml.XPath.dll
+D:\Intership\FPT\Winform\31-7-2018\C-_WF-Intership-\Aikido\Aikido\bin\x86\Debug\System.Xml.XPath.XDocument.dll
+D:\Intership\FPT\Winform\31-7-2018\C-_WF-Intership-\Aikido\Aikido\bin\x86\Debug\EntityFramework.dll
+D:\Intership\FPT\Winform\31-7-2018\C-_WF-Intership-\Aikido\Aikido\bin\x86\Debug\EntityFramework.SqlServer.dll
+D:\Intership\FPT\Winform\31-7-2018\C-_WF-Intership-\Aikido\Aikido\bin\x86\Debug\Microsoft.Data.Sqlite.dll
+D:\Intership\FPT\Winform\31-7-2018\C-_WF-Intership-\Aikido\Aikido\bin\x86\Debug\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Intership\FPT\Winform\31-7-2018\C-_WF-Intership-\Aikido\Aikido\bin\x86\Debug\Microsoft.EntityFrameworkCore.dll
+D:\Intership\FPT\Winform\31-7-2018\C-_WF-Intership-\Aikido\Aikido\bin\x86\Debug\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Intership\FPT\Winform\31-7-2018\C-_WF-Intership-\Aikido\Aikido\bin\x86\Debug\Microsoft.EntityFrameworkCore.Sqlite.dll
+D:\Intership\FPT\Winform\31-7-2018\C-_WF-Intership-\Aikido\Aikido\bin\x86\Debug\Microsoft.Extensions.Caching.Abstractions.dll
+D:\Intership\FPT\Winform\31-7-2018\C-_WF-Intership-\Aikido\Aikido\bin\x86\Debug\Microsoft.Extensions.Caching.Memory.dll
+D:\Intership\FPT\Winform\31-7-2018\C-_WF-Intership-\Aikido\Aikido\bin\x86\Debug\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Intership\FPT\Winform\31-7-2018\C-_WF-Intership-\Aikido\Aikido\bin\x86\Debug\Microsoft.Extensions.Configuration.Binder.dll
+D:\Intership\FPT\Winform\31-7-2018\C-_WF-Intership-\Aikido\Aikido\bin\x86\Debug\Microsoft.Extensions.Configuration.dll
+D:\Intership\FPT\Winform\31-7-2018\C-_WF-Intership-\Aikido\Aikido\bin\x86\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Intership\FPT\Winform\31-7-2018\C-_WF-Intership-\Aikido\Aikido\bin\x86\Debug\Microsoft.Extensions.DependencyInjection.dll
+D:\Intership\FPT\Winform\31-7-2018\C-_WF-Intership-\Aikido\Aikido\bin\x86\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Intership\FPT\Winform\31-7-2018\C-_WF-Intership-\Aikido\Aikido\bin\x86\Debug\Microsoft.Extensions.Logging.dll
+D:\Intership\FPT\Winform\31-7-2018\C-_WF-Intership-\Aikido\Aikido\bin\x86\Debug\Microsoft.Extensions.Options.dll
+D:\Intership\FPT\Winform\31-7-2018\C-_WF-Intership-\Aikido\Aikido\bin\x86\Debug\Microsoft.Extensions.Primitives.dll
+D:\Intership\FPT\Winform\31-7-2018\C-_WF-Intership-\Aikido\Aikido\bin\x86\Debug\Remotion.Linq.dll
+D:\Intership\FPT\Winform\31-7-2018\C-_WF-Intership-\Aikido\Aikido\bin\x86\Debug\Spire.Doc.dll
+D:\Intership\FPT\Winform\31-7-2018\C-_WF-Intership-\Aikido\Aikido\bin\x86\Debug\Spire.License.dll
+D:\Intership\FPT\Winform\31-7-2018\C-_WF-Intership-\Aikido\Aikido\bin\x86\Debug\Spire.Pdf.dll
+D:\Intership\FPT\Winform\31-7-2018\C-_WF-Intership-\Aikido\Aikido\bin\x86\Debug\SQLitePCLRaw.batteries_green.dll
+D:\Intership\FPT\Winform\31-7-2018\C-_WF-Intership-\Aikido\Aikido\bin\x86\Debug\SQLitePCLRaw.batteries_v2.dll
+D:\Intership\FPT\Winform\31-7-2018\C-_WF-Intership-\Aikido\Aikido\bin\x86\Debug\SQLitePCLRaw.core.dll
+D:\Intership\FPT\Winform\31-7-2018\C-_WF-Intership-\Aikido\Aikido\bin\x86\Debug\SQLitePCLRaw.provider.e_sqlite3.dll
+D:\Intership\FPT\Winform\31-7-2018\C-_WF-Intership-\Aikido\Aikido\bin\x86\Debug\System.Buffers.dll
+D:\Intership\FPT\Winform\31-7-2018\C-_WF-Intership-\Aikido\Aikido\bin\x86\Debug\System.Collections.Immutable.dll
+D:\Intership\FPT\Winform\31-7-2018\C-_WF-Intership-\Aikido\Aikido\bin\x86\Debug\System.ComponentModel.Annotations.dll
+D:\Intership\FPT\Winform\31-7-2018\C-_WF-Intership-\Aikido\Aikido\bin\x86\Debug\System.Data.SQLite.EF6.dll
+D:\Intership\FPT\Winform\31-7-2018\C-_WF-Intership-\Aikido\Aikido\bin\x86\Debug\System.Diagnostics.DiagnosticSource.dll
+D:\Intership\FPT\Winform\31-7-2018\C-_WF-Intership-\Aikido\Aikido\bin\x86\Debug\System.Interactive.Async.dll
+D:\Intership\FPT\Winform\31-7-2018\C-_WF-Intership-\Aikido\Aikido\bin\x86\Debug\System.Memory.dll
+D:\Intership\FPT\Winform\31-7-2018\C-_WF-Intership-\Aikido\Aikido\bin\x86\Debug\System.Numerics.Vectors.dll
+D:\Intership\FPT\Winform\31-7-2018\C-_WF-Intership-\Aikido\Aikido\bin\x86\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\Intership\FPT\Winform\31-7-2018\C-_WF-Intership-\Aikido\Aikido\bin\x86\Debug\Microsoft.mshtml.dll
+D:\Intership\FPT\Winform\31-7-2018\C-_WF-Intership-\Aikido\Aikido\bin\x86\Debug\EntityFramework.xml
+D:\Intership\FPT\Winform\31-7-2018\C-_WF-Intership-\Aikido\Aikido\bin\x86\Debug\EntityFramework.SqlServer.xml
+D:\Intership\FPT\Winform\31-7-2018\C-_WF-Intership-\Aikido\Aikido\bin\x86\Debug\Microsoft.Data.Sqlite.xml
+D:\Intership\FPT\Winform\31-7-2018\C-_WF-Intership-\Aikido\Aikido\bin\x86\Debug\Microsoft.EntityFrameworkCore.xml
+D:\Intership\FPT\Winform\31-7-2018\C-_WF-Intership-\Aikido\Aikido\bin\x86\Debug\Microsoft.EntityFrameworkCore.Abstractions.xml
+D:\Intership\FPT\Winform\31-7-2018\C-_WF-Intership-\Aikido\Aikido\bin\x86\Debug\Microsoft.EntityFrameworkCore.Relational.xml
+D:\Intership\FPT\Winform\31-7-2018\C-_WF-Intership-\Aikido\Aikido\bin\x86\Debug\Microsoft.EntityFrameworkCore.Sqlite.xml
+D:\Intership\FPT\Winform\31-7-2018\C-_WF-Intership-\Aikido\Aikido\bin\x86\Debug\Microsoft.Extensions.Caching.Abstractions.xml
+D:\Intership\FPT\Winform\31-7-2018\C-_WF-Intership-\Aikido\Aikido\bin\x86\Debug\Microsoft.Extensions.Caching.Memory.xml
+D:\Intership\FPT\Winform\31-7-2018\C-_WF-Intership-\Aikido\Aikido\bin\x86\Debug\Microsoft.Extensions.Configuration.xml
+D:\Intership\FPT\Winform\31-7-2018\C-_WF-Intership-\Aikido\Aikido\bin\x86\Debug\Microsoft.Extensions.Configuration.Abstractions.xml
+D:\Intership\FPT\Winform\31-7-2018\C-_WF-Intership-\Aikido\Aikido\bin\x86\Debug\Microsoft.Extensions.Configuration.Binder.xml
+D:\Intership\FPT\Winform\31-7-2018\C-_WF-Intership-\Aikido\Aikido\bin\x86\Debug\Microsoft.Extensions.DependencyInjection.xml
+D:\Intership\FPT\Winform\31-7-2018\C-_WF-Intership-\Aikido\Aikido\bin\x86\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+D:\Intership\FPT\Winform\31-7-2018\C-_WF-Intership-\Aikido\Aikido\bin\x86\Debug\Microsoft.Extensions.Logging.xml
+D:\Intership\FPT\Winform\31-7-2018\C-_WF-Intership-\Aikido\Aikido\bin\x86\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+D:\Intership\FPT\Winform\31-7-2018\C-_WF-Intership-\Aikido\Aikido\bin\x86\Debug\Microsoft.Extensions.Options.xml
+D:\Intership\FPT\Winform\31-7-2018\C-_WF-Intership-\Aikido\Aikido\bin\x86\Debug\Microsoft.Extensions.Primitives.xml
+D:\Intership\FPT\Winform\31-7-2018\C-_WF-Intership-\Aikido\Aikido\bin\x86\Debug\Remotion.Linq.xml
+D:\Intership\FPT\Winform\31-7-2018\C-_WF-Intership-\Aikido\Aikido\bin\x86\Debug\Spire.Doc.xml
+D:\Intership\FPT\Winform\31-7-2018\C-_WF-Intership-\Aikido\Aikido\bin\x86\Debug\Spire.License.xml
+D:\Intership\FPT\Winform\31-7-2018\C-_WF-Intership-\Aikido\Aikido\bin\x86\Debug\System.Buffers.xml
+D:\Intership\FPT\Winform\31-7-2018\C-_WF-Intership-\Aikido\Aikido\bin\x86\Debug\System.Collections.Immutable.xml
+D:\Intership\FPT\Winform\31-7-2018\C-_WF-Intership-\Aikido\Aikido\bin\x86\Debug\System.Diagnostics.DiagnosticSource.xml
+D:\Intership\FPT\Winform\31-7-2018\C-_WF-Intership-\Aikido\Aikido\bin\x86\Debug\System.Interactive.Async.xml
+D:\Intership\FPT\Winform\31-7-2018\C-_WF-Intership-\Aikido\Aikido\bin\x86\Debug\System.Memory.xml
+D:\Intership\FPT\Winform\31-7-2018\C-_WF-Intership-\Aikido\Aikido\bin\x86\Debug\System.Numerics.Vectors.xml
+D:\Intership\FPT\Winform\31-7-2018\C-_WF-Intership-\Aikido\Aikido\bin\x86\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\Intership\FPT\Winform\31-7-2018\C-_WF-Intership-\Aikido\Aikido\obj\x86\Debug\Aikido-Combine.csprojAssemblyReference.cache
+D:\Intership\FPT\Winform\31-7-2018\C-_WF-Intership-\Aikido\Aikido\obj\x86\Debug\Aikido.exe.config
+D:\Intership\FPT\Winform\31-7-2018\C-_WF-Intership-\Aikido\Aikido\obj\x86\Debug\VIEW\ClassScreen.g.cs
+D:\Intership\FPT\Winform\31-7-2018\C-_WF-Intership-\Aikido\Aikido\obj\x86\Debug\VIEW\FeeScreen.g.cs
+D:\Intership\FPT\Winform\31-7-2018\C-_WF-Intership-\Aikido\Aikido\obj\x86\Debug\VIEW\QuickSearch.g.cs
+D:\Intership\FPT\Winform\31-7-2018\C-_WF-Intership-\Aikido\Aikido\obj\x86\Debug\VIEW\RegisterMemberScreen.g.cs
+D:\Intership\FPT\Winform\31-7-2018\C-_WF-Intership-\Aikido\Aikido\obj\x86\Debug\VIEW\SearchCondition.g.cs
+D:\Intership\FPT\Winform\31-7-2018\C-_WF-Intership-\Aikido\Aikido\obj\x86\Debug\VIEW\SettingScreen.g.cs
+D:\Intership\FPT\Winform\31-7-2018\C-_WF-Intership-\Aikido\Aikido\obj\x86\Debug\VIEW\MainScreen.g.cs
+D:\Intership\FPT\Winform\31-7-2018\C-_WF-Intership-\Aikido\Aikido\obj\x86\Debug\App.g.cs
+D:\Intership\FPT\Winform\31-7-2018\C-_WF-Intership-\Aikido\Aikido\obj\x86\Debug\Aikido_Content.g.cs
+D:\Intership\FPT\Winform\31-7-2018\C-_WF-Intership-\Aikido\Aikido\obj\x86\Debug\Aikido_MarkupCompile.cache
+D:\Intership\FPT\Winform\31-7-2018\C-_WF-Intership-\Aikido\Aikido\obj\x86\Debug\Aikido_MarkupCompile.lref
+D:\Intership\FPT\Winform\31-7-2018\C-_WF-Intership-\Aikido\Aikido\obj\x86\Debug\VIEW\ClassScreen.baml
+D:\Intership\FPT\Winform\31-7-2018\C-_WF-Intership-\Aikido\Aikido\obj\x86\Debug\VIEW\FeeScreen.baml
+D:\Intership\FPT\Winform\31-7-2018\C-_WF-Intership-\Aikido\Aikido\obj\x86\Debug\VIEW\QuickSearch.baml
+D:\Intership\FPT\Winform\31-7-2018\C-_WF-Intership-\Aikido\Aikido\obj\x86\Debug\VIEW\RegisterMemberScreen.baml
+D:\Intership\FPT\Winform\31-7-2018\C-_WF-Intership-\Aikido\Aikido\obj\x86\Debug\VIEW\SearchCondition.baml
+D:\Intership\FPT\Winform\31-7-2018\C-_WF-Intership-\Aikido\Aikido\obj\x86\Debug\VIEW\SettingScreen.baml
+D:\Intership\FPT\Winform\31-7-2018\C-_WF-Intership-\Aikido\Aikido\obj\x86\Debug\VIEW\MainScreen.baml
+D:\Intership\FPT\Winform\31-7-2018\C-_WF-Intership-\Aikido\Aikido\obj\x86\Debug\Aikido.g.resources
+D:\Intership\FPT\Winform\31-7-2018\C-_WF-Intership-\Aikido\Aikido\obj\x86\Debug\Aikido.Properties.Resources.resources
+D:\Intership\FPT\Winform\31-7-2018\C-_WF-Intership-\Aikido\Aikido\obj\x86\Debug\Aikido-Combine.csproj.GenerateResource.cache
+D:\Intership\FPT\Winform\31-7-2018\C-_WF-Intership-\Aikido\Aikido\obj\x86\Debug\Aikido-Combine.csproj.CoreCompileInputs.cache
+D:\Intership\FPT\Winform\31-7-2018\C-_WF-Intership-\Aikido\Aikido\obj\x86\Debug\Aikido-Combine.csproj.CopyComplete
+D:\Intership\FPT\Winform\31-7-2018\C-_WF-Intership-\Aikido\Aikido\obj\x86\Debug\Aikido.exe
+D:\Intership\FPT\Winform\31-7-2018\C-_WF-Intership-\Aikido\Aikido\obj\x86\Debug\Aikido.pdb
+C:\Users\minhh\OneDrive\Desktop\Aikido\Aikido\bin\x86\Debug\x86\e_sqlite3.dll
+C:\Users\minhh\OneDrive\Desktop\Aikido\Aikido\bin\x86\Debug\x64\e_sqlite3.dll
+C:\Users\minhh\OneDrive\Desktop\Aikido\Aikido\bin\x86\Debug\Aikido.exe.config
+C:\Users\minhh\OneDrive\Desktop\Aikido\Aikido\bin\x86\Debug\Aikido.exe
+C:\Users\minhh\OneDrive\Desktop\Aikido\Aikido\bin\x86\Debug\Aikido.pdb
+C:\Users\minhh\OneDrive\Desktop\Aikido\Aikido\bin\x86\Debug\Microsoft.Win32.Primitives.dll
+C:\Users\minhh\OneDrive\Desktop\Aikido\Aikido\bin\x86\Debug\netstandard.dll
+C:\Users\minhh\OneDrive\Desktop\Aikido\Aikido\bin\x86\Debug\System.AppContext.dll
+C:\Users\minhh\OneDrive\Desktop\Aikido\Aikido\bin\x86\Debug\System.Collections.Concurrent.dll
+C:\Users\minhh\OneDrive\Desktop\Aikido\Aikido\bin\x86\Debug\System.Collections.dll
+C:\Users\minhh\OneDrive\Desktop\Aikido\Aikido\bin\x86\Debug\System.Collections.NonGeneric.dll
+C:\Users\minhh\OneDrive\Desktop\Aikido\Aikido\bin\x86\Debug\System.Collections.Specialized.dll
+C:\Users\minhh\OneDrive\Desktop\Aikido\Aikido\bin\x86\Debug\System.ComponentModel.dll
+C:\Users\minhh\OneDrive\Desktop\Aikido\Aikido\bin\x86\Debug\System.ComponentModel.EventBasedAsync.dll
+C:\Users\minhh\OneDrive\Desktop\Aikido\Aikido\bin\x86\Debug\System.ComponentModel.Primitives.dll
+C:\Users\minhh\OneDrive\Desktop\Aikido\Aikido\bin\x86\Debug\System.ComponentModel.TypeConverter.dll
+C:\Users\minhh\OneDrive\Desktop\Aikido\Aikido\bin\x86\Debug\System.Console.dll
+C:\Users\minhh\OneDrive\Desktop\Aikido\Aikido\bin\x86\Debug\System.Data.Common.dll
+C:\Users\minhh\OneDrive\Desktop\Aikido\Aikido\bin\x86\Debug\System.Diagnostics.Contracts.dll
+C:\Users\minhh\OneDrive\Desktop\Aikido\Aikido\bin\x86\Debug\System.Diagnostics.Debug.dll
+C:\Users\minhh\OneDrive\Desktop\Aikido\Aikido\bin\x86\Debug\System.Diagnostics.FileVersionInfo.dll
+C:\Users\minhh\OneDrive\Desktop\Aikido\Aikido\bin\x86\Debug\System.Diagnostics.Process.dll
+C:\Users\minhh\OneDrive\Desktop\Aikido\Aikido\bin\x86\Debug\System.Diagnostics.StackTrace.dll
+C:\Users\minhh\OneDrive\Desktop\Aikido\Aikido\bin\x86\Debug\System.Diagnostics.TextWriterTraceListener.dll
+C:\Users\minhh\OneDrive\Desktop\Aikido\Aikido\bin\x86\Debug\System.Diagnostics.Tools.dll
+C:\Users\minhh\OneDrive\Desktop\Aikido\Aikido\bin\x86\Debug\System.Diagnostics.TraceSource.dll
+C:\Users\minhh\OneDrive\Desktop\Aikido\Aikido\bin\x86\Debug\System.Diagnostics.Tracing.dll
+C:\Users\minhh\OneDrive\Desktop\Aikido\Aikido\bin\x86\Debug\System.Drawing.Primitives.dll
+C:\Users\minhh\OneDrive\Desktop\Aikido\Aikido\bin\x86\Debug\System.Dynamic.Runtime.dll
+C:\Users\minhh\OneDrive\Desktop\Aikido\Aikido\bin\x86\Debug\System.Globalization.Calendars.dll
+C:\Users\minhh\OneDrive\Desktop\Aikido\Aikido\bin\x86\Debug\System.Globalization.dll
+C:\Users\minhh\OneDrive\Desktop\Aikido\Aikido\bin\x86\Debug\System.Globalization.Extensions.dll
+C:\Users\minhh\OneDrive\Desktop\Aikido\Aikido\bin\x86\Debug\System.IO.Compression.dll
+C:\Users\minhh\OneDrive\Desktop\Aikido\Aikido\bin\x86\Debug\System.IO.Compression.ZipFile.dll
+C:\Users\minhh\OneDrive\Desktop\Aikido\Aikido\bin\x86\Debug\System.IO.dll
+C:\Users\minhh\OneDrive\Desktop\Aikido\Aikido\bin\x86\Debug\System.IO.FileSystem.dll
+C:\Users\minhh\OneDrive\Desktop\Aikido\Aikido\bin\x86\Debug\System.IO.FileSystem.DriveInfo.dll
+C:\Users\minhh\OneDrive\Desktop\Aikido\Aikido\bin\x86\Debug\System.IO.FileSystem.Primitives.dll
+C:\Users\minhh\OneDrive\Desktop\Aikido\Aikido\bin\x86\Debug\System.IO.FileSystem.Watcher.dll
+C:\Users\minhh\OneDrive\Desktop\Aikido\Aikido\bin\x86\Debug\System.IO.IsolatedStorage.dll
+C:\Users\minhh\OneDrive\Desktop\Aikido\Aikido\bin\x86\Debug\System.IO.MemoryMappedFiles.dll
+C:\Users\minhh\OneDrive\Desktop\Aikido\Aikido\bin\x86\Debug\System.IO.Pipes.dll
+C:\Users\minhh\OneDrive\Desktop\Aikido\Aikido\bin\x86\Debug\System.IO.UnmanagedMemoryStream.dll
+C:\Users\minhh\OneDrive\Desktop\Aikido\Aikido\bin\x86\Debug\System.Linq.dll
+C:\Users\minhh\OneDrive\Desktop\Aikido\Aikido\bin\x86\Debug\System.Linq.Expressions.dll
+C:\Users\minhh\OneDrive\Desktop\Aikido\Aikido\bin\x86\Debug\System.Linq.Parallel.dll
+C:\Users\minhh\OneDrive\Desktop\Aikido\Aikido\bin\x86\Debug\System.Linq.Queryable.dll
+C:\Users\minhh\OneDrive\Desktop\Aikido\Aikido\bin\x86\Debug\System.Net.Http.dll
+C:\Users\minhh\OneDrive\Desktop\Aikido\Aikido\bin\x86\Debug\System.Net.NameResolution.dll
+C:\Users\minhh\OneDrive\Desktop\Aikido\Aikido\bin\x86\Debug\System.Net.NetworkInformation.dll
+C:\Users\minhh\OneDrive\Desktop\Aikido\Aikido\bin\x86\Debug\System.Net.Ping.dll
+C:\Users\minhh\OneDrive\Desktop\Aikido\Aikido\bin\x86\Debug\System.Net.Primitives.dll
+C:\Users\minhh\OneDrive\Desktop\Aikido\Aikido\bin\x86\Debug\System.Net.Requests.dll
+C:\Users\minhh\OneDrive\Desktop\Aikido\Aikido\bin\x86\Debug\System.Net.Security.dll
+C:\Users\minhh\OneDrive\Desktop\Aikido\Aikido\bin\x86\Debug\System.Net.Sockets.dll
+C:\Users\minhh\OneDrive\Desktop\Aikido\Aikido\bin\x86\Debug\System.Net.WebHeaderCollection.dll
+C:\Users\minhh\OneDrive\Desktop\Aikido\Aikido\bin\x86\Debug\System.Net.WebSockets.Client.dll
+C:\Users\minhh\OneDrive\Desktop\Aikido\Aikido\bin\x86\Debug\System.Net.WebSockets.dll
+C:\Users\minhh\OneDrive\Desktop\Aikido\Aikido\bin\x86\Debug\System.ObjectModel.dll
+C:\Users\minhh\OneDrive\Desktop\Aikido\Aikido\bin\x86\Debug\System.Reflection.dll
+C:\Users\minhh\OneDrive\Desktop\Aikido\Aikido\bin\x86\Debug\System.Reflection.Extensions.dll
+C:\Users\minhh\OneDrive\Desktop\Aikido\Aikido\bin\x86\Debug\System.Reflection.Primitives.dll
+C:\Users\minhh\OneDrive\Desktop\Aikido\Aikido\bin\x86\Debug\System.Resources.Reader.dll
+C:\Users\minhh\OneDrive\Desktop\Aikido\Aikido\bin\x86\Debug\System.Resources.ResourceManager.dll
+C:\Users\minhh\OneDrive\Desktop\Aikido\Aikido\bin\x86\Debug\System.Resources.Writer.dll
+C:\Users\minhh\OneDrive\Desktop\Aikido\Aikido\bin\x86\Debug\System.Runtime.CompilerServices.VisualC.dll
+C:\Users\minhh\OneDrive\Desktop\Aikido\Aikido\bin\x86\Debug\System.Runtime.dll
+C:\Users\minhh\OneDrive\Desktop\Aikido\Aikido\bin\x86\Debug\System.Runtime.Extensions.dll
+C:\Users\minhh\OneDrive\Desktop\Aikido\Aikido\bin\x86\Debug\System.Runtime.Handles.dll
+C:\Users\minhh\OneDrive\Desktop\Aikido\Aikido\bin\x86\Debug\System.Runtime.InteropServices.dll
+C:\Users\minhh\OneDrive\Desktop\Aikido\Aikido\bin\x86\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\minhh\OneDrive\Desktop\Aikido\Aikido\bin\x86\Debug\System.Runtime.Numerics.dll
+C:\Users\minhh\OneDrive\Desktop\Aikido\Aikido\bin\x86\Debug\System.Runtime.Serialization.Formatters.dll
+C:\Users\minhh\OneDrive\Desktop\Aikido\Aikido\bin\x86\Debug\System.Runtime.Serialization.Json.dll
+C:\Users\minhh\OneDrive\Desktop\Aikido\Aikido\bin\x86\Debug\System.Runtime.Serialization.Primitives.dll
+C:\Users\minhh\OneDrive\Desktop\Aikido\Aikido\bin\x86\Debug\System.Runtime.Serialization.Xml.dll
+C:\Users\minhh\OneDrive\Desktop\Aikido\Aikido\bin\x86\Debug\System.Security.Claims.dll
+C:\Users\minhh\OneDrive\Desktop\Aikido\Aikido\bin\x86\Debug\System.Security.Cryptography.Algorithms.dll
+C:\Users\minhh\OneDrive\Desktop\Aikido\Aikido\bin\x86\Debug\System.Security.Cryptography.Csp.dll
+C:\Users\minhh\OneDrive\Desktop\Aikido\Aikido\bin\x86\Debug\System.Security.Cryptography.Encoding.dll
+C:\Users\minhh\OneDrive\Desktop\Aikido\Aikido\bin\x86\Debug\System.Security.Cryptography.Primitives.dll
+C:\Users\minhh\OneDrive\Desktop\Aikido\Aikido\bin\x86\Debug\System.Security.Cryptography.X509Certificates.dll
+C:\Users\minhh\OneDrive\Desktop\Aikido\Aikido\bin\x86\Debug\System.Security.Principal.dll
+C:\Users\minhh\OneDrive\Desktop\Aikido\Aikido\bin\x86\Debug\System.Security.SecureString.dll
+C:\Users\minhh\OneDrive\Desktop\Aikido\Aikido\bin\x86\Debug\System.Text.Encoding.dll
+C:\Users\minhh\OneDrive\Desktop\Aikido\Aikido\bin\x86\Debug\System.Text.Encoding.Extensions.dll
+C:\Users\minhh\OneDrive\Desktop\Aikido\Aikido\bin\x86\Debug\System.Text.RegularExpressions.dll
+C:\Users\minhh\OneDrive\Desktop\Aikido\Aikido\bin\x86\Debug\System.Threading.dll
+C:\Users\minhh\OneDrive\Desktop\Aikido\Aikido\bin\x86\Debug\System.Threading.Overlapped.dll
+C:\Users\minhh\OneDrive\Desktop\Aikido\Aikido\bin\x86\Debug\System.Threading.Tasks.dll
+C:\Users\minhh\OneDrive\Desktop\Aikido\Aikido\bin\x86\Debug\System.Threading.Tasks.Parallel.dll
+C:\Users\minhh\OneDrive\Desktop\Aikido\Aikido\bin\x86\Debug\System.Threading.Thread.dll
+C:\Users\minhh\OneDrive\Desktop\Aikido\Aikido\bin\x86\Debug\System.Threading.ThreadPool.dll
+C:\Users\minhh\OneDrive\Desktop\Aikido\Aikido\bin\x86\Debug\System.Threading.Timer.dll
+C:\Users\minhh\OneDrive\Desktop\Aikido\Aikido\bin\x86\Debug\System.ValueTuple.dll
+C:\Users\minhh\OneDrive\Desktop\Aikido\Aikido\bin\x86\Debug\System.Xml.ReaderWriter.dll
+C:\Users\minhh\OneDrive\Desktop\Aikido\Aikido\bin\x86\Debug\System.Xml.XDocument.dll
+C:\Users\minhh\OneDrive\Desktop\Aikido\Aikido\bin\x86\Debug\System.Xml.XmlDocument.dll
+C:\Users\minhh\OneDrive\Desktop\Aikido\Aikido\bin\x86\Debug\System.Xml.XmlSerializer.dll
+C:\Users\minhh\OneDrive\Desktop\Aikido\Aikido\bin\x86\Debug\System.Xml.XPath.dll
+C:\Users\minhh\OneDrive\Desktop\Aikido\Aikido\bin\x86\Debug\System.Xml.XPath.XDocument.dll
+C:\Users\minhh\OneDrive\Desktop\Aikido\Aikido\bin\x86\Debug\EntityFramework.dll
+C:\Users\minhh\OneDrive\Desktop\Aikido\Aikido\bin\x86\Debug\EntityFramework.SqlServer.dll
+C:\Users\minhh\OneDrive\Desktop\Aikido\Aikido\bin\x86\Debug\Microsoft.Data.Sqlite.dll
+C:\Users\minhh\OneDrive\Desktop\Aikido\Aikido\bin\x86\Debug\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\minhh\OneDrive\Desktop\Aikido\Aikido\bin\x86\Debug\Microsoft.EntityFrameworkCore.dll
+C:\Users\minhh\OneDrive\Desktop\Aikido\Aikido\bin\x86\Debug\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\minhh\OneDrive\Desktop\Aikido\Aikido\bin\x86\Debug\Microsoft.EntityFrameworkCore.Sqlite.dll
+C:\Users\minhh\OneDrive\Desktop\Aikido\Aikido\bin\x86\Debug\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\minhh\OneDrive\Desktop\Aikido\Aikido\bin\x86\Debug\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\minhh\OneDrive\Desktop\Aikido\Aikido\bin\x86\Debug\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\minhh\OneDrive\Desktop\Aikido\Aikido\bin\x86\Debug\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\minhh\OneDrive\Desktop\Aikido\Aikido\bin\x86\Debug\Microsoft.Extensions.Configuration.dll
+C:\Users\minhh\OneDrive\Desktop\Aikido\Aikido\bin\x86\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\minhh\OneDrive\Desktop\Aikido\Aikido\bin\x86\Debug\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\minhh\OneDrive\Desktop\Aikido\Aikido\bin\x86\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\minhh\OneDrive\Desktop\Aikido\Aikido\bin\x86\Debug\Microsoft.Extensions.Logging.dll
+C:\Users\minhh\OneDrive\Desktop\Aikido\Aikido\bin\x86\Debug\Microsoft.Extensions.Options.dll
+C:\Users\minhh\OneDrive\Desktop\Aikido\Aikido\bin\x86\Debug\Microsoft.Extensions.Primitives.dll
+C:\Users\minhh\OneDrive\Desktop\Aikido\Aikido\bin\x86\Debug\Remotion.Linq.dll
+C:\Users\minhh\OneDrive\Desktop\Aikido\Aikido\bin\x86\Debug\Spire.Doc.dll
+C:\Users\minhh\OneDrive\Desktop\Aikido\Aikido\bin\x86\Debug\Spire.License.dll
+C:\Users\minhh\OneDrive\Desktop\Aikido\Aikido\bin\x86\Debug\Spire.Pdf.dll
+C:\Users\minhh\OneDrive\Desktop\Aikido\Aikido\bin\x86\Debug\SQLitePCLRaw.batteries_green.dll
+C:\Users\minhh\OneDrive\Desktop\Aikido\Aikido\bin\x86\Debug\SQLitePCLRaw.batteries_v2.dll
+C:\Users\minhh\OneDrive\Desktop\Aikido\Aikido\bin\x86\Debug\SQLitePCLRaw.core.dll
+C:\Users\minhh\OneDrive\Desktop\Aikido\Aikido\bin\x86\Debug\SQLitePCLRaw.provider.e_sqlite3.dll
+C:\Users\minhh\OneDrive\Desktop\Aikido\Aikido\bin\x86\Debug\System.Buffers.dll
+C:\Users\minhh\OneDrive\Desktop\Aikido\Aikido\bin\x86\Debug\System.Collections.Immutable.dll
+C:\Users\minhh\OneDrive\Desktop\Aikido\Aikido\bin\x86\Debug\System.ComponentModel.Annotations.dll
+C:\Users\minhh\OneDrive\Desktop\Aikido\Aikido\bin\x86\Debug\System.Data.SQLite.EF6.dll
+C:\Users\minhh\OneDrive\Desktop\Aikido\Aikido\bin\x86\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\minhh\OneDrive\Desktop\Aikido\Aikido\bin\x86\Debug\System.Interactive.Async.dll
+C:\Users\minhh\OneDrive\Desktop\Aikido\Aikido\bin\x86\Debug\System.Memory.dll
+C:\Users\minhh\OneDrive\Desktop\Aikido\Aikido\bin\x86\Debug\System.Numerics.Vectors.dll
+C:\Users\minhh\OneDrive\Desktop\Aikido\Aikido\bin\x86\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\minhh\OneDrive\Desktop\Aikido\Aikido\bin\x86\Debug\Microsoft.mshtml.dll
+C:\Users\minhh\OneDrive\Desktop\Aikido\Aikido\bin\x86\Debug\EntityFramework.xml
+C:\Users\minhh\OneDrive\Desktop\Aikido\Aikido\bin\x86\Debug\EntityFramework.SqlServer.xml
+C:\Users\minhh\OneDrive\Desktop\Aikido\Aikido\bin\x86\Debug\Microsoft.Data.Sqlite.xml
+C:\Users\minhh\OneDrive\Desktop\Aikido\Aikido\bin\x86\Debug\Microsoft.EntityFrameworkCore.xml
+C:\Users\minhh\OneDrive\Desktop\Aikido\Aikido\bin\x86\Debug\Microsoft.EntityFrameworkCore.Abstractions.xml
+C:\Users\minhh\OneDrive\Desktop\Aikido\Aikido\bin\x86\Debug\Microsoft.EntityFrameworkCore.Relational.xml
+C:\Users\minhh\OneDrive\Desktop\Aikido\Aikido\bin\x86\Debug\Microsoft.EntityFrameworkCore.Sqlite.xml
+C:\Users\minhh\OneDrive\Desktop\Aikido\Aikido\bin\x86\Debug\Microsoft.Extensions.Caching.Abstractions.xml
+C:\Users\minhh\OneDrive\Desktop\Aikido\Aikido\bin\x86\Debug\Microsoft.Extensions.Caching.Memory.xml
+C:\Users\minhh\OneDrive\Desktop\Aikido\Aikido\bin\x86\Debug\Microsoft.Extensions.Configuration.xml
+C:\Users\minhh\OneDrive\Desktop\Aikido\Aikido\bin\x86\Debug\Microsoft.Extensions.Configuration.Abstractions.xml
+C:\Users\minhh\OneDrive\Desktop\Aikido\Aikido\bin\x86\Debug\Microsoft.Extensions.Configuration.Binder.xml
+C:\Users\minhh\OneDrive\Desktop\Aikido\Aikido\bin\x86\Debug\Microsoft.Extensions.DependencyInjection.xml
+C:\Users\minhh\OneDrive\Desktop\Aikido\Aikido\bin\x86\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\minhh\OneDrive\Desktop\Aikido\Aikido\bin\x86\Debug\Microsoft.Extensions.Logging.xml
+C:\Users\minhh\OneDrive\Desktop\Aikido\Aikido\bin\x86\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\minhh\OneDrive\Desktop\Aikido\Aikido\bin\x86\Debug\Microsoft.Extensions.Options.xml
+C:\Users\minhh\OneDrive\Desktop\Aikido\Aikido\bin\x86\Debug\Microsoft.Extensions.Primitives.xml
+C:\Users\minhh\OneDrive\Desktop\Aikido\Aikido\bin\x86\Debug\Remotion.Linq.xml
+C:\Users\minhh\OneDrive\Desktop\Aikido\Aikido\bin\x86\Debug\Spire.Doc.xml
+C:\Users\minhh\OneDrive\Desktop\Aikido\Aikido\bin\x86\Debug\Spire.License.xml
+C:\Users\minhh\OneDrive\Desktop\Aikido\Aikido\bin\x86\Debug\System.Buffers.xml
+C:\Users\minhh\OneDrive\Desktop\Aikido\Aikido\bin\x86\Debug\System.Collections.Immutable.xml
+C:\Users\minhh\OneDrive\Desktop\Aikido\Aikido\bin\x86\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\minhh\OneDrive\Desktop\Aikido\Aikido\bin\x86\Debug\System.Interactive.Async.xml
+C:\Users\minhh\OneDrive\Desktop\Aikido\Aikido\bin\x86\Debug\System.Memory.xml
+C:\Users\minhh\OneDrive\Desktop\Aikido\Aikido\bin\x86\Debug\System.Numerics.Vectors.xml
+C:\Users\minhh\OneDrive\Desktop\Aikido\Aikido\bin\x86\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\minhh\OneDrive\Desktop\Aikido\Aikido\obj\x86\Debug\Aikido-Combine.csprojAssemblyReference.cache
+C:\Users\minhh\OneDrive\Desktop\Aikido\Aikido\obj\x86\Debug\Aikido.exe.config
+C:\Users\minhh\OneDrive\Desktop\Aikido\Aikido\obj\x86\Debug\VIEW\ClassScreen.g.cs
+C:\Users\minhh\OneDrive\Desktop\Aikido\Aikido\obj\x86\Debug\VIEW\FeeScreen.g.cs
+C:\Users\minhh\OneDrive\Desktop\Aikido\Aikido\obj\x86\Debug\VIEW\QuickSearch.g.cs
+C:\Users\minhh\OneDrive\Desktop\Aikido\Aikido\obj\x86\Debug\VIEW\RegisterMemberScreen.g.cs
+C:\Users\minhh\OneDrive\Desktop\Aikido\Aikido\obj\x86\Debug\VIEW\SearchCondition.g.cs
+C:\Users\minhh\OneDrive\Desktop\Aikido\Aikido\obj\x86\Debug\VIEW\SettingScreen.g.cs
+C:\Users\minhh\OneDrive\Desktop\Aikido\Aikido\obj\x86\Debug\VIEW\MainScreen.g.cs
+C:\Users\minhh\OneDrive\Desktop\Aikido\Aikido\obj\x86\Debug\App.g.cs
+C:\Users\minhh\OneDrive\Desktop\Aikido\Aikido\obj\x86\Debug\Aikido_Content.g.cs
+C:\Users\minhh\OneDrive\Desktop\Aikido\Aikido\obj\x86\Debug\Aikido_MarkupCompile.cache
+C:\Users\minhh\OneDrive\Desktop\Aikido\Aikido\obj\x86\Debug\Aikido_MarkupCompile.lref
+C:\Users\minhh\OneDrive\Desktop\Aikido\Aikido\obj\x86\Debug\VIEW\ClassScreen.baml
+C:\Users\minhh\OneDrive\Desktop\Aikido\Aikido\obj\x86\Debug\VIEW\FeeScreen.baml
+C:\Users\minhh\OneDrive\Desktop\Aikido\Aikido\obj\x86\Debug\VIEW\QuickSearch.baml
+C:\Users\minhh\OneDrive\Desktop\Aikido\Aikido\obj\x86\Debug\VIEW\RegisterMemberScreen.baml
+C:\Users\minhh\OneDrive\Desktop\Aikido\Aikido\obj\x86\Debug\VIEW\SearchCondition.baml
+C:\Users\minhh\OneDrive\Desktop\Aikido\Aikido\obj\x86\Debug\VIEW\SettingScreen.baml
+C:\Users\minhh\OneDrive\Desktop\Aikido\Aikido\obj\x86\Debug\VIEW\MainScreen.baml
+C:\Users\minhh\OneDrive\Desktop\Aikido\Aikido\obj\x86\Debug\Aikido.g.resources
+C:\Users\minhh\OneDrive\Desktop\Aikido\Aikido\obj\x86\Debug\Aikido.Properties.Resources.resources
+C:\Users\minhh\OneDrive\Desktop\Aikido\Aikido\obj\x86\Debug\Aikido-Combine.csproj.GenerateResource.cache
+C:\Users\minhh\OneDrive\Desktop\Aikido\Aikido\obj\x86\Debug\Aikido-Combine.csproj.CoreCompileInputs.cache
+C:\Users\minhh\OneDrive\Desktop\Aikido\Aikido\obj\x86\Debug\Aikido-Combine.csproj.CopyComplete
+C:\Users\minhh\OneDrive\Desktop\Aikido\Aikido\obj\x86\Debug\Aikido.exe
+C:\Users\minhh\OneDrive\Desktop\Aikido\Aikido\obj\x86\Debug\Aikido.pdb

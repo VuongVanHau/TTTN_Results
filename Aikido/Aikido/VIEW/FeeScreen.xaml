@@ -1,0 +1,201 @@
+﻿<Window x:Class="Aikido.VIEW.FeeScreen"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+             xmlns:local="clr-namespace:Aikido.VIEW"
+             mc:Ignorable="d" 
+             Title="Quản Lý hội viên" Height="663" Width="1258.667" ResizeMode="NoResize" WindowStartupLocation="CenterScreen">
+
+    <Grid  Height="60" HorizontalAlignment="Center" VerticalAlignment="Top" Margin="0,0,0,0" Width="935">
+
+        <Grid Height="60" HorizontalAlignment="Center" VerticalAlignment="Top" Margin="10,0,0,0" Width="935">
+            <Menu Margin="0,0,770,10" Name="btnDKHV"
+               Mouse.MouseEnter="btnDKHV_MouseEnter" Mouse.MouseLeave="btnDKHV_MouseLeave"
+               Background="White" Foreground="Blue" 
+               TextElement.FontFamily="Arial" TextElement.FontSize="15" TextElement.FontStyle="Normal" TextElement.FontWeight="Bold"
+               HorizontalContentAlignment="Center" VerticalContentAlignment="Center">
+                <MenuItem  Header="    Đăng Ký Hội Viên" Height="50" Width="165" Click="Register_Click"></MenuItem>
+            </Menu>
+
+            <Menu Name="btnSearch" FontSize="15" FontWeight="Bold" Background="White" FontStyle="Normal" Foreground="Blue" Margin="165,0,605,10" Mouse.MouseEnter="btnSearch_MouseEnter" Mouse.MouseLeave="btnSearch_MouseLeave">
+                <MenuItem Name="btnSearchI" Foreground="Blue" Header="         Tìm Kiếm" Height="50" Width="165" FontFamily="Arial" Background="White" Mouse.MouseEnter="btnSearch_MouseEnter" Mouse.MouseLeave="btnSearch_MouseLeave">
+                    <MenuItem Click="Quick_Click" Header="Tìm Kiếm Nhanh" Height="26" />
+                    <MenuItem Click="Condition_Click" Header="Tìm Kiếm Theo Điều Kiện" Height="26" />
+                </MenuItem>
+            </Menu>
+
+            <Menu Margin="330,0,447,10" Name= "btnQLHP"
+               Mouse.MouseEnter="btnQLHP_MouseEnter" Mouse.MouseLeave="btnQLHP_MouseLeave"
+               Background="LightGray" Foreground="Blue" 
+               TextElement.FontFamily="Arial" TextElement.FontSize="15" TextElement.FontStyle="Normal" 
+               HorizontalContentAlignment="Center" VerticalContentAlignment="Center" TextElement.FontWeight="Bold">
+                <MenuItem Header="   Quản Lý Hội Phí" Height="50" Width="158" Click="FeeManagement_Click"></MenuItem>
+            </Menu>
+
+            <Menu Margin="488,0,275,10" Name="btnQLL"
+               Mouse.MouseEnter="btnQLL_MouseEnter" Mouse.MouseLeave="btnQLL_MouseLeave"
+               Background="White" Foreground="Blue" 
+               TextElement.FontFamily="Arial" TextElement.FontSize="15" TextElement.FontStyle="Normal" 
+               HorizontalContentAlignment="Center" VerticalContentAlignment="Center" TextElement.FontWeight="Bold">
+                <MenuItem Header="       Quản Lý Lớp" Height="50" Width="172" Click="ClassManagement_Click"></MenuItem>
+            </Menu>
+            <Menu Margin="660,0,129,10" Name="btnTL"
+               Mouse.MouseEnter="btnTL_MouseEnter" Mouse.MouseLeave="btnTL_MouseLeave"
+               Background="White" Foreground="Blue" 
+               TextElement.FontFamily="Arial" TextElement.FontSize="15" TextElement.FontStyle="Normal" 
+               HorizontalContentAlignment="Center" VerticalContentAlignment="Center" TextElement.FontWeight="Bold">
+                <MenuItem Header="       Thiết Lập" Height="50" Width="146" Click="Setting_Click"></MenuItem>
+            </Menu>
+            <Menu Name="btnHelp" FontSize="15" FontWeight="Bold" FontStyle="Normal" Foreground="Blue" Height="50" Margin="806,0,0,10" 
+                  Background="White">
+                <MenuItem Click="btnHelpI_Click" Name="btnHelpI" Mouse.MouseEnter="btnHelpI_MouseEnter" Mouse.MouseLeave="btnHelpI_MouseLeave" 
+                    VerticalContentAlignment="Center" HorizontalContentAlignment="Center" Foreground="Blue" Header="      Trợ Giúp" Height="50" Width="129" FontFamily="Arial"  Background="White" >
+                    <!--<MenuItem Click="HDSD_Click" Header="Hướng dẫn sử dụng" Height="26" Margin="0,0,-2.4,0"/>
+                    <MenuItem Click="TTNPT_Click" Header="Thông tin nhà phát triển" Height="26" Margin="0,0,-0.4,0"/>-->
+                </MenuItem>
+            </Menu>
+
+            <Label Margin="0,45,770,10" Name="btnDKHVb"/>
+
+            <Label Margin="165,45,605,10" Name="btnSearchb"/>
+
+            <Label Margin="330,45,447,10" Name="btnQLHPb" Background="DarkBlue" />
+
+            <Label Margin="488,45,275,10" Name="btnQLLb"/>
+
+            <Label Margin="660,0,129,10" Name="btnTLb" Height="5" VerticalAlignment="Bottom"/>
+
+            <Label Margin="806,45,0,10" Name="btnHelpb"/>
+
+        </Grid>
+
+        <Grid Name="ScreenFee" Margin="-117,75,-121,-568" Visibility="Visible">
+            <Grid.RowDefinitions>
+                <RowDefinition Height="31*"/>
+                <RowDefinition Height="522*"/>
+            </Grid.RowDefinitions>
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="35*"/>
+                <ColumnDefinition Width="1138*"/>
+            </Grid.ColumnDefinitions>
+            <GroupBox HorizontalContentAlignment="Center" VerticalContentAlignment="Center"
+                      TextElement.FontFamily="Arial" TextElement.FontSize="15" TextElement.FontStyle="Normal" TextElement.FontWeight="Bold" Grid.ColumnSpan="2" Margin="-40,-13,-37.667,-0.222" Grid.RowSpan="2">
+                <Grid TextElement.FontWeight="Normal" Margin="27,-12,-21.889,28.889">
+                    <Grid.RowDefinitions>
+                        <RowDefinition Height="60*"/>
+                        <RowDefinition Height="183*"/>
+                        <RowDefinition Height="301*"/>
+                    </Grid.RowDefinitions>
+                    <Grid.ColumnDefinitions>
+                        <ColumnDefinition Width="61*"/>
+                        <ColumnDefinition Width="5*"/>
+                        <ColumnDefinition Width="11*"/>
+                    </Grid.ColumnDefinitions>
+                    <Label Content="Class" Margin="30,20,0,0" HorizontalAlignment="Left" Width="50" Height="30" VerticalContentAlignment="Center" VerticalAlignment="Top" TextElement.FontFamily="Arial" TextElement.FontSize="15"/>
+                    <ComboBox  x:Name="cmbClassName" Width="200" Height="25" Margin="100,20,0,0" HorizontalAlignment="Left" VerticalAlignment="Top" Background="White" Foreground="DarkBlue" SelectionChanged="cmbClassName_SelectionChanged"/>
+
+                    <Button x:Name="btnExport" Content="Xuất File Excel" HorizontalAlignment="Center" VerticalAlignment="Bottom" Width="138" Height="30" Margin="543,0,295.444,20"
+                        TextElement.FontFamily="Arial" TextElement.FontSize="15" TextElement.FontStyle="Normal" TextElement.FontWeight="Bold" Foreground="Black" Click="btnExport_Click" Grid.Row="2"/>
+                    <!--Margin="225,60,10,109" cho fee1 và fee2-->
+                    <DataGrid x:Name="dgvFee2" FrozenColumnCount="3" CanUserResizeColumns="False" CanUserResizeRows="False"  LoadingRow="dgvFee2_LoadingRow" CellEditEnding="dgvFee2_CellEditEnding"
+                        ScrollViewer.VerticalScrollBarVisibility="Visible" ScrollViewer.HorizontalScrollBarVisibility="Hidden" Visibility="Visible"
+                        RowHeight="20" VerticalContentAlignment="Center" BorderBrush="Transparent" BorderThickness="0"
+                        Margin="183,2.444,25.888,125" HorizontalContentAlignment="Center" CanUserAddRows="False" ScrollViewer.ScrollChanged="dgvFee2_ScrollChanged"
+                        Background="White" RowBackground="White" AlternatingRowBackground="LightGray" SelectionMode="Extended"
+                        TextElement.FontFamily="Arial" TextElement.FontSize="13" TextElement.FontStyle="Normal" AutoGenerateColumns="False" CanUserDeleteRows="False" Grid.ColumnSpan="3" Grid.Row="1" Grid.RowSpan="2">
+                        <DataGrid.Columns>
+                            <DataGridTextColumn Header="IDLearn" Width="65" Binding="{Binding ID_Learn}" Visibility="Hidden"/>
+                            <DataGridTextColumn Header="IDLearn" Width="65" Binding="{Binding RegisterNumber}" Visibility="Hidden" />
+                            <DataGridTextColumn Header="IDLearn" Width="65" Binding="{Binding ID_Class}" Visibility="Visible"/>
+                            <DataGridTextColumn Header="Loại Phí" Width="75" Binding="{Binding lbltypeFee}"/>
+                            <DataGridTextColumn Header=" Tháng 1" Width="75" Binding="{Binding lblmonthHT3A, StringFormat=N0}"/>
+                            <DataGridTextColumn Header=" Tháng 2" Width="75" Binding="{Binding lblmonthHT2A, StringFormat=N0}"/>
+                            <DataGridTextColumn Header=" Tháng 3" Width="75" Binding="{Binding lblmonthHT1A, StringFormat=N0}"/>
+                            <DataGridTextColumn Header=" Tháng 4" Width="75" Binding="{Binding lblmonthHT, StringFormat=N0}"/>
+                            <DataGridTextColumn Header=" Tháng 5" Width="75" Binding="{Binding lblmonthHT1P, StringFormat=N0}"/>
+                            <DataGridTextColumn Header=" Tháng 6" Width="75" Binding="{Binding lblmonthHT2P, StringFormat=N0}"/>
+                            <DataGridTextColumn Header=" Tháng 7" Width="75" Binding="{Binding lblmonthHT3P, StringFormat=N0}"/>
+                            <DataGridTextColumn Header=" Tháng 8" Width="75" Binding="{Binding lblmonthHT4P, StringFormat=N0}"/>
+                            <DataGridTextColumn Header=" Tháng 9" Width="75" Binding="{Binding lblmonthHT5P, StringFormat=N0}"/>
+                            <DataGridTextColumn Header="Tháng 10" Width="75" Binding="{Binding lblmonthHT6P, StringFormat=N0}"/>
+                            <DataGridTextColumn Header="  Tổng" Width="75" Binding="{Binding lblToTalS, StringFormat=N0}"/>
+                        </DataGrid.Columns>
+                    </DataGrid>
+                    <DataGrid x:Name="dgvFee1" ScrollViewer.VerticalScrollBarVisibility="Hidden" ScrollViewer.HorizontalScrollBarVisibility="Hidden" Visibility="Visible"
+                        CanUserResizeColumns="False" CanUserResizeRows="False" ScrollViewer.ScrollChanged="dgvFee1_ScrollChanged"
+                        RowHeight="40" VerticalContentAlignment="Center" BorderBrush="Transparent" BorderThickness="0"
+                        Margin="-32,2.444,725.444,125" HorizontalContentAlignment="Center" AutoGenerateColumns="False"
+                        Background="White" RowBackground="White" AlternatingRowBackground="LightGray" SelectionMode="Extended"  
+                        TextElement.FontFamily="Arial" TextElement.FontSize="13"
+                        Loaded="dgvFee_Loaded" CanUserAddRows="False" CanUserDeleteRows="False" Grid.Row="1" Grid.RowSpan="2">
+
+                        <DataGrid.Columns>
+                            <DataGridTextColumn Header="SKU" Width="50" Binding="{Binding lblSKU}"/>
+                            <DataGridTextColumn Header="Tên Hội Viên" Width="150" Binding="{Binding lblnameHV}"/>
+                            <DataGridTextColumn Header="Lớp" Width="81" Binding="{Binding lblnameClass}"/>
+                        </DataGrid.Columns>
+                    </DataGrid>
+
+                    <DataGrid x:Name="dgvFee" ScrollViewer.VerticalScrollBarVisibility="Hidden" ScrollViewer.HorizontalScrollBarVisibility="Hidden" Visibility="Hidden"
+                        CanUserResizeColumns="False" CanUserResizeRows="False"
+                        RowHeight="20" VerticalContentAlignment="Center" BorderBrush="Transparent" BorderThickness="0"
+                        Margin="10,0.444,9.888,109" HorizontalContentAlignment="Center" AutoGenerateColumns="False"
+                        Background="White" RowBackground="White" AlternatingRowBackground="LightGray" SelectionMode="Extended"  
+                        TextElement.FontFamily="Arial" TextElement.FontSize="13"
+                        Loaded="dgvFee_Loaded" CanUserAddRows="False" CanUserDeleteRows="False" LoadingRow="dgvFee_LoadingRow" Grid.ColumnSpan="3" Grid.Row="1" Grid.RowSpan="2">
+                        <DataGrid.Columns>
+                            <DataGridTextColumn  Header="IDLearn" Width="65" Binding="{Binding ID_Learn}" Visibility="Hidden"/>
+                            <DataGridTextColumn Header="IDLearn" Width="65" Binding="{Binding RegisterNumber}" Visibility="Hidden" />
+                            <DataGridTextColumn Header="IDLearn" Width="65" Binding="{Binding ID_Class}" Visibility="Hidden"/>
+                            <DataGridTextColumn Header="SKU" Width="50" Binding="{Binding lblSKU}"/>
+                            <DataGridTextColumn Header="Tên Hội Viên" Width="150" Binding="{Binding lblnameHV}" />
+                            <DataGridTextColumn Header="Lớp" Width="81" Binding="{Binding lblnameClass}"/>
+                            <DataGridTextColumn Header="Loại Phí" Width="75" Binding="{Binding lbltypeFee}"/>
+                            <DataGridTextColumn Header=" Tháng 1" Width="75" Binding="{Binding lblmonthHT3A, StringFormat=N0}"/>
+                            <DataGridTextColumn Header=" Tháng 2" Width="75" Binding="{Binding lblmonthHT2A, StringFormat=N0}"/>
+                            <DataGridTextColumn Header=" Tháng 3" Width="75" Binding="{Binding lblmonthHT1A, StringFormat=N0}"/>
+                            <DataGridTextColumn Header=" Tháng 4" Width="75" Binding="{Binding lblmonthHT, StringFormat=N0}"/>
+                            <DataGridTextColumn Header=" Tháng 5" Width="75" Binding="{Binding lblmonthHT1P, StringFormat=N0}"/>
+                            <DataGridTextColumn Header=" Tháng 6" Width="75" Binding="{Binding lblmonthHT2P, StringFormat=N0}"/>
+                            <DataGridTextColumn Header=" Tháng 7" Width="75" Binding="{Binding lblmonthHT3P, StringFormat=N0}"/>
+                            <DataGridTextColumn Header=" Tháng 8" Width="75" Binding="{Binding lblmonthHT4P, StringFormat=N0}"/>
+                            <DataGridTextColumn Header=" Tháng 9" Width="75" Binding="{Binding lblmonthHT5P, StringFormat=N0}"/>
+                            <DataGridTextColumn Header="Tháng 10" Width="75" Binding="{Binding lblmonthHT6P, StringFormat=N0}"/>
+                            <DataGridTextColumn Header="Tổng" Width="75" Binding="{Binding lblToTalS, StringFormat=N0}"/>
+                        </DataGrid.Columns>
+                    </DataGrid>
+
+                    <DataGrid x:Name="dgvTotalC" ScrollViewer.VerticalScrollBarVisibility="Hidden" ScrollViewer.HorizontalScrollBarVisibility="Hidden" HeadersVisibility="None"
+                        CanUserResizeColumns="False" CanUserResizeRows="False" TextElement.FontWeight="Bold"  Visibility="Visible"
+                        RowHeight="40" VerticalContentAlignment="Center" BorderBrush="Black" BorderThickness="1"
+                        Margin="252,207.333,23.888,74" HorizontalContentAlignment="Center" AutoGenerateColumns="False" Height="20"
+                        TextElement.FontFamily="Arial" TextElement.FontSize="13" CanUserAddRows="False" Background="LightGray" Grid.ColumnSpan="3" Grid.Row="2" RenderTransformOrigin="0.5,0.5">
+                        <DataGrid.RenderTransform>
+                            <TransformGroup>
+                                <ScaleTransform/>
+                                <SkewTransform/>
+                                <RotateTransform Angle="0.003"/>
+                                <TranslateTransform/>
+                            </TransformGroup>
+                        </DataGrid.RenderTransform>
+                        <DataGrid.Columns>
+                            <DataGridTextColumn Header="Total" Width="75" Binding="{Binding lblToal}"/>
+                            <DataGridTextColumn Header=" Tháng 1" Width="75" Binding="{Binding lblmonthHT3A, StringFormat=N0}"/>
+                            <DataGridTextColumn Header=" Tháng 2" Width="75" Binding="{Binding lblmonthHT2A, StringFormat=N0}"/>
+                            <DataGridTextColumn Header=" Tháng 3" Width="75" Binding="{Binding lblmonthHT1A, StringFormat=N0}"/>
+                            <DataGridTextColumn Header=" Tháng 4" Width="75" Binding="{Binding lblmonthHT, StringFormat=N0}"/>
+                            <DataGridTextColumn Header=" Tháng 5" Width="75" Binding="{Binding lblmonthHT1P, StringFormat=N0}"/>
+                            <DataGridTextColumn Header=" Tháng 6" Width="75" Binding="{Binding lblmonthHT2P, StringFormat=N0}"/>
+                            <DataGridTextColumn Header=" Tháng 7" Width="75" Binding="{Binding lblmonthHT3P, StringFormat=N0}"/>
+                            <DataGridTextColumn Header=" Tháng 8" Width="75" Binding="{Binding lblmonthHT4P, StringFormat=N0}"/>
+                            <DataGridTextColumn Header=" Tháng 9" Width="75" Binding="{Binding lblmonthHT5P, StringFormat=N0}"/>
+                            <DataGridTextColumn Header="Tháng 10" Width="75" Binding="{Binding lblmonthHT6P, StringFormat=N0}"/>
+                            <DataGridTextColumn Header="  Tổng" Width="75" Binding="{Binding lblToTalS, StringFormat=N0}"/>
+                        </DataGrid.Columns>
+                    </DataGrid>
+                </Grid>
+            </GroupBox>
+        </Grid>
+    </Grid>
+</Window>

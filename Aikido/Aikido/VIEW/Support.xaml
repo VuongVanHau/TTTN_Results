@@ -1,0 +1,91 @@
+﻿<Window x:Class="Aikido.VIEW.Support"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Aikido.VIEW"
+        mc:Ignorable="d"
+        Title="Hỗ Tr" Height="663" Width="955" ResizeMode="NoResize" WindowStartupLocation="CenterScreen">
+    <Grid Height="60" HorizontalAlignment="Center" VerticalAlignment="Top" Margin="0,0,0,0" Width="935">
+        <Grid Height="60" HorizontalAlignment="Center" VerticalAlignment="Top" Margin="10,0,0,0" Width="935">
+            <Menu Margin="0,0,770,10" Name="btnDKHV"
+               Mouse.MouseEnter="btnDKHV_MouseEnter" Mouse.MouseLeave="btnDKHV_MouseLeave"
+               Background="White" Foreground="Blue" 
+               TextElement.FontFamily="Arial" TextElement.FontSize="15" TextElement.FontStyle="Normal" TextElement.FontWeight="Bold"
+               HorizontalContentAlignment="Center" VerticalContentAlignment="Center">
+                <MenuItem  Header="    Đăng Ký Hội Viên" Height="50" Width="165" Click="Register_Click"></MenuItem>
+            </Menu>
+
+            <Menu Name="btnSearch" FontSize="15" FontWeight="Bold" Background="White" FontStyle="Normal" Foreground="Blue" Margin="165,0,605,10" Mouse.MouseEnter="btnSearch_MouseEnter" Mouse.MouseLeave="btnSearch_MouseLeave">
+                <MenuItem Name="btnSearchI" Foreground="Blue" Header="         Tìm Kiếm" Height="50" Width="165" FontFamily="Arial" Background="White" Mouse.MouseEnter="btnSearch_MouseEnter" Mouse.MouseLeave="btnSearch_MouseLeave">
+                    <MenuItem Click="Quick_Click" Header="Tìm Kiếm Nhanh" Height="26" />
+                    <MenuItem Click="Condition_Click" Header="Tìm Kiếm Theo Điều Kiện" Height="26" />
+                </MenuItem>
+            </Menu>
+
+            <Menu Margin="330,0,447,10" Name= "btnQLHP"
+               Mouse.MouseEnter="btnQLHP_MouseEnter" Mouse.MouseLeave="btnQLHP_MouseLeave"
+               Background="White" Foreground="Blue" 
+               TextElement.FontFamily="Arial" TextElement.FontSize="15" TextElement.FontStyle="Normal" 
+               HorizontalContentAlignment="Center" VerticalContentAlignment="Center" TextElement.FontWeight="Bold">
+                <MenuItem Header="   Quản Lý Hội Phí" Height="50" Width="158" Click="FeeManagement_Click"></MenuItem>
+            </Menu>
+
+            <Menu Margin="488,0,275,10" Name="btnQLL"
+               Mouse.MouseEnter="btnQLL_MouseEnter" Mouse.MouseLeave="btnQLL_MouseLeave"
+               Background="White" Foreground="Blue" 
+               TextElement.FontFamily="Arial" TextElement.FontSize="15" TextElement.FontStyle="Normal" 
+               HorizontalContentAlignment="Center" VerticalContentAlignment="Center" TextElement.FontWeight="Bold">
+                <MenuItem Header="       Quản Lý Lớp" Height="50" Width="172" Click="ClassManagement_Click"></MenuItem>
+            </Menu>
+
+            <Menu Margin="660,0,129,10" Name="btnTL"
+               Mouse.MouseEnter="btnTL_MouseEnter" Mouse.MouseLeave="btnTL_MouseLeave"
+               Background="White" Foreground="Blue" 
+               TextElement.FontFamily="Arial" TextElement.FontSize="15" TextElement.FontStyle="Normal" 
+               HorizontalContentAlignment="Center" VerticalContentAlignment="Center" TextElement.FontWeight="Bold">
+                <MenuItem Header="       Thiết Lập" Height="50" Width="146" Click="Setting_Click"></MenuItem>
+            </Menu>
+
+            <Menu Name="btnHelp" FontSize="15" FontWeight="Bold" FontStyle="Normal" Foreground="Blue" Height="50" Margin="806,0,0,10" 
+                  Background="LightGray">
+                <MenuItem Click="btnHelpI_Click" Name="btnHelpI" Mouse.MouseEnter="btnHelpI_MouseEnter" Mouse.MouseLeave="btnHelpI_MouseLeave" 
+                    VerticalContentAlignment="Center" HorizontalContentAlignment="Center" Foreground="Blue" Header="      Trợ Giúp" Height="50" Width="129" FontFamily="Arial"  Background="LightGray" >
+                    <!--<MenuItem Click="HDSD_Click" Header="Hướng dẫn sử dụng" Height="26" Margin="0,0,-2.4,0"/>
+                    <MenuItem Click="TTNPT_Click" Header="Thông tin nhà phát triển" Height="26" Margin="0,0,-0.4,0"/>-->
+                </MenuItem>
+            </Menu>
+
+            <Label Margin="0,45,770,10" Name="btnDKHVb"/>
+
+            <Label Margin="165,45,605,10" Name="btnSearchb"/>
+
+            <Label Margin="330,45,447,10" Name="btnQLHPb" />
+
+            <Label Margin="488,45,275,10" Name="btnQLLb"/>
+
+            <Label Margin="660,45,129,10" Name="btnTLb"/>
+
+            <Label Margin="806,45,0,10" Name="btnHelpb" Background="DarkBlue"/>
+        </Grid>
+        <Grid Margin="5,65,-5,-565">
+            <TextBlock Text="Thông Tin Về Phần Mềm: Ứng Dụng Quản Lý Thành Viên Của Võ Đường AIKIDO DOJO" Margin="135,1,124.2,517" FontSize="16" FontWeight="Bold" FontFamily="Arial"></TextBlock>
+
+            <GroupBox Margin="0,43,0.2,272" Header="Thông tin về phần mềm" FontSize="16" FontWeight="Bold" FontFamily="Arial">
+                <Grid>
+                    <TextBlock Text="Ngày Sản Xuất: 5/8/2018" Margin="37,20,696.2,179.2" FontWeight="Normal" FontSize="14" FontFamily="Arial"></TextBlock>
+                    <TextBlock Text="Nhà Phát Triển: " Margin="37,45,754.2,147.2" FontSize="14" FontWeight="Normal" FontFamily="Arial"></TextBlock>
+                    <TextBlock Text="Huỳnh Kiến Minh" Margin="98,77,541.4,117.2" FontWeight="Normal" FontSize="14" FontFamily="Arial"></TextBlock>
+                    <TextBlock Text="Võ Nhựt Kha" Margin="98,109,541.4,82.2" FontWeight="Normal" FontSize="14" FontFamily="Arial"></TextBlock>
+                    <TextBlock Text="Vương Văn Hậu" Margin="98,141,36.4,53.2" FontWeight="Normal" FontSize="14" FontFamily="Arial"></TextBlock>
+                    <TextBlock Text="Version 1.0.0" Margin="37,176,722.4,16.2" FontWeight="Normal" FontSize="14" FontFamily="Arial"/>
+                </Grid>
+            </GroupBox>
+            <GroupBox Header="Yêu cầu sử dụng" Margin="0,314,0.2,0" FontSize="16" FontWeight="Bold" FontFamily="Arial">
+                <Grid>
+                    <TextBlock Text="Yêu cầu sử dụng: Microsoft Office 2010 trở về sau, Window XP/7/8/8.1/10" FontSize="14" FontFamily="Arial" FontWeight="Normal" Margin="29,10,37.4,172.8"></TextBlock>
+                </Grid>
+            </GroupBox>
+        </Grid>
+    </Grid>
+</Window>

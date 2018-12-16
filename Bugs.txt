@@ -1,0 +1,47 @@
+﻿HẬU
+1. ADD LỚP THÊM VÀO 2 DÒNG KHI LẦN 1 ADD KHÔNG DC
+2. NHẬP NHỎ HƠN 1000 CŨNG DC
+3. NẾU SAI PHẢI BÁO CHO ADMIN
+4. PHÍ : 500000.5
+5. PHÍ : PHÍ THÁNG TRƯỚC CÓ BẮT BUỘC HOK NGƯỜI DÙNG NHẬP PHÍ THÁNG NÀY CHƯA CÓ MÀ NHẬP PHÍ THÁNG SAU
+
+QUẢN LÝ HỘI PHÍ
+6. NẾU NGƯỜI DÙNG NHẬP SAI CÓ THỂ BÁO CHO NGTA NHẬP LẠI
+7. SAO BỊ ÂM NEK
+8. KHI ENTER CÓ THỂ THÔNG BÁO CHO NGƯỜI DÙNG BIẾT MÌNH DÃ THÊM THÀNH CÔNG KHÔNG HAY LÀ NGƯỜI DÙNG NHẬP GÌ SAI THÔNG BÁO CHO NGƯỜI TA BIẾT NGƯỜI TA NHẬP LẠI
+9. Combobox hiện ALL -> hiện hết phí của các lớp 
+QUẢN LÝ LỚP
+9. BẮT LỖI SAI
+10. Trùng Tên cLass
+11. Tô màu chỗ ko hợp lệ
+
+--------------------------
+MINH
+1. CẤP 4 CHƯA CÓ MÀ CÓ CẤP 3                                ----------------------------------------------------------------------------    OKE
+2. NGÀY CẤP LỚN HƠN NGÀY HIỆN TẠI			    ----------------------------------------------------------------------------    OKE
+3. Cấp 1 CHƯA CÓ MÀ DAN AIKIDAI , VIII DAN AIKIDAI có	    ----------------------------------------------------------------------------    OKE
+4. CHƯA LƯU MÀ IN CŨNG DC			            ----------------------------------------------------------------------------    OKE									
+5. CÓ THỂ SỬA HÌNH DÀI VÀO Ô DC HOK			    ----------------------------------------------------------------------------    --- not yet								      
+6. SAO HOK CHO KIỂU SỐ ĐIỆN THOẠI NÀY +8412859669347 VỚI 01648607233 -------------------------------------------------------------------    OKE
+7. SỐ ĐIỆN THOẠI NHẬP ĐẾN 13 S                                       ---------------nhập trong khoảng 9->12 chữ số bao gồm mã vung -----    OKE
+8. LƯU NGÀY SINH MIn						     -------------------------------------------------------------------    Discuss
+9. SDT 11 SỐ HOK CHO LƯU(DƯ DẤU CÁCH HOK CHO) 01258897556 	     -------------------------------------------------------------------    OKE
+10. CHECK QUỐC TỊCH						------------------------------------------------------------------------    OKE	
+11. HỌ TÊN CHECK KÝ TỰ ĐẶC BIỆT !@#$%(()			------------------------------------------------------------------------    OKE
+12. THÊM KHUNG CHO ẢNH 					        ------------------------------------------------------------------------    Discuss 
+13. ĐỊA CHỈ NHẬP NHIỀU QUÁ THÌ SAO TẠI T THẤY LÀ NÓ HOK HIỆN HẾT -----------------------------------------------------------------------    Discuss (vẫn hiện được mà)
+SỐ 1 VÕ VĂN NGÂN PHƯỜNG LINH TRUNG QUẬN THỦ ĐỨC THÀNH PHỐ HỒ CHÍ MINH 
+14. KHÔNG THỂ IN NHIỀU LẦN KHI ĐÃ MỞ FILE WORD                   -----------------------------------------------------------------------    Discuss 
+15. CÓ THỂ LÀM MỜ ẢNH CHO T HOK				         -----------------------------------------------------------------------    No
+16. CẬP NHẬT PROVIDE DAI DAN BỊ LỖI			         -----------------------------------------------------------------------    Discuss
+17. MÃ SKU BỊ TRÙNG					         -----------------------------------------------------------------------    OKE
+18. NGÀY CẤP ĐAI LẠI CÓ THỂ HƠN NGÀY HIỆN TẠI TRONG KHI ĐÓ NGY CẤP ĐAI TIẾP THEO CHƯA CÓ -----------------------------------------------    OKE
+19. NGÀY CẤP ĐAI LỚN HƠN NGÀY HIỆN TẠI							------------------------------------------------    OKE
+20. KHÔNG CHỌN ẢNH MÀ HỆ THỐNG BÁO LỖI "ẢNH KHÔNG HỢP LỆ"                               ------------------------------------------------    Discuss
+21. Chưa đổi màu được combobox khi chưa chọn
+22. create manuest (to set adminítrator permision)-- change code -> properties project to chose main fest, 
+----------------------
+Kha
+
+1.Hiển thị Row cuối ko có dl lúc tìm kiếm -> lỡ click vô là lỗi
+->che hay bỏ cái row đó nha-> mà ko ả hưởng đến xuất excel , t thử bỏ thì khi xuất excel thì bị mất row có dữ liệu

@@ -1,0 +1,81 @@
+﻿<Window x:Class="Aikido.VIEW.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Aikido.VIEW"
+        mc:Ignorable="d"
+        Title="Home" Height="663" Width="955" ResizeMode="NoResize" WindowStartupLocation="CenterScreen">
+    <Grid Height="660" HorizontalAlignment="Center" VerticalAlignment="Top" Width="945" Margin="0,0,4,-26">
+        <Grid Height="150" HorizontalAlignment="Center" VerticalAlignment="Top" Margin="10,0" Width="925">
+            <Image Name="image" Height="118" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="38,14,0,0" Width="145" Source="/image/logo.png">
+             
+            </Image>
+            <Label Height="130" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="196,8,0,0" Width="705" BorderBrush="Black" BorderThickness="1.5"
+                       HorizontalContentAlignment="Center" VerticalContentAlignment="Center" Content="Quản Lý Hội Viên Võ Đường Aidiko Dojo"
+                       TextElement.FontFamily="Times New Roman" TextElement.FontSize="30" TextElement.FontWeight="Bold" Foreground="Blue"
+                       >
+            </Label>
+        </Grid>
+        <Grid Height="60" HorizontalAlignment="Center" VerticalAlignment="Top" Margin="10,150,0,0" Width="935" >
+            <Menu Margin="0,0,770,10" Name="btnDKHV"
+               Mouse.MouseEnter="btnDKHV_MouseEnter" Mouse.MouseLeave="btnDKHV_MouseLeave" Mouse.MouseDown="btnDKHV_MouseDown"
+               Background="White" Foreground="Blue" 
+               TextElement.FontFamily="Arial" TextElement.FontSize="15" TextElement.FontStyle="Normal" TextElement.FontWeight="Bold"
+               HorizontalContentAlignment="Center" VerticalContentAlignment="Center">
+                <MenuItem  Header="    Đăng Ký Hội Viên" Height="50" Width="165" Click="Register_Click"></MenuItem>
+            </Menu>
+
+
+            <Menu Name="btnSearch" FontSize="15" FontWeight="Bold" Background="White" FontStyle="Normal" Foreground="Blue" Margin="165,0,605,10" Mouse.MouseEnter="btnSearch_MouseEnter" Mouse.MouseLeave="btnSearch_MouseLeave">
+                <MenuItem Name="btnSearchI" Foreground="Blue" Header="         Tìm Kiếm" Height="50" Width="165" FontFamily="Arial" Background="White" Mouse.MouseEnter="btnSearch_MouseEnter" Mouse.MouseLeave="btnSearch_MouseLeave">
+                    <MenuItem Click="Quick_Click" Header="Tìm Kiếm Nhanh" Height="26" />
+                    <MenuItem Click="Condition_Click" Header="Tìm Kiếm Theo Điều Kiện" Height="26" />
+                </MenuItem>
+            </Menu>
+
+            <Menu Margin="330,0,447,10" Name= "btnQLHP"
+               Mouse.MouseEnter="btnQLHP_MouseEnter" Mouse.MouseLeave="btnQLHP_MouseLeave" Mouse.MouseDown="btnQLHP_MouseDown"
+               Background="White" Foreground="Blue" 
+               TextElement.FontFamily="Arial" TextElement.FontSize="15" TextElement.FontStyle="Normal" 
+               HorizontalContentAlignment="Center" VerticalContentAlignment="Center" TextElement.FontWeight="Bold">
+                <MenuItem Header="   Quản Lý Hội Phí" Height="50" Width="158" Click="FeeManagement_Click"></MenuItem>
+            </Menu>
+
+            <Menu Margin="488,0,275,10" Name="btnQLL"
+               Mouse.MouseEnter="btnQLL_MouseEnter" Mouse.MouseLeave="btnQLL_MouseLeave" Mouse.MouseDown="btnQLL_MouseDown"
+               Background="White" Foreground="Blue" 
+               TextElement.FontFamily="Arial" TextElement.FontSize="15" TextElement.FontStyle="Normal" 
+               HorizontalContentAlignment="Center" VerticalContentAlignment="Center" TextElement.FontWeight="Bold">
+                <MenuItem Header="       Quản Lý Lớp" Height="50" Width="172" Click="ClassManagement_Click"></MenuItem>
+            </Menu>
+
+            <Menu Margin="660,0,129,10" Name="btnTL"
+               Mouse.MouseEnter="btnTL_MouseEnter" Mouse.MouseLeave="btnTL_MouseLeave" Mouse.MouseDown="btnTL_MouseDown"
+               Background="White" Foreground="Blue" 
+               TextElement.FontFamily="Arial" TextElement.FontSize="15" TextElement.FontStyle="Normal" 
+               HorizontalContentAlignment="Center" VerticalContentAlignment="Center" TextElement.FontWeight="Bold">
+                <MenuItem Header="       Thiết Lập" Height="50" Width="146" Click="Setting_Click"></MenuItem>
+            </Menu>
+            <Menu Name="btnHelp" FontSize="15" FontWeight="Bold" FontStyle="Normal" Foreground="Blue" Height="50" Margin="806,0,0,10" 
+                  Background="White">
+                <MenuItem Click="btnHelpI_Click" Name="btnHelpI" Mouse.MouseEnter="btnHelpI_MouseEnter" Mouse.MouseLeave="btnHelpI_MouseLeave" 
+                    VerticalContentAlignment="Center" HorizontalContentAlignment="Center" Foreground="Blue" Header="      Trợ Giúp" Height="50" Width="129" FontFamily="Arial"  Background="White" >
+                    <!--<MenuItem Click="HDSD_Click" Header="Hướng dẫn sử dụng" Height="26" Margin="0,0,-2.4,0"/>
+                    <MenuItem Click="TTNPT_Click" Header="Thông tin nhà phát triển" Height="26" Margin="0,0,-0.4,0"/>-->
+                </MenuItem>
+            </Menu>
+            <Label Margin="0,45,770,10" Name="btnDKHVb"/>
+
+            <Label Margin="165,45,605,10" Name="btnSearchb"/>
+
+            <Label Margin="330,45,447,10" Name="btnQLHPb" />
+
+            <Label Margin="488,45,275,10" Name="btnQLLb"/>
+
+            <Label Margin="660,45,129,10" Name="btnTLb"/>
+
+            <Label Margin="806,45,0,10" Name="btnHelpb"/>
+        </Grid>
+    </Grid>
+</Window>
